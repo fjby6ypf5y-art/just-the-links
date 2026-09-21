@@ -2,300 +2,333 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-09-21T16:18:19Z</updated>
+  <updated>2026-09-21T16:36:59Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/feed.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
   <entry>
-    <title>In Prison, White Supremacist Literature Is Required...</title>
+    <title>In Prison, White Supremacist Literature Is Required Reading</title>
     <link rel="alternate" type="text/html" href="https://lithub.com/in-prison-white-supremacist-literature-is-required-reading"/>
     <id>urn:sha256:7103e0d1e94724abf1a8</id>
+    <summary type="text">To survive the box, you learn to fish. People on the outside call it solitary confinement, but it isn’t really, not even at a place like Upstate Correctional Facility, the supermax prison in Malone…</summary>
     <published>2026-09-21T15:32:00Z</published>
     <updated>2026-09-21T15:32:00Z</updated>
   </entry>
   <entry>
-    <title>“Starring Genden Phuntsok, Tom Hiddleston, and Willem...</title>
+    <title>Tenzing — Official Trailer | Apple TV</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KkYCY5YR12U"/>
     <id>urn:sha256:c496a6bc917b0ab237d8</id>
+    <summary type="text">Apple TV · YouTube</summary>
     <published>2026-09-21T14:48:00Z</published>
     <updated>2026-09-21T14:48:00Z</updated>
   </entry>
   <entry>
-    <title>This story, about a dressage trainer who shot his female...</title>
+    <title>She Made Me Do It</title>
     <link rel="alternate" type="text/html" href="https://www.newyorker.com/magazine/2026/09/21/the-violent-feud-that-shocked-the-horse-world"/>
     <id>urn:sha256:c0addc8b1cc64e6161fd</id>
+    <summary type="text">A prominent dressage trainer shot an annoying student—and now maintains that he’s the real victim.</summary>
     <published>2026-09-21T13:00:00Z</published>
     <updated>2026-09-21T13:00:00Z</updated>
   </entry>
   <entry>
-    <title>I am stunned that we are still finding new species of cat...</title>
+    <title>Meet Earth’s newest wild cat species, living in Bolivia and the first named in over a century</title>
     <link rel="alternate" type="text/html" href="https://www.pbs.org/newshour/science/meet-earths-newest-wild-cat-species-living-in-bolivia-and-the-first-named-in-over-a-century"/>
     <id>urn:sha256:0bd8e1c73487506d7120</id>
+    <summary type="text">A previously unknown cat species has been identified in plain sight: at a wildlife sanctuary in Bolivia, where the small, spotted feline had been living for years after being taken in by a local family.</summary>
     <published>2026-09-21T12:02:00Z</published>
     <updated>2026-09-21T12:02:00Z</updated>
   </entry>
   <entry>
-    <title>Cole Escola’s Broadway smash Oh, Mary! is coming to HBO...</title>
+    <title>Oh, Mary! Play | Official Teaser | HBO Max</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pqdrmXQgvwI"/>
     <id>urn:sha256:0b9e0f4a9b4e3a6b90d0</id>
+    <summary type="text">HBO Max · YouTube</summary>
     <published>2026-09-21T02:12:00Z</published>
     <updated>2026-09-21T02:12:00Z</updated>
   </entry>
   <entry>
-    <title>Amazing piece by Nikole Hannah-Jones about the betrayal...</title>
+    <title>In Fighting for Every Black Child, Did I Betray My Own?</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html?unlocked_article_code=1.ClE.9BH1.PRb5M6V8-n_9"/>
     <id>urn:sha256:fcef2ec4314bbaa5e18b</id>
+    <summary type="text">A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.</summary>
     <published>2026-09-21T01:14:00Z</published>
     <updated>2026-09-21T01:14:00Z</updated>
   </entry>
   <entry>
-    <title>New novel from Emily St. John Mandel (Station Eleven):...</title>
+    <title>bookshop.org</title>
     <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780593321461"/>
     <id>urn:sha256:e537458390872aaa2aa2</id>
     <published>2026-09-18T20:44:00Z</published>
     <updated>2026-09-18T20:44:00Z</updated>
   </entry>
   <entry>
-    <title>“The clan of predators currently in charge of the U.S....</title>
+    <title>Maga Foreign Policy</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352?gift=j9r7avb6p-KY8zdjhsiSZ3cnpmwcH7sN6KFJzmmA07A"/>
     <id>urn:sha256:100cf15fc0d6df67c091</id>
     <published>2026-09-18T19:10:00Z</published>
     <updated>2026-09-18T19:10:00Z</updated>
   </entry>
   <entry>
-    <title>Instant click for me: how NYC street signs are made. “The...</title>
+    <title>There Are Over 1 Million N.Y.C. Street Signs. Here’s How They Are Made.</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html?unlocked_article_code=1.CFE.hu6U.n5TW5V1vC84x"/>
     <id>urn:sha256:ee94a5065be7b78a951c</id>
+    <summary type="text">From Cornelia Street to the Brooklyn-Queens Expressway, the 46 workers in this Queens building bring to life the words and symbols that guide the city.</summary>
     <published>2026-09-18T17:09:00Z</published>
     <updated>2026-09-18T17:09:00Z</updated>
   </entry>
   <entry>
-    <title>The History of Concrete, a new documentary film by John...</title>
+    <title>The History of Concrete - Official Trailer | Directed by John Wilson | In Theaters September 18</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=O05arcJjOd0"/>
     <id>urn:sha256:3e54c7d78bcb176beacb</id>
+    <summary type="text">Magnolia Pictures &amp; Magnet Releasing · YouTube</summary>
     <published>2026-09-18T15:59:00Z</published>
     <updated>2026-09-18T15:59:00Z</updated>
   </entry>
   <entry>
-    <title>Review of a new book on Stephen Hawking. “The...</title>
+    <title>Hawking by Graham Farmelo review – the dark side of genius</title>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/books/2026/sep/07/hawking-by-graham-farmelo-review-the-dark-side-of-genius"/>
     <id>urn:sha256:4ca97cb406d2d540a08c</id>
+    <summary type="text">A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath</summary>
     <published>2026-09-18T14:59:00Z</published>
     <updated>2026-09-18T14:59:00Z</updated>
   </entry>
   <entry>
-    <title>From our own Edith Zimmerman for the New Yorker, some...</title>
+    <title>Updated Jane Austen Titles</title>
     <link rel="alternate" type="text/html" href="https://www.newyorker.com/humor/shouts-murmurs/updated-jane-austen-titles"/>
     <id>urn:sha256:3464321b4395f387d686</id>
+    <summary type="text">Including “Brain-Rot Third Space” and “Based and Vibey.”</summary>
     <published>2026-09-18T13:22:00Z</published>
     <updated>2026-09-18T13:22:00Z</updated>
   </entry>
   <entry>
-    <title>“Szilveszter Makó’s surreal portraits have become nearly...</title>
+    <title>Elizabeth Goodspeed on Szilveszter Makó and the commercial appeal of the auteur</title>
     <link rel="alternate" type="text/html" href="https://www.itsnicethat.com/articles/elizabeth-goodspeed-on-what-makes-a-mako-photography-creative-industry-160926"/>
     <id>urn:sha256:d2a9d764a99122abc7fa</id>
+    <summary type="text">Szilveszter Makó’s surreal portraits have become nearly as recognisable as the celebrities he photographs. Our US editor-at-large considers what subjects bring to a signature style – and what happens when a point of view can be commissioned on demand.</summary>
     <published>2026-09-17T21:32:00Z</published>
     <updated>2026-09-17T21:32:00Z</updated>
   </entry>
   <entry>
-    <title>New book from Ed Yong! Life Beyond Measure: Nature’s...</title>
+    <title>bookshop.org</title>
     <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780593733288"/>
     <id>urn:sha256:9399a961a69e7cd60bbc</id>
     <published>2026-09-17T19:32:00Z</published>
     <updated>2026-09-17T19:32:00Z</updated>
   </entry>
   <entry>
-    <title>Yes, this summer really was as hot as you think it was....</title>
+    <title>Yes, this summer really was as hot as you think it was</title>
     <link rel="alternate" type="text/html" href="https://grist.org/extreme-heat/yes-this-summer-really-was-as-hot-as-you-think-it-was"/>
     <id>urn:sha256:d4463a485b58b5336c61</id>
+    <summary type="text">“The numbers are just really mind-boggling.&quot;</summary>
     <published>2026-09-17T18:32:00Z</published>
     <updated>2026-09-17T18:32:00Z</updated>
   </entry>
   <entry>
-    <title>Japanese architect Tadao Ando designed a floating...</title>
+    <title>Tadao Ando Designed &amp; Donated a Floating Library that Delivers Books to Children</title>
     <link rel="alternate" type="text/html" href="https://spoon-tamago.com/tadao-ando-kagawa-floating-library"/>
     <id>urn:sha256:55689db1d28f8d41e261</id>
+    <summary type="text">Cutting through the white-capped waves of the Seto Inland Sea is a one-of-kind “floating library”. This is Hon no Mori-go (ほんのもり号) created to give children living on remote islands the opportunity to discover books and nurture their creativity. Inside the ship are shelves lined with 2000</summary>
     <published>2026-09-17T16:32:00Z</published>
     <updated>2026-09-17T16:32:00Z</updated>
   </entry>
   <entry>
-    <title>The Rumpus Book Club event for this month is a...</title>
+    <title>The September Rumpus Book Club Selection: &quot;The Odyssey&quot; with Emily Wilson</title>
     <link rel="alternate" type="text/html" href="https://therumpus.net/2026/09/01/the-september-rumpus-book-club-selection-the-odyssey-with-emily-wilson"/>
     <id>urn:sha256:d6e30a1425a6ef7c031d</id>
+    <summary type="text">Written in iambic pentameter verse, Emily Wilson’s Odyssey is a lean, fleet-footed translation that recaptures Homer’s “nimble gallop” and brings an ancient epic to new life. The New York Times named Wilson’s translation as one of its 100 notable books of 2018.</summary>
     <published>2026-09-17T15:22:00Z</published>
     <updated>2026-09-17T15:22:00Z</updated>
   </entry>
   <entry>
-    <title>The Star Wars Archives. 1977-1983. From Taschen. Looks...</title>
+    <title>bookshop.org</title>
     <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9783836598194"/>
     <id>urn:sha256:64ace894046d2fc5d9e2</id>
     <published>2026-09-17T14:27:00Z</published>
     <updated>2026-09-17T14:27:00Z</updated>
   </entry>
   <entry>
-    <title>With Adapted Sailing, the Sea Is for Everyone. “The...</title>
+    <title>With Adapted Sailing, the Sea Is for Everyone</title>
     <link rel="alternate" type="text/html" href="https://reasonstobecheerful.world/adapted-sailing-school"/>
     <id>urn:sha256:1849ae5fcc12335a4326</id>
+    <summary type="text">Thanks to specialized sailing schools and custom-built boats, people with reduced mobility can experience the freedom of open waters.</summary>
     <published>2026-09-17T13:27:00Z</published>
     <updated>2026-09-17T13:27:00Z</updated>
   </entry>
   <entry>
-    <title>Usenet-Rewind: search over 1 billion Usenet text posts...</title>
+    <title>Usenet-Rewind</title>
     <link rel="alternate" type="text/html" href="https://www.usenet-rewind.com"/>
     <id>urn:sha256:0b37fd5fbc7a51cb9f99</id>
+    <summary type="text">Search Usenet news text-message archives from 1981 to present across hundreds of thousands of newsgroups.</summary>
     <published>2026-09-16T19:49:00Z</published>
     <updated>2026-09-16T19:49:00Z</updated>
   </entry>
   <entry>
-    <title>“Figures show Japan is now home to 107,677 centenarians,...</title>
+    <title>More than 100,000 people in Japan are now 100 years of age or older</title>
     <link rel="alternate" type="text/html" href="https://www.bbc.com/news/articles/cmzezj5e18xxo"/>
     <id>urn:sha256:f73e2b1218adf6405c14</id>
+    <summary type="text">Figures show 88% of the centenarians are women as the population continues to age and shrink.</summary>
     <published>2026-09-16T18:59:00Z</published>
     <updated>2026-09-16T18:59:00Z</updated>
   </entry>
   <entry>
-    <title>Hidden in Pieces: Live at the Royal Albert Hall. A live...</title>
+    <title>Hidden in Pieces Live at the Royal Albert Hall, by Yeah Yeah Yeahs</title>
     <link rel="alternate" type="text/html" href="https://yeahyeahyeahs.bandcamp.com/album/hidden-in-pieces-live-at-the-royal-albert-hall"/>
     <id>urn:sha256:c289b59a9c40aa0e2132</id>
+    <summary type="text">22 track album</summary>
     <published>2026-09-16T16:44:00Z</published>
     <updated>2026-09-16T16:44:00Z</updated>
   </entry>
   <entry>
-    <title>Paul Ford: Aided by LLMs, people &amp; companies are...</title>
+    <title>Opinion | A.I. Slopware Is Everywhere Now. Nobody Is Using It.</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.BVE.QSvS.uRUAabNeYr8C"/>
     <id>urn:sha256:ff4850843b917f183145</id>
+    <summary type="text">Just because A.I. is revolutionizing coding, doesn’t mean it will automatically revolutionize our apps.</summary>
     <published>2026-09-16T15:59:00Z</published>
     <updated>2026-09-16T15:59:00Z</updated>
   </entry>
   <entry>
-    <title>The All of the Above Trail Fest is “deconstructing the...</title>
+    <title>This Trail Race is Reimagining the Point of Competition. Runners Can&#x27;t Get Enough</title>
     <link rel="alternate" type="text/html" href="https://www.trailrunnermag.com/people/culture-people/all-of-the-above-trail-fest-champions-inclusivity-in-running"/>
     <id>urn:sha256:677cfcbad1f5e0a481cd</id>
+    <summary type="text">All of the Above Trail Fest in Western Massachusetts celebrates queer and trans athletes and their allies while upending the status quo by doing away with podiums and timed results.</summary>
     <published>2026-09-16T15:17:00Z</published>
     <updated>2026-09-16T15:17:00Z</updated>
   </entry>
   <entry>
-    <title>We Must Create the Shit Machine. “I asked everyone I know...</title>
+    <title>We Must Create the Shit Machine</title>
     <link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine"/>
     <id>urn:sha256:7613094f84b0c868900a</id>
+    <summary type="text">“For as long as humans have created SHIT with our BODIES AND BUTTS, we have been asking this FUNDAMENTAL QUESTION: What if there were a COMPUTER that could A...</summary>
     <published>2026-09-16T12:16:00Z</published>
     <updated>2026-09-16T12:16:00Z</updated>
   </entry>
   <entry>
-    <title>The frontier Anthropic &amp; OpenAI models are only ~4 months...</title>
+    <title>Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost</title>
     <link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models"/>
     <id>urn:sha256:015cc456bec73b76ceb3</id>
+    <summary type="text">Ars previewed Mozilla’s report on how cheap open models caught up on capability.</summary>
     <published>2026-09-16T04:08:00Z</published>
     <updated>2026-09-16T04:08:00Z</updated>
   </entry>
   <entry>
-    <title>Last year in Ireland, a bouncy castle infested with a...</title>
+    <title>Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland</title>
     <link rel="alternate" type="text/html" href="https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland"/>
     <id>urn:sha256:56f868250a95f0774477</id>
+    <summary type="text">The strain lurking in the inflatable structure was hypervirulent.</summary>
     <published>2026-09-15T21:12:00Z</published>
     <updated>2026-09-15T21:12:00Z</updated>
   </entry>
   <entry>
-    <title>Naomi Klein: “Extreme wealth has a deranging effect. It...</title>
+    <title>Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’</title>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist"/>
     <id>urn:sha256:f68a99ee43428d2a7916</id>
+    <summary type="text">She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains how the super-rich are capitalising on climate and financial chaos in pursuit of power</summary>
     <published>2026-09-15T20:19:00Z</published>
     <updated>2026-09-15T20:19:00Z</updated>
   </entry>
   <entry>
-    <title>The Tube Computer was recently constructed from hundreds...</title>
+    <title>The Tube Computer</title>
     <link rel="alternate" type="text/html" href="https://www.thetubecomputer.com"/>
     <id>urn:sha256:562e79d2c2035d0eec1b</id>
     <published>2026-09-15T18:15:00Z</published>
     <updated>2026-09-15T18:15:00Z</updated>
   </entry>
   <entry>
-    <title>Alex Gibney’s documentary reveals that Elon Musk has...</title>
+    <title>Some People Think Elon Musk Snapped. The Controversial Four-Hour Documentary About Him Suggests Something Else. (Gift Article)</title>
     <link rel="alternate" type="text/html" href="https://slate.com/culture/2026/09/elon-musk-money-ai-worth-documentary-movie.html?gift_token=-BL2aBNAQbCQMHuYoWUFLA"/>
     <id>urn:sha256:b4720b5962b61fe52946</id>
+    <summary type="text">Alex Gibney’s movie has an unfortunate twist.</summary>
     <published>2026-09-15T15:29:00Z</published>
     <updated>2026-09-15T15:29:00Z</updated>
   </entry>
   <entry>
-    <title>With a new installment every seven years since 1964, the...</title>
+    <title>‘It’s the Bayeux tapestry of TV!’ After six decades, the seminal series bows out with 70 Up</title>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/tv-and-radio/2026/sep/07/seminal-series-ends-six-decades-70-up"/>
     <id>urn:sha256:87a41e7be441fb8198d0</id>
+    <summary type="text">The ‘hugely important artefact’ that’s followed 14 children since they were seven is set to air its final instalment. The now-septuagenarians and director Asif Kapadia talk about breaking new ground for 63 years – and changing TV for ever</summary>
     <published>2026-09-15T14:39:00Z</published>
     <updated>2026-09-15T14:39:00Z</updated>
   </entry>
   <entry>
-    <title>A declaration signed by 25 Fields medalists: “The goals...</title>
+    <title>A Severe Misalignment of AI in Mathematics</title>
     <link rel="alternate" type="text/html" href="https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics"/>
     <id>urn:sha256:e3632e3f1a8e041eefa3</id>
+    <summary type="text">I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</summary>
     <published>2026-09-15T12:24:00Z</published>
     <updated>2026-09-15T12:24:00Z</updated>
   </entry>
   <entry>
-    <title>From a curator at the Getty, ratings of every “framed...</title>
+    <title>Getty (@gettymuseum) on Threads</title>
     <link rel="alternate" type="text/html" href="https://www.threads.com/@gettymuseum/post/Dc1IVghmyFM"/>
     <id>urn:sha256:935e1cd4ea68c60b2613</id>
+    <summary type="text">Our paintings curator rates every &quot;framed picture&quot; emoji. 🖼️</summary>
     <published>2026-09-14T20:20:00Z</published>
     <updated>2026-09-14T20:20:00Z</updated>
   </entry>
   <entry>
-    <title>The 2026 winners of the Ig Nobel Prize include papers on...</title>
+    <title>improbable.com</title>
     <link rel="alternate" type="text/html" href="https://improbable.com/ig/winners#ig2026"/>
     <id>urn:sha256:befa22db0e5157d64a45</id>
     <published>2026-09-14T19:30:00Z</published>
     <updated>2026-09-14T19:30:00Z</updated>
   </entry>
   <entry>
-    <title>Now open for business in Nyack, NY: Busman’s Holiday, a...</title>
+    <title>Busman’s Holiday</title>
     <link rel="alternate" type="text/html" href="https://busmansholiday.shop"/>
     <id>urn:sha256:d158d3a09f642cb1f142</id>
     <published>2026-09-14T17:36:00Z</published>
     <updated>2026-09-14T17:36:00Z</updated>
   </entry>
   <entry>
-    <title>Ok wait, the NES Tetris world record is now 40.26...</title>
+    <title>40 Million Points in NES Tetris</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=nt2QNJLk1MY"/>
     <id>urn:sha256:7fb7eae0702bc99320ca</id>
+    <summary type="text">Blue Scuti · YouTube</summary>
     <published>2026-09-14T16:46:00Z</published>
     <updated>2026-09-14T16:46:00Z</updated>
   </entry>
   <entry>
-    <title>I’ve linked to Summoning Salt’s videos before (they make...</title>
+    <title>The Tournament That Changed Tetris Forever</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iYJC4QYmdog"/>
     <id>urn:sha256:9fa97bd2c5cfe4949a22</id>
+    <summary type="text">Summoning Salt · YouTube</summary>
     <published>2026-09-14T14:57:00Z</published>
     <updated>2026-09-14T14:57:00Z</updated>
   </entry>
   <entry>
-    <title>In 1992, Canada declared a moratorium on Northern cod...</title>
+    <title>As Northern cod stocks rebound, Newfoundlanders are expressing cautious optimism over a fish they nearly lostIn cod we trust</title>
     <link rel="alternate" type="text/html" href="https://www.canadianaffairs.news/2026/09/05/in-cod-we-trust"/>
     <id>urn:sha256:782f9d21de28907142d8</id>
     <published>2026-09-14T14:19:00Z</published>
     <updated>2026-09-14T14:19:00Z</updated>
   </entry>
   <entry>
-    <title>We Are Living in the Fantasy World of 13-Year-Old Boys....</title>
+    <title>Silicon Valley Science Fiction Jill Lepore Book Review</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467?gift=j9r7avb6p-KY8zdjhsiSZxS1GrKeI9kCk61Qd0lqqRo"/>
     <id>urn:sha256:ec5e7455cfb01a7303fb</id>
     <published>2026-09-14T13:02:00Z</published>
     <updated>2026-09-14T13:02:00Z</updated>
   </entry>
   <entry>
-    <title>The Way We Live Now: 11-11-01; Lost and Found, a piece...</title>
+    <title>The Way We Live Now: 11-11-01; Lost and Found (Published 2001)</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2001/11/11/magazine/the-way-we-live-now-11-11-01-lost-and-found.html?unlocked_article_code=1.BFE.CzyC.xxKeXMHdvynI"/>
     <id>urn:sha256:30c8d0c122fc87a828bb</id>
+    <summary type="text">Colson Whitehead essay about when he first defined himself as New Yorker through memories of riding subway; says New Yorkers always see city through eyes of first glimpse; each person defines it for him or herself from personal experience, and everyone&#x27;s experience of city is unique; small changes go unheralded and…</summary>
     <published>2026-09-14T00:45:00Z</published>
     <updated>2026-09-14T00:45:00Z</updated>
   </entry>
   <entry>
-    <title>Neat little prototype demo of a Bluesky reader that uses...</title>
+    <title>Pieter Montoulieu (@montoulieu.dev)</title>
     <link rel="alternate" type="text/html" href="https://bsky.app/profile/montoulieu.dev/post/3muu5higixs2i"/>
     <id>urn:sha256:a9dc5915754d0190c4f2</id>
+    <summary type="text">Anyone remember the newsreader app, Paper? Started prototyping an atproto take on it using @standard.site records</summary>
     <published>2026-09-11T17:50:00Z</published>
     <updated>2026-09-11T17:50:00Z</updated>
   </entry>
   <entry>
-    <title>A late 90s guide to Super Metroid was written in...</title>
+    <title>“I just chose words carefully.”</title>
     <link rel="alternate" type="text/html" href="https://unsung.aresluna.org/i-just-chose-words-carefully"/>
     <id>urn:sha256:51854c648c812fe9f0e0</id>
+    <summary type="text">A blog about software craft and quality</summary>
     <published>2026-09-11T16:15:00Z</published>
     <updated>2026-09-11T16:15:00Z</updated>
   </entry>
