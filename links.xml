@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-09-22T14:59:41Z</updated>
+  <updated>2026-09-23T14:30:05Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Why ‘What’s Opera, Doc?’ Looks Like That</title>
+    <link rel="alternate" type="text/html" href="https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that"/>
+    <id>urn:sha256:aeb21f44529da7854a7e</id>
+    <summary type="text">Plus: news.</summary>
+    <published>2026-09-23T13:55:00Z</published>
+    <updated>2026-09-23T13:55:00Z</updated>
+  </entry>
+  <entry>
+    <title>The 25 Photos That Changed Fashion Forever</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html?unlocked_article_code=1.DFE.lP27.xvqLSQOxocEY"/>
+    <id>urn:sha256:724975d31180f3212378</id>
+    <summary type="text">Two photographers, a fashion designer, a stylist, a creative director, an editor and a supermodel debate the images that have had an indelible impact on how we dress.</summary>
+    <published>2026-09-23T13:00:00Z</published>
+    <updated>2026-09-23T13:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>‘You Maniacs, You Blew It Up’</title>
+    <link rel="alternate" type="text/html" href="https://www.justatad.xyz/p/you-maniacs-you-blew-it-up"/>
+    <id>urn:sha256:680851697a7e91ea0466</id>
+    <summary type="text">A few words about ‘The Odyssey’</summary>
+    <published>2026-09-22T20:39:00Z</published>
+    <updated>2026-09-22T20:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>Katamari Object Library</title>
+    <link rel="alternate" type="text/html" href="https://katamari.andrew-boylan.com"/>
+    <id>urn:sha256:8c458e6087fafda593f5</id>
+    <summary type="text">A desktop-style archive of textured GLB models from Katamari Damacy and We Love Katamari.</summary>
+    <published>2026-09-22T18:42:00Z</published>
+    <updated>2026-09-22T18:42:00Z</updated>
+  </entry>
+  <entry>
+    <title>NASA Roman Telescope Alien Worlds</title>
+    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/science/2026/08/nasa-roman-telescope-alien-worlds/688426?gift=j9r7avb6p-KY8zdjhsiSZ1NT_2Qm_w9P7F_QyBy-yJU"/>
+    <id>urn:sha256:16d8a39f1de1627d4ebf</id>
+    <published>2026-09-22T17:52:00Z</published>
+    <updated>2026-09-22T17:52:00Z</updated>
+  </entry>
+  <entry>
+    <title>Canyon Groove | Real canyon terrain played as generative music</title>
+    <link rel="alternate" type="text/html" href="https://cumberlandcoast.com/canyon-groove"/>
+    <id>urn:sha256:0f2e7198fbc39578e335</id>
+    <summary type="text">Real canyon topography played as a slow, generative record. Pick a canyon, drop the needle, and let the terrain write the music. A web instrument by Jonathan Corley.</summary>
+    <published>2026-09-22T16:59:00Z</published>
+    <updated>2026-09-22T16:59:00Z</updated>
+  </entry>
+  <entry>
+    <title>Retro Blast 💫 (@retroblastpod.com)</title>
+    <link rel="alternate" type="text/html" href="https://bsky.app/profile/retroblastpod.com/post/3mvvpojppdc2g"/>
+    <id>urn:sha256:7268d471aeaf31e6be45</id>
+    <summary type="text">This author has chosen to make their posts visible only to people who are signed in.</summary>
+    <published>2026-09-22T15:03:00Z</published>
+    <updated>2026-09-22T15:03:00Z</updated>
+  </entry>
   <entry>
     <title>Art Bites Victor Hugo Notre Dame</title>
     <link rel="alternate" type="text/html" href="https://news.artnet.com/art-world/art-bites-victor-hugo-notre-dame-2802365"/>
