@@ -2,10 +2,65 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-09-23T14:30:05Z</updated>
+  <updated>2026-09-24T13:08:50Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
-  <link rel="hub" href="https://pubsubhubbub.appspot.com/"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Robert Eggers Tackling ‘Romeo and Juliet’ Adaptation as Focus Wins Bidding War (Exclusive)</title>
+    <link rel="alternate" type="text/html" href="https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-tackling-romeo-and-juliet-adaptation-1236707061"/>
+    <id>urn:sha256:16ec501b7634858e1d04</id>
+    <summary type="text">Where art thou? Here art thou: The feature project will be the filmmaker&#x27;s next after his upcoming &#x27;Werwulf.&#x27;</summary>
+    <published>2026-09-24T11:11:00Z</published>
+    <updated>2026-09-24T11:11:00Z</updated>
+  </entry>
+  <entry>
+    <title>Solitaire Alone Together</title>
+    <link rel="alternate" type="text/html" href="https://solitairealonetogether.com"/>
+    <id>urn:sha256:b5f48b200f61da4a0da0</id>
+    <summary type="text">Play solitaire with the rest of the internet.</summary>
+    <published>2026-09-23T23:56:00Z</published>
+    <updated>2026-09-23T23:56:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Museum of Time Based Art</title>
+    <link rel="alternate" type="text/html" href="http://motba.art"/>
+    <id>urn:sha256:cd368f8b376975cddfad</id>
+    <summary type="text">Celebrating artists who commit to long-duration and daily creative practices.</summary>
+    <published>2026-09-23T22:36:00Z</published>
+    <updated>2026-09-23T22:36:00Z</updated>
+  </entry>
+  <entry>
+    <title>HOPE Trailer | TIFF 2026</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0d7lZ9ZXFlc"/>
+    <id>urn:sha256:baf0460d283def55691f</id>
+    <summary type="text">TIFF · YouTube</summary>
+    <published>2026-09-23T21:12:00Z</published>
+    <updated>2026-09-23T21:12:00Z</updated>
+  </entry>
+  <entry>
+    <title>How chimps teach their kids tool tricks</title>
+    <link rel="alternate" type="text/html" href="https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks"/>
+    <id>urn:sha256:9b6d7af67ecec1f6c1ce</id>
+    <summary type="text">Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.</summary>
+    <published>2026-09-23T19:03:00Z</published>
+    <updated>2026-09-23T19:03:00Z</updated>
+  </entry>
+  <entry>
+    <title>Talk less, listen more and six other top tips on giving good advice</title>
+    <link rel="alternate" type="text/html" href="https://www.theguardian.com/lifeandstyle/2026/sep/18/tips-giving-good-advice"/>
+    <id>urn:sha256:a4504b8c6fd9e5ce046b</id>
+    <summary type="text">Are you someone who thinks they have all the answers? Is your experience relevant here? Experts on the questions to ask yourself before giving advice</summary>
+    <published>2026-09-23T16:45:00Z</published>
+    <updated>2026-09-23T16:45:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wildlife leader explains viral butterfly wing transplant</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/Y4pLUD3U1AM"/>
+    <id>urn:sha256:50a1c22f8176e48dbe8d</id>
+    <summary type="text">KTLA 5 · YouTube</summary>
+    <published>2026-09-23T14:35:00Z</published>
+    <updated>2026-09-23T14:35:00Z</updated>
+  </entry>
   <entry>
     <title>Why ‘What’s Opera, Doc?’ Looks Like That</title>
     <link rel="alternate" type="text/html" href="https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that"/>
