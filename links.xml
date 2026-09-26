@@ -2,9 +2,72 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-09-25T14:30:01Z</updated>
+  <updated>2026-09-26T14:30:01Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Chop up your books | Attainable Felicity | Matt Kirkland</title>
+    <link rel="alternate" type="text/html" href="https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html"/>
+    <id>urn:sha256:4a57f362a72e319db6bc</id>
+    <summary type="text">Matt Kirkland is a designer. He probably reads too much.</summary>
+    <published>2026-09-25T21:29:00Z</published>
+    <updated>2026-09-25T21:29:00Z</updated>
+  </entry>
+  <entry>
+    <title>Madden - Official Teaser | Prime Video</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KjOL6n0F0T8"/>
+    <id>urn:sha256:fed55dbb7acc95b782e9</id>
+    <summary type="text">Prime Video · YouTube</summary>
+    <published>2026-09-25T20:39:00Z</published>
+    <updated>2026-09-25T20:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>What if America Went Completely Dark?</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html?unlocked_article_code=1.DVE.aani.d0qM5n0DF9wb"/>
+    <id>urn:sha256:f57ed8c9e86f61d77d1a</id>
+    <summary type="text">The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.</summary>
+    <published>2026-09-25T19:39:00Z</published>
+    <updated>2026-09-25T19:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>Max Richter - Now We Can Sing (Visualiser)</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uZf2jkCI6Fo"/>
+    <id>urn:sha256:c6bb6d0b0559bbc01f15</id>
+    <summary type="text">Max Richter · YouTube</summary>
+    <published>2026-09-25T18:49:00Z</published>
+    <updated>2026-09-25T18:49:00Z</updated>
+  </entry>
+  <entry>
+    <title>catfishing - the Wikipedia guessing game</title>
+    <link rel="alternate" type="text/html" href="https://catfishing.net"/>
+    <id>urn:sha256:f5ce8851be87db8db762</id>
+    <summary type="text">Guess the Wikipedia article from its categories. 10 interesting people, places, and things to guess every day.</summary>
+    <published>2026-09-25T17:44:00Z</published>
+    <updated>2026-09-25T17:44:00Z</updated>
+  </entry>
+  <entry>
+    <title>iNCYNC — Terry Riley: In C</title>
+    <link rel="alternate" type="text/html" href="https://incync.space/incync.html"/>
+    <id>urn:sha256:e7c6c8d94821a0d1e039</id>
+    <summary type="text">Play multiple recordings of Terry Riley&#x27;s In C simultaneously. Adjust playback rate to sync tempos across performances. Scores of recordings spanning over a half-century.</summary>
+    <published>2026-09-25T16:54:00Z</published>
+    <updated>2026-09-25T16:54:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Metric Is Not The Mission History Rarely Announces Itself</title>
+    <link rel="alternate" type="text/html" href="https://www.techdirt.com/2026/09/21/the-metric-is-not-the-mission-history-rarely-announces-itself"/>
+    <id>urn:sha256:c950a87f9edbc6cca229</id>
+    <published>2026-09-25T15:54:00Z</published>
+    <updated>2026-09-25T15:54:00Z</updated>
+  </entry>
+  <entry>
+    <title>Romania soccer introduces black card to ‘combat abusive behaviour’ from parents at youth games</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee?unlocked_article_code=1.DVE.y6jX.0LGjt9QdMiMY"/>
+    <id>urn:sha256:578332dc33b396ea2ea6</id>
+    <summary type="text">The card can be used to permanently cancel the match if they “observe inappropriate behaviour from spectators or parents&quot;.</summary>
+    <published>2026-09-25T15:00:00Z</published>
+    <updated>2026-09-25T15:00:00Z</updated>
+  </entry>
   <entry>
     <title>Sagrada Familia</title>
     <link rel="alternate" type="text/html" href="https://www.lego.com/en-us/product/sagrada-familia-21065"/>
