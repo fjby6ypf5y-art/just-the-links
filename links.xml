@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-09-28T14:30:00Z</updated>
+  <updated>2026-09-29T14:30:05Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Opinion | I Once Celebrated Marriage. Things Have Changed.</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html?unlocked_article_code=1.E1E.mSTS.BJywvqjLSfLm"/>
+    <id>urn:sha256:005210815e2e008cb7bb</id>
+    <summary type="text">Eleven years later, the novelist revisits a guest essay she wrote about marriage.</summary>
+    <published>2026-09-29T13:22:00Z</published>
+    <updated>2026-09-29T13:22:00Z</updated>
+  </entry>
+  <entry>
+    <title>OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html?unlocked_article_code=1.E1E.UaSY.RtoDXudZ-IMV"/>
+    <id>urn:sha256:6f74f826ee4a48c9dcef</id>
+    <summary type="text">The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.</summary>
+    <published>2026-09-29T01:55:00Z</published>
+    <updated>2026-09-29T01:55:00Z</updated>
+  </entry>
+  <entry>
+    <title>An Argument</title>
+    <link rel="alternate" type="text/html" href="https://www.thisamericanlife.org/898/an-argument"/>
+    <id>urn:sha256:5b7f4a84cd6351919488</id>
+    <summary type="text">Nikole Hannah-Jones famously argued for sending her daughter to a regular public school in NYC. Ten years later, she revisits that choice.</summary>
+    <published>2026-09-29T01:25:00Z</published>
+    <updated>2026-09-29T01:25:00Z</updated>
+  </entry>
+  <entry>
+    <title>Stevie Wonder Unvaults Four Songs in the Key of Life Tracks</title>
+    <link rel="alternate" type="text/html" href="https://pitchfork.com/story/stevie-wonder-unvaults-four-songs-in-the-key-of-life-tracks"/>
+    <id>urn:sha256:e4c39fa2d0f0ece2df37</id>
+    <summary type="text">“We didn’t add these songs to the album, but they were part of what I was feeling and discovering as we made it,” says Wonder</summary>
+    <published>2026-09-29T00:45:00Z</published>
+    <updated>2026-09-29T00:45:00Z</updated>
+  </entry>
   <entry>
     <title>Chop up your books | Attainable Felicity | Matt Kirkland</title>
     <link rel="alternate" type="text/html" href="https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html"/>
