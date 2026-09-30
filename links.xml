@@ -2,9 +2,53 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-09-29T14:30:05Z</updated>
+  <updated>2026-09-30T14:30:06Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts</title>
+    <link rel="alternate" type="text/html" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches"/>
+    <id>urn:sha256:49096ea516a5ba46312a</id>
+    <summary type="text">Manchester City breached Premier League financial rules by creating ‘sham’ contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found</summary>
+    <published>2026-09-30T13:03:00Z</published>
+    <updated>2026-09-30T13:03:00Z</updated>
+  </entry>
+  <entry>
+    <title>Treat your to-read pile like a river</title>
+    <link rel="alternate" type="text/html" href="https://www.oliverburkeman.com/river"/>
+    <id>urn:sha256:575b7493b4261414bcfe</id>
+    <published>2026-09-29T23:40:00Z</published>
+    <updated>2026-09-29T23:40:00Z</updated>
+  </entry>
+  <entry>
+    <title>Web Dev Education</title>
+    <link rel="alternate" type="text/html" href="https://molily.de/web-dev-education"/>
+    <id>urn:sha256:3b45bae29fda7f2c3e60</id>
+    <published>2026-09-29T20:17:00Z</published>
+    <updated>2026-09-29T20:17:00Z</updated>
+  </entry>
+  <entry>
+    <title>inessential: That About Wraps It Up for Stock Mac UI</title>
+    <link rel="alternate" type="text/html" href="https://inessential.com/2026/09/22/that-about-wraps-it-up-for.html"/>
+    <id>urn:sha256:6a1fe3868d74e6901fd9</id>
+    <published>2026-09-29T19:12:00Z</published>
+    <updated>2026-09-29T19:12:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Bizarre Murky History Of Soviet Born Tetris</title>
+    <link rel="alternate" type="text/html" href="https://thereader.mitpress.mit.edu/the-bizarre-murky-history-of-soviet-born-tetris"/>
+    <id>urn:sha256:5915ec7b83f6be34aa8f</id>
+    <published>2026-09-29T16:59:00Z</published>
+    <updated>2026-09-29T16:59:00Z</updated>
+  </entry>
+  <entry>
+    <title>Commodified Intelligence</title>
+    <link rel="alternate" type="text/html" href="https://herecomesthemoon.net/2026/09/commodified-intelligence"/>
+    <id>urn:sha256:26038e142e05dacec17b</id>
+    <summary type="text">This is a website, which means it sometimes goes offline</summary>
+    <published>2026-09-29T15:32:00Z</published>
+    <updated>2026-09-29T15:32:00Z</updated>
+  </entry>
   <entry>
     <title>Opinion | I Once Celebrated Marriage. Things Have Changed.</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html?unlocked_article_code=1.E1E.mSTS.BJywvqjLSfLm"/>
