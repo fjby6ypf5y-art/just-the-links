@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-01T14:30:00Z</updated>
+  <updated>2026-10-02T14:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>A Kelvin Wave Is Heading Toward the California Coast, Bringing Trouble</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html?unlocked_article_code=1.FlE.7Qi-.QQLXHZa3eyE7"/>
+    <id>urn:sha256:c034459379c3dc75239a</id>
+    <summary type="text">An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.</summary>
+    <published>2026-10-02T13:00:00Z</published>
+    <updated>2026-10-02T13:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Student Journalists Who Never Let the Cornell Assault Case Go</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html?unlocked_article_code=1.FlE.fY24.WJzc1CCqhiAp"/>
+    <id>urn:sha256:91bc8aea42ead16bad95</id>
+    <summary type="text">The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity house since they were first made in 2024 and led the reporting on the case.</summary>
+    <published>2026-10-02T11:30:00Z</published>
+    <updated>2026-10-02T11:30:00Z</updated>
+  </entry>
+  <entry>
+    <title>The best multi day hikes in the world (2026 edition)</title>
+    <link rel="alternate" type="text/html" href="https://www.we12travel.com/best-multi-day-hikes-in-the-world"/>
+    <id>urn:sha256:0891f3943d47c5fae3da</id>
+    <summary type="text">Our list of the best multi-day hikes in the world, the 2023 edition incl. treks in Europa, Asia, Oceania and the Amer</summary>
+    <published>2026-10-01T21:00:00Z</published>
+    <updated>2026-10-01T21:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Lobster is Lobster — Guess the Language</title>
+    <link rel="alternate" type="text/html" href="https://lobsterislobster.online"/>
+    <id>urn:sha256:02475dbbb6eb55624b3f</id>
+    <summary type="text">A word appears. You guess which language it was translated into. Free, no sign-up, a new word every round.</summary>
+    <published>2026-10-01T19:34:00Z</published>
+    <updated>2026-10-01T19:34:00Z</updated>
+  </entry>
+  <entry>
+    <title>bookshop.org</title>
+    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780063566286"/>
+    <id>urn:sha256:0b16b546ab787ce63822</id>
+    <published>2026-10-01T18:30:00Z</published>
+    <updated>2026-10-01T18:30:00Z</updated>
+  </entry>
+  <entry>
+    <title>We Are Coming</title>
+    <link rel="alternate" type="text/html" href="https://www.patreon.com/everyframeapainting/posts/we-are-coming-171022989"/>
+    <id>urn:sha256:16fea67cade7cc8cabb9</id>
+    <published>2026-10-01T16:00:00Z</published>
+    <updated>2026-10-01T16:00:00Z</updated>
+  </entry>
   <entry>
     <title>Kindle Paperwhite 16 GB | Fastest Kindle E-Reader</title>
     <link rel="alternate" type="text/html" href="https://www.amazon.com/exec/obidos/ASIN/B0GHT67RG2/ref=nosim/0sil8"/>
@@ -735,43 +781,5 @@
     <summary type="text">Summoning Salt · YouTube</summary>
     <published>2026-09-14T14:57:00Z</published>
     <updated>2026-09-14T14:57:00Z</updated>
-  </entry>
-  <entry>
-    <title>As Northern cod stocks rebound, Newfoundlanders are expressing cautious optimism over a fish they nearly lostIn cod we trust</title>
-    <link rel="alternate" type="text/html" href="https://www.canadianaffairs.news/2026/09/05/in-cod-we-trust"/>
-    <id>urn:sha256:782f9d21de28907142d8</id>
-    <published>2026-09-14T14:19:00Z</published>
-    <updated>2026-09-14T14:19:00Z</updated>
-  </entry>
-  <entry>
-    <title>Silicon Valley Science Fiction Jill Lepore Book Review</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/books/2026/08/silicon-valley-science-fiction-jill-lepore-book-review/688467?gift=j9r7avb6p-KY8zdjhsiSZxS1GrKeI9kCk61Qd0lqqRo"/>
-    <id>urn:sha256:ec5e7455cfb01a7303fb</id>
-    <published>2026-09-14T13:02:00Z</published>
-    <updated>2026-09-14T13:02:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Way We Live Now: 11-11-01; Lost and Found (Published 2001)</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2001/11/11/magazine/the-way-we-live-now-11-11-01-lost-and-found.html?unlocked_article_code=1.BFE.CzyC.xxKeXMHdvynI"/>
-    <id>urn:sha256:30c8d0c122fc87a828bb</id>
-    <summary type="text">Colson Whitehead essay about when he first defined himself as New Yorker through memories of riding subway; says New Yorkers always see city through eyes of first glimpse; each person defines it for him or herself from personal experience, and everyone&#x27;s experience of city is unique; small changes go unheralded and…</summary>
-    <published>2026-09-14T00:45:00Z</published>
-    <updated>2026-09-14T00:45:00Z</updated>
-  </entry>
-  <entry>
-    <title>Pieter Montoulieu (@montoulieu.dev)</title>
-    <link rel="alternate" type="text/html" href="https://bsky.app/profile/montoulieu.dev/post/3muu5higixs2i"/>
-    <id>urn:sha256:a9dc5915754d0190c4f2</id>
-    <summary type="text">Anyone remember the newsreader app, Paper? Started prototyping an atproto take on it using @standard.site records</summary>
-    <published>2026-09-11T17:50:00Z</published>
-    <updated>2026-09-11T17:50:00Z</updated>
-  </entry>
-  <entry>
-    <title>“I just chose words carefully.”</title>
-    <link rel="alternate" type="text/html" href="https://unsung.aresluna.org/i-just-chose-words-carefully"/>
-    <id>urn:sha256:51854c648c812fe9f0e0</id>
-    <summary type="text">A blog about software craft and quality</summary>
-    <published>2026-09-11T16:15:00Z</published>
-    <updated>2026-09-11T16:15:00Z</updated>
   </entry>
 </feed>
