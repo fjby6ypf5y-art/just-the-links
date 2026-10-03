@@ -2,9 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-02T14:30:00Z</updated>
+  <updated>2026-10-03T14:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Opinion | Is American Culture Simply Bad Now?</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html?unlocked_article_code=1.FlE.bsoX.syedk1-gqXz7"/>
+    <id>urn:sha256:808323eb2638d2848951</id>
+    <summary type="text">The world order is changing. So is the United States’ place in it.</summary>
+    <published>2026-10-03T13:24:23Z</published>
+    <updated>2026-10-03T13:24:23Z</updated>
+  </entry>
+  <entry>
+    <title>Undercover restorers fix Paris landmark&#x27;s clock</title>
+    <link rel="alternate" type="text/html" href="https://www.theguardian.com/world/2007/nov/26/france.artnews"/>
+    <id>urn:sha256:714a645809dc062dbe3a</id>
+    <summary type="text">Cultural guerrillas&#x27; cleared of lawbreaking over secret workshop in Pantheon</summary>
+    <published>2026-10-02T21:18:00Z</published>
+    <updated>2026-10-02T21:18:00Z</updated>
+  </entry>
+  <entry>
+    <title>OrySnack: The Bar Where Bartenders Work From Home</title>
+    <link rel="alternate" type="text/html" href="https://spoon-tamago.com/orysnack-avatar-bartender"/>
+    <id>urn:sha256:eb23f3e65c396a053206</id>
+    <summary type="text">As the sun sets in Tokyo, its alleyways become illuminated by the lights of &quot;sunakku&quot; snack bars. But OrySnack is illuminated by something entirely different: the gentle, glowing eyes of six small humanoid robots that are pouring drinks and interacting with customers. But you would be mistaken to as</summary>
+    <published>2026-10-02T20:18:00Z</published>
+    <updated>2026-10-02T20:18:00Z</updated>
+  </entry>
+  <entry>
+    <title>Don&#x27;t Cook That — real recipes from old cookbooks that you should absolutely not make</title>
+    <link rel="alternate" type="text/html" href="https://dontcookthat.com"/>
+    <id>urn:sha256:fb93347ebae46779bf88</id>
+    <summary type="text">Peacock roasted in its own feathers. Beer made of sulphuric acid. Bread leavened with hydrochloric acid. 144 recipes printed in earnest in real cookbooks between 1831 and 1929. Please do not make any of them.</summary>
+    <published>2026-10-02T18:00:00Z</published>
+    <updated>2026-10-02T18:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Bayeux Tapestry of Fascism: The Stephen Collins cartoon</title>
+    <link rel="alternate" type="text/html" href="https://www.theguardian.com/lifeandstyle/picture/2026/sep/18/the-bayeux-tapestry-of-fascism-the-stephen-collins-cartoon"/>
+    <id>urn:sha256:1776fa1faecd2787685c</id>
+    <summary type="text">Contemporary British political life is a rich tapestry indeed</summary>
+    <published>2026-10-02T15:40:00Z</published>
+    <updated>2026-10-02T15:40:00Z</updated>
+  </entry>
   <entry>
     <title>A Kelvin Wave Is Heading Toward the California Coast, Bringing Trouble</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html?unlocked_article_code=1.FlE.7Qi-.QQLXHZa3eyE7"/>
@@ -743,43 +783,5 @@
     <summary type="text">I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</summary>
     <published>2026-09-15T12:24:00Z</published>
     <updated>2026-09-15T12:24:00Z</updated>
-  </entry>
-  <entry>
-    <title>Getty (@gettymuseum) on Threads</title>
-    <link rel="alternate" type="text/html" href="https://www.threads.com/@gettymuseum/post/Dc1IVghmyFM"/>
-    <id>urn:sha256:935e1cd4ea68c60b2613</id>
-    <summary type="text">Our paintings curator rates every &quot;framed picture&quot; emoji. 🖼️</summary>
-    <published>2026-09-14T20:20:00Z</published>
-    <updated>2026-09-14T20:20:00Z</updated>
-  </entry>
-  <entry>
-    <title>improbable.com</title>
-    <link rel="alternate" type="text/html" href="https://improbable.com/ig/winners#ig2026"/>
-    <id>urn:sha256:befa22db0e5157d64a45</id>
-    <published>2026-09-14T19:30:00Z</published>
-    <updated>2026-09-14T19:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>Busman’s Holiday</title>
-    <link rel="alternate" type="text/html" href="https://busmansholiday.shop"/>
-    <id>urn:sha256:d158d3a09f642cb1f142</id>
-    <published>2026-09-14T17:36:00Z</published>
-    <updated>2026-09-14T17:36:00Z</updated>
-  </entry>
-  <entry>
-    <title>40 Million Points in NES Tetris</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=nt2QNJLk1MY"/>
-    <id>urn:sha256:7fb7eae0702bc99320ca</id>
-    <summary type="text">Blue Scuti · YouTube</summary>
-    <published>2026-09-14T16:46:00Z</published>
-    <updated>2026-09-14T16:46:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Tournament That Changed Tetris Forever</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=iYJC4QYmdog"/>
-    <id>urn:sha256:9fa97bd2c5cfe4949a22</id>
-    <summary type="text">Summoning Salt · YouTube</summary>
-    <published>2026-09-14T14:57:00Z</published>
-    <updated>2026-09-14T14:57:00Z</updated>
   </entry>
 </feed>
