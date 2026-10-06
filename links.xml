@@ -2,9 +2,70 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-05T14:30:02Z</updated>
+  <updated>2026-10-06T14:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps</title>
+    <link rel="alternate" type="text/html" href="https://www.danvk.org/2026/09/10/mapsnap.html"/>
+    <id>urn:sha256:0d796f6ac76e45cc9aa0</id>
+    <published>2026-10-06T14:00:00Z</published>
+    <updated>2026-10-06T14:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chinese Checkers AI - JumpStar Engine, Rules, and Benchmarks</title>
+    <link rel="alternate" type="text/html" href="https://chinesecheckers.ai/chinese-checkers-ai"/>
+    <id>urn:sha256:fad425b35d6c15e35d4a</id>
+    <summary type="text">Learn how JumpStar plays Chinese Checkers: rules, strategy, self-play training, model design, benchmark evidence, and the free iPhone app.</summary>
+    <published>2026-10-06T04:32:00Z</published>
+    <updated>2026-10-06T04:32:00Z</updated>
+  </entry>
+  <entry>
+    <title>randomtvtime.com</title>
+    <link rel="alternate" type="text/html" href="https://randomtvtime.com"/>
+    <id>urn:sha256:fea3b5161616490fc305</id>
+    <published>2026-10-05T21:20:00Z</published>
+    <updated>2026-10-05T21:20:00Z</updated>
+  </entry>
+  <entry>
+    <title>Opinion | The Path to Great Art Is Not Through A.I.</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem"/>
+    <id>urn:sha256:8ea984bd17b6050ba3d4</id>
+    <summary type="text">Anything worth remembering came from a person who did not know where she or he was going until arriving.</summary>
+    <published>2026-10-05T20:19:00Z</published>
+    <updated>2026-10-05T20:19:00Z</updated>
+  </entry>
+  <entry>
+    <title>Opinion | The ‘Stalin Boys’ Go to the History Fair</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/01/opinion/joseph-stalin-middle-school.html?unlocked_article_code=1.GVE.wF80.O8jwZ1B_D3dX"/>
+    <id>urn:sha256:8f036fce8b460b6d1179</id>
+    <summary type="text">Middle school introduces us to complicated history. These kids wrote a play about Joseph Stalin.</summary>
+    <published>2026-10-05T18:27:00Z</published>
+    <updated>2026-10-05T18:27:00Z</updated>
+  </entry>
+  <entry>
+    <title>Nappy | Beautifully Diverse Stock Photos</title>
+    <link rel="alternate" type="text/html" href="https://nappy.co"/>
+    <id>urn:sha256:b5b3a369967dafbb055e</id>
+    <summary type="text">Beautiful photos of Black and Brown people, for free. For commercial and personal use.</summary>
+    <published>2026-10-05T17:37:00Z</published>
+    <updated>2026-10-05T17:37:00Z</updated>
+  </entry>
+  <entry>
+    <title>mappingtariffs.org</title>
+    <link rel="alternate" type="text/html" href="https://mappingtariffs.org/map"/>
+    <id>urn:sha256:88f10154ff7f547a8c38</id>
+    <published>2026-10-05T15:32:00Z</published>
+    <updated>2026-10-05T15:32:00Z</updated>
+  </entry>
+  <entry>
+    <title>John Roberts and His Island</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/01/us/politics/supreme-court-roberts-maine.html?unlocked_article_code=1.FVE.67C_.wUqbR8eoPNdG"/>
+    <id>urn:sha256:012e31027b282966ced9</id>
+    <summary type="text">After decades of potlucks and paddle-boarding on Maine’s midcoast, rising anger and protests have left the Supreme Court’s chief justice more isolated than ever.</summary>
+    <published>2026-10-05T14:40:00Z</published>
+    <updated>2026-10-05T14:40:00Z</updated>
+  </entry>
   <entry>
     <title>Opinion | Is American Culture Simply Bad Now?</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html?unlocked_article_code=1.FlE.bsoX.syedk1-gqXz7"/>
@@ -720,68 +781,5 @@
     <summary type="text">All of the Above Trail Fest in Western Massachusetts celebrates queer and trans athletes and their allies while upending the status quo by doing away with podiums and timed results.</summary>
     <published>2026-09-16T15:17:00Z</published>
     <updated>2026-09-16T15:17:00Z</updated>
-  </entry>
-  <entry>
-    <title>We Must Create the Shit Machine</title>
-    <link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/we-must-create-the-shit-machine"/>
-    <id>urn:sha256:7613094f84b0c868900a</id>
-    <summary type="text">“For as long as humans have created SHIT with our BODIES AND BUTTS, we have been asking this FUNDAMENTAL QUESTION: What if there were a COMPUTER that could A...</summary>
-    <published>2026-09-16T12:16:00Z</published>
-    <updated>2026-09-16T12:16:00Z</updated>
-  </entry>
-  <entry>
-    <title>Exclusive: Paying for frontier AI models buys 4-month head start at 5x the cost</title>
-    <link rel="alternate" type="text/html" href="https://arstechnica.com/ai/2026/09/exclusive-open-chinese-models-close-gap-with-silicon-valleys-frontier-ai-models"/>
-    <id>urn:sha256:015cc456bec73b76ceb3</id>
-    <summary type="text">Ars previewed Mozilla’s report on how cheap open models caught up on capability.</summary>
-    <published>2026-09-16T04:08:00Z</published>
-    <updated>2026-09-16T04:08:00Z</updated>
-  </entry>
-  <entry>
-    <title>Bouncy castle launches horrifying MRSA outbreak, striking 48 kids in Ireland</title>
-    <link rel="alternate" type="text/html" href="https://arstechnica.com/health/2026/09/bouncy-castle-launches-horrifying-mrsa-outbreak-striking-48-kids-in-ireland"/>
-    <id>urn:sha256:56f868250a95f0774477</id>
-    <summary type="text">The strain lurking in the inflatable structure was hypervirulent.</summary>
-    <published>2026-09-15T21:12:00Z</published>
-    <updated>2026-09-15T21:12:00Z</updated>
-  </entry>
-  <entry>
-    <title>Naomi Klein: ‘Extreme wealth has a deranging effect. It turns you into a supremacist’</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/books/2026/sep/12/naomi-klein-extreme-wealth-has-a-deranging-effect-it-turns-you-into-a-supremacist"/>
-    <id>urn:sha256:f68a99ee43428d2a7916</id>
-    <summary type="text">She’s tackled neoliberalism and the digital world, now the writer and activist is taking on tech billionaires. She explains how the super-rich are capitalising on climate and financial chaos in pursuit of power</summary>
-    <published>2026-09-15T20:19:00Z</published>
-    <updated>2026-09-15T20:19:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Tube Computer</title>
-    <link rel="alternate" type="text/html" href="https://www.thetubecomputer.com"/>
-    <id>urn:sha256:562e79d2c2035d0eec1b</id>
-    <published>2026-09-15T18:15:00Z</published>
-    <updated>2026-09-15T18:15:00Z</updated>
-  </entry>
-  <entry>
-    <title>Some People Think Elon Musk Snapped. The Controversial Four-Hour Documentary About Him Suggests Something Else. (Gift Article)</title>
-    <link rel="alternate" type="text/html" href="https://slate.com/culture/2026/09/elon-musk-money-ai-worth-documentary-movie.html?gift_token=-BL2aBNAQbCQMHuYoWUFLA"/>
-    <id>urn:sha256:b4720b5962b61fe52946</id>
-    <summary type="text">Alex Gibney’s movie has an unfortunate twist.</summary>
-    <published>2026-09-15T15:29:00Z</published>
-    <updated>2026-09-15T15:29:00Z</updated>
-  </entry>
-  <entry>
-    <title>‘It’s the Bayeux tapestry of TV!’ After six decades, the seminal series bows out with 70 Up</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/tv-and-radio/2026/sep/07/seminal-series-ends-six-decades-70-up"/>
-    <id>urn:sha256:87a41e7be441fb8198d0</id>
-    <summary type="text">The ‘hugely important artefact’ that’s followed 14 children since they were seven is set to air its final instalment. The now-septuagenarians and director Asif Kapadia talk about breaking new ground for 63 years – and changing TV for ever</summary>
-    <published>2026-09-15T14:39:00Z</published>
-    <updated>2026-09-15T14:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>A Severe Misalignment of AI in Mathematics</title>
-    <link rel="alternate" type="text/html" href="https://terrytao.wordpress.com/2026/09/11/a-severe-misalignment-of-ai-in-mathematics"/>
-    <id>urn:sha256:e3632e3f1a8e041eefa3</id>
-    <summary type="text">I am proud to be among the list of 25 initial signatories — all Fields Medallists — to the declaration below, which grew out of discussions between ourselves over the last week. We have…</summary>
-    <published>2026-09-15T12:24:00Z</published>
-    <updated>2026-09-15T12:24:00Z</updated>
   </entry>
 </feed>
