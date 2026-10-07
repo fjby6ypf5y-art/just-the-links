@@ -2,9 +2,55 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-06T14:30:00Z</updated>
+  <updated>2026-10-07T14:30:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>118 Things to Do Instead of Doomscrolling</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/wirecutter/reviews/advice-doomscrolling-alternatives"/>
+    <id>urn:sha256:46a63e0f2eb0ea88d64f</id>
+    <summary type="text">There are so many things to do once you put your phone down. Scroll our list for inspiration.</summary>
+    <published>2026-10-07T13:14:00Z</published>
+    <updated>2026-10-07T13:14:00Z</updated>
+  </entry>
+  <entry>
+    <title>Gboard くるくるバージョン</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DAn34l_YrUM"/>
+    <id>urn:sha256:778a20b58252d3cb27f5</id>
+    <summary type="text">Google Japan · YouTube</summary>
+    <published>2026-10-06T21:20:00Z</published>
+    <updated>2026-10-06T21:20:00Z</updated>
+  </entry>
+  <entry>
+    <title>Things That Are Good To Do</title>
+    <link rel="alternate" type="text/html" href="https://www.quarter--mile.com/Things-That-Are-Good-to-Do"/>
+    <id>urn:sha256:8df59ffe35412fb4c2fa</id>
+    <published>2026-10-06T19:01:00Z</published>
+    <updated>2026-10-06T19:01:00Z</updated>
+  </entry>
+  <entry>
+    <title>Can the KKK find a new foothold in the US?</title>
+    <link rel="alternate" type="text/html" href="https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us"/>
+    <id>urn:sha256:44a044184d0b35ac9474</id>
+    <summary type="text">The infamous hate group is trying to rebrand itself as the &#x27;Knights Party&#x27; in an attempt to grow its base.</summary>
+    <published>2026-10-06T18:31:00Z</published>
+    <updated>2026-10-06T18:31:00Z</updated>
+  </entry>
+  <entry>
+    <title>Profile of Mark Zuckerberg</title>
+    <link rel="alternate" type="text/html" href="https://colossus.com/article/mark-zuckerberg-profile"/>
+    <id>urn:sha256:7c5494adebcbebe93e9f</id>
+    <summary type="text">A journey to the heart of history’s largest nonterritorial empire</summary>
+    <published>2026-10-06T16:01:00Z</published>
+    <updated>2026-10-06T16:01:00Z</updated>
+  </entry>
+  <entry>
+    <title>Merrily We Roll Along (film) - Wikipedia</title>
+    <link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/Merrily_We_Roll_Along_(film)"/>
+    <id>urn:sha256:82601ea514f01a6835d5</id>
+    <published>2026-10-06T14:44:00Z</published>
+    <updated>2026-10-06T14:44:00Z</updated>
+  </entry>
   <entry>
     <title>Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps</title>
     <link rel="alternate" type="text/html" href="https://www.danvk.org/2026/09/10/mapsnap.html"/>
@@ -733,53 +779,5 @@
     <id>urn:sha256:64ace894046d2fc5d9e2</id>
     <published>2026-09-17T14:27:00Z</published>
     <updated>2026-09-17T14:27:00Z</updated>
-  </entry>
-  <entry>
-    <title>With Adapted Sailing, the Sea Is for Everyone</title>
-    <link rel="alternate" type="text/html" href="https://reasonstobecheerful.world/adapted-sailing-school"/>
-    <id>urn:sha256:1849ae5fcc12335a4326</id>
-    <summary type="text">Thanks to specialized sailing schools and custom-built boats, people with reduced mobility can experience the freedom of open waters.</summary>
-    <published>2026-09-17T13:27:00Z</published>
-    <updated>2026-09-17T13:27:00Z</updated>
-  </entry>
-  <entry>
-    <title>Usenet-Rewind</title>
-    <link rel="alternate" type="text/html" href="https://www.usenet-rewind.com"/>
-    <id>urn:sha256:0b37fd5fbc7a51cb9f99</id>
-    <summary type="text">Search Usenet news text-message archives from 1981 to present across hundreds of thousands of newsgroups.</summary>
-    <published>2026-09-16T19:49:00Z</published>
-    <updated>2026-09-16T19:49:00Z</updated>
-  </entry>
-  <entry>
-    <title>More than 100,000 people in Japan are now 100 years of age or older</title>
-    <link rel="alternate" type="text/html" href="https://www.bbc.com/news/articles/cmzezj5e18xxo"/>
-    <id>urn:sha256:f73e2b1218adf6405c14</id>
-    <summary type="text">Figures show 88% of the centenarians are women as the population continues to age and shrink.</summary>
-    <published>2026-09-16T18:59:00Z</published>
-    <updated>2026-09-16T18:59:00Z</updated>
-  </entry>
-  <entry>
-    <title>Hidden in Pieces Live at the Royal Albert Hall, by Yeah Yeah Yeahs</title>
-    <link rel="alternate" type="text/html" href="https://yeahyeahyeahs.bandcamp.com/album/hidden-in-pieces-live-at-the-royal-albert-hall"/>
-    <id>urn:sha256:c289b59a9c40aa0e2132</id>
-    <summary type="text">22 track album</summary>
-    <published>2026-09-16T16:44:00Z</published>
-    <updated>2026-09-16T16:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>Opinion | A.I. Slopware Is Everywhere Now. Nobody Is Using It.</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/12/opinion/ai-software-coding-apps.html?unlocked_article_code=1.BVE.QSvS.uRUAabNeYr8C"/>
-    <id>urn:sha256:ff4850843b917f183145</id>
-    <summary type="text">Just because A.I. is revolutionizing coding, doesn’t mean it will automatically revolutionize our apps.</summary>
-    <published>2026-09-16T15:59:00Z</published>
-    <updated>2026-09-16T15:59:00Z</updated>
-  </entry>
-  <entry>
-    <title>This Trail Race is Reimagining the Point of Competition. Runners Can&#x27;t Get Enough</title>
-    <link rel="alternate" type="text/html" href="https://www.trailrunnermag.com/people/culture-people/all-of-the-above-trail-fest-champions-inclusivity-in-running"/>
-    <id>urn:sha256:677cfcbad1f5e0a481cd</id>
-    <summary type="text">All of the Above Trail Fest in Western Massachusetts celebrates queer and trans athletes and their allies while upending the status quo by doing away with podiums and timed results.</summary>
-    <published>2026-09-16T15:17:00Z</published>
-    <updated>2026-09-16T15:17:00Z</updated>
   </entry>
 </feed>
