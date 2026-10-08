@@ -2,9 +2,64 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-07T14:30:04Z</updated>
+  <updated>2026-10-08T14:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Global Rise of Electoral Dictatorships. Is the U.S. Next? Midterms Could Decide.</title>
+    <link rel="alternate" type="text/html" href="https://theemancipator.org/2026/10/06/ideas/the-global-rise-of-electoral-dictatorships-is-the-u-s-next-midterms-could-decide"/>
+    <id>urn:sha256:6f345f0b1c985a11573b</id>
+    <summary type="text">When Americans first elected Donald Trump president in 2016, there were nearly 4 billion people living in nations where they could vote in fair and competitive elections. Last year, when Trump took office again, this estimate had fallen by half, to barely above 2 billion. In the intervening years, the number of people…</summary>
+    <published>2026-10-08T13:10:00Z</published>
+    <updated>2026-10-08T13:10:00Z</updated>
+  </entry>
+  <entry>
+    <title>Saul Bass and the art of movie title design</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Q_Mo0MqICXI"/>
+    <id>urn:sha256:16eb87a24bf3414d6519</id>
+    <summary type="text">Little White Lies · YouTube</summary>
+    <published>2026-10-08T11:30:00Z</published>
+    <updated>2026-10-08T11:30:00Z</updated>
+  </entry>
+  <entry>
+    <title>Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html?unlocked_article_code=1.HFE.bx1O.RusUdZLMA7_k"/>
+    <id>urn:sha256:d2e5bf7b98b8d4db19de</id>
+    <summary type="text">Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.</summary>
+    <published>2026-10-08T00:10:00Z</published>
+    <updated>2026-10-08T00:10:00Z</updated>
+  </entry>
+  <entry>
+    <title>Type.lol: Independent Type Foundry Index</title>
+    <link rel="alternate" type="text/html" href="https://type.lol/studies/where-type-comes-from"/>
+    <id>urn:sha256:8d67f3d4ac7ac8b5c244</id>
+    <summary type="text">Discover and explore independent type foundries from around the world. Browse 900+ foundries, 18,000+ typefaces, and 2,700+ designers.</summary>
+    <published>2026-10-07T21:23:00Z</published>
+    <updated>2026-10-07T21:23:00Z</updated>
+  </entry>
+  <entry>
+    <title>AI-generated posters don’t have to be horrible</title>
+    <link rel="alternate" type="text/html" href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"/>
+    <id>urn:sha256:b9c21ef0e3f58c4a5749</id>
+    <summary type="text">Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.</summary>
+    <published>2026-10-07T19:03:00Z</published>
+    <updated>2026-10-07T19:03:00Z</updated>
+  </entry>
+  <entry>
+    <title>NASA Details Earthquake Effects on the Earth</title>
+    <link rel="alternate" type="text/html" href="https://www.jpl.nasa.gov/news/nasa-details-earthquake-effects-on-the-earth"/>
+    <id>urn:sha256:49ce9524fbd2d43bafd4</id>
+    <published>2026-10-07T18:03:00Z</published>
+    <updated>2026-10-07T18:03:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Job Trail</title>
+    <link rel="alternate" type="text/html" href="https://labs.ficuscreative.com/job_trail"/>
+    <id>urn:sha256:77d184d57bde518d6808</id>
+    <summary type="text">It is 2026. You have been laid off. Somewhere there is a job.</summary>
+    <published>2026-10-07T15:22:00Z</published>
+    <updated>2026-10-07T15:22:00Z</updated>
+  </entry>
   <entry>
     <title>118 Things to Do Instead of Doomscrolling</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/wirecutter/reviews/advice-doomscrolling-alternatives"/>
@@ -725,59 +780,5 @@
     <summary type="text">A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath</summary>
     <published>2026-09-18T14:59:00Z</published>
     <updated>2026-09-18T14:59:00Z</updated>
-  </entry>
-  <entry>
-    <title>Updated Jane Austen Titles</title>
-    <link rel="alternate" type="text/html" href="https://www.newyorker.com/humor/shouts-murmurs/updated-jane-austen-titles"/>
-    <id>urn:sha256:3464321b4395f387d686</id>
-    <summary type="text">Including “Brain-Rot Third Space” and “Based and Vibey.”</summary>
-    <published>2026-09-18T13:22:00Z</published>
-    <updated>2026-09-18T13:22:00Z</updated>
-  </entry>
-  <entry>
-    <title>Elizabeth Goodspeed on Szilveszter Makó and the commercial appeal of the auteur</title>
-    <link rel="alternate" type="text/html" href="https://www.itsnicethat.com/articles/elizabeth-goodspeed-on-what-makes-a-mako-photography-creative-industry-160926"/>
-    <id>urn:sha256:d2a9d764a99122abc7fa</id>
-    <summary type="text">Szilveszter Makó’s surreal portraits have become nearly as recognisable as the celebrities he photographs. Our US editor-at-large considers what subjects bring to a signature style – and what happens when a point of view can be commissioned on demand.</summary>
-    <published>2026-09-17T21:32:00Z</published>
-    <updated>2026-09-17T21:32:00Z</updated>
-  </entry>
-  <entry>
-    <title>bookshop.org</title>
-    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780593733288"/>
-    <id>urn:sha256:9399a961a69e7cd60bbc</id>
-    <published>2026-09-17T19:32:00Z</published>
-    <updated>2026-09-17T19:32:00Z</updated>
-  </entry>
-  <entry>
-    <title>Yes, this summer really was as hot as you think it was</title>
-    <link rel="alternate" type="text/html" href="https://grist.org/extreme-heat/yes-this-summer-really-was-as-hot-as-you-think-it-was"/>
-    <id>urn:sha256:d4463a485b58b5336c61</id>
-    <summary type="text">“The numbers are just really mind-boggling.&quot;</summary>
-    <published>2026-09-17T18:32:00Z</published>
-    <updated>2026-09-17T18:32:00Z</updated>
-  </entry>
-  <entry>
-    <title>Tadao Ando Designed &amp; Donated a Floating Library that Delivers Books to Children</title>
-    <link rel="alternate" type="text/html" href="https://spoon-tamago.com/tadao-ando-kagawa-floating-library"/>
-    <id>urn:sha256:55689db1d28f8d41e261</id>
-    <summary type="text">Cutting through the white-capped waves of the Seto Inland Sea is a one-of-kind “floating library”. This is Hon no Mori-go (ほんのもり号) created to give children living on remote islands the opportunity to discover books and nurture their creativity. Inside the ship are shelves lined with 2000</summary>
-    <published>2026-09-17T16:32:00Z</published>
-    <updated>2026-09-17T16:32:00Z</updated>
-  </entry>
-  <entry>
-    <title>The September Rumpus Book Club Selection: &quot;The Odyssey&quot; with Emily Wilson</title>
-    <link rel="alternate" type="text/html" href="https://therumpus.net/2026/09/01/the-september-rumpus-book-club-selection-the-odyssey-with-emily-wilson"/>
-    <id>urn:sha256:d6e30a1425a6ef7c031d</id>
-    <summary type="text">Written in iambic pentameter verse, Emily Wilson’s Odyssey is a lean, fleet-footed translation that recaptures Homer’s “nimble gallop” and brings an ancient epic to new life. The New York Times named Wilson’s translation as one of its 100 notable books of 2018.</summary>
-    <published>2026-09-17T15:22:00Z</published>
-    <updated>2026-09-17T15:22:00Z</updated>
-  </entry>
-  <entry>
-    <title>bookshop.org</title>
-    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9783836598194"/>
-    <id>urn:sha256:64ace894046d2fc5d9e2</id>
-    <published>2026-09-17T14:27:00Z</published>
-    <updated>2026-09-17T14:27:00Z</updated>
   </entry>
 </feed>
