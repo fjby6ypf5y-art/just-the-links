@@ -2,9 +2,41 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-08T14:30:00Z</updated>
+  <updated>2026-10-09T14:30:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Still On Its Way to Cleveland</title>
+    <link rel="alternate" type="text/html" href="https://longreads.com/2026/09/22/family-road-trip-early-internet-90s"/>
+    <id>urn:sha256:59b092b3997526379ea8</id>
+    <summary type="text">Nine months, 25,000 miles, one phone cord, and the kindness of strangers.</summary>
+    <published>2026-10-08T21:31:00Z</published>
+    <updated>2026-10-08T21:31:00Z</updated>
+  </entry>
+  <entry>
+    <title>Abolish frat culture</title>
+    <link rel="alternate" type="text/html" href="https://besskalb.substack.com/p/abolish-frat-culture"/>
+    <id>urn:sha256:608b2f02ede0d900fbf1</id>
+    <summary type="text">On “The Good Guy With the Text” fallacy</summary>
+    <published>2026-10-08T18:48:00Z</published>
+    <updated>2026-10-08T18:48:00Z</updated>
+  </entry>
+  <entry>
+    <title>Any Human Ever</title>
+    <link rel="alternate" type="text/html" href="https://anyhumanever.com"/>
+    <id>urn:sha256:e9ff40fb88b4188cb795</id>
+    <summary type="text">One life, drawn at random from all who have ever lived.</summary>
+    <published>2026-10-08T17:58:00Z</published>
+    <updated>2026-10-08T17:58:00Z</updated>
+  </entry>
+  <entry>
+    <title>Mamdani’s “Richard Scarry Socialism” Can Make City Life Simple Again</title>
+    <link rel="alternate" type="text/html" href="https://www.currentaffairs.org/news/mamdanis-richard-scarry-socialism-can-make-city-life-simple-again"/>
+    <id>urn:sha256:76968c0450a59ff59250</id>
+    <summary type="text">The NYC mayor is trying to build a city that functions like a city in a children&#x27;s picture book, where people aren’t caught in a web of lies and scams.</summary>
+    <published>2026-10-08T15:50:00Z</published>
+    <updated>2026-10-08T15:50:00Z</updated>
+  </entry>
   <entry>
     <title>The Global Rise of Electoral Dictatorships. Is the U.S. Next? Midterms Could Decide.</title>
     <link rel="alternate" type="text/html" href="https://theemancipator.org/2026/10/06/ideas/the-global-rise-of-electoral-dictatorships-is-the-u-s-next-midterms-could-decide"/>
@@ -749,36 +781,5 @@
     <id>urn:sha256:e537458390872aaa2aa2</id>
     <published>2026-09-18T20:44:00Z</published>
     <updated>2026-09-18T20:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>Maga Foreign Policy</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/magazine/2026/10/maga-foreign-policy/688352?gift=j9r7avb6p-KY8zdjhsiSZ3cnpmwcH7sN6KFJzmmA07A"/>
-    <id>urn:sha256:100cf15fc0d6df67c091</id>
-    <published>2026-09-18T19:10:00Z</published>
-    <updated>2026-09-18T19:10:00Z</updated>
-  </entry>
-  <entry>
-    <title>There Are Over 1 Million N.Y.C. Street Signs. Here’s How They Are Made.</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/15/nyregion/nyc-street-sign-shop.html?unlocked_article_code=1.CFE.hu6U.n5TW5V1vC84x"/>
-    <id>urn:sha256:ee94a5065be7b78a951c</id>
-    <summary type="text">From Cornelia Street to the Brooklyn-Queens Expressway, the 46 workers in this Queens building bring to life the words and symbols that guide the city.</summary>
-    <published>2026-09-18T17:09:00Z</published>
-    <updated>2026-09-18T17:09:00Z</updated>
-  </entry>
-  <entry>
-    <title>The History of Concrete - Official Trailer | Directed by John Wilson | In Theaters September 18</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=O05arcJjOd0"/>
-    <id>urn:sha256:3e54c7d78bcb176beacb</id>
-    <summary type="text">Magnolia Pictures &amp; Magnet Releasing · YouTube</summary>
-    <published>2026-09-18T15:59:00Z</published>
-    <updated>2026-09-18T15:59:00Z</updated>
-  </entry>
-  <entry>
-    <title>Hawking by Graham Farmelo review – the dark side of genius</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/books/2026/sep/07/hawking-by-graham-farmelo-review-the-dark-side-of-genius"/>
-    <id>urn:sha256:4ca97cb406d2d540a08c</id>
-    <summary type="text">A biography of the physicist recognises his achievements, but also reveals the selfish narcissist underneath</summary>
-    <published>2026-09-18T14:59:00Z</published>
-    <updated>2026-09-18T14:59:00Z</updated>
   </entry>
 </feed>
