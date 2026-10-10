@@ -2,9 +2,54 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-09T14:30:04Z</updated>
+  <updated>2026-10-10T14:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Crossword Clues Where It’s Clear the Puzzle’s Creator Got Themselves into a Jam Letter-wise</title>
+    <link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/crossword-clues-where-its-clear-the-puzzles-creator-got-themselves-into-a-jam-letter-wise"/>
+    <id>urn:sha256:e541b27b93baeff0e2e8</id>
+    <summary type="text">- The National Association of Xylophone X-Ray Zebra Paleontologists, briefly - The sound a chicken bone may make when accidentally dropped into a garbage dis...</summary>
+    <published>2026-10-10T14:10:00Z</published>
+    <updated>2026-10-10T14:10:00Z</updated>
+  </entry>
+  <entry>
+    <title>bookshop.org</title>
+    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9798217177912"/>
+    <id>urn:sha256:2e20852043c1ddfc550b</id>
+    <published>2026-10-09T20:38:00Z</published>
+    <updated>2026-10-09T20:38:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tokyo Underground Club Reading Rave</title>
+    <link rel="alternate" type="text/html" href="https://edm.com/events/tokyo-underground-club-reading-rave"/>
+    <id>urn:sha256:82ebfd0dcb37be9f9c4b</id>
+    <published>2026-10-09T18:48:00Z</published>
+    <updated>2026-10-09T18:48:00Z</updated>
+  </entry>
+  <entry>
+    <title>funwithcomputervision.com</title>
+    <link rel="alternate" type="text/html" href="https://www.funwithcomputervision.com/weball"/>
+    <id>urn:sha256:e9ffbfbc6dd9dd01392f</id>
+    <published>2026-10-09T17:38:00Z</published>
+    <updated>2026-10-09T17:38:00Z</updated>
+  </entry>
+  <entry>
+    <title>Incense Burner, #healing #incense #meditation #relaxing Agarwood Incense</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/8sUXgrnhnDs"/>
+    <id>urn:sha256:6f977e7476cde5a97a57</id>
+    <summary type="text">Chinese Incense Lore Culture · YouTube</summary>
+    <published>2026-10-09T15:48:00Z</published>
+    <updated>2026-10-09T15:48:00Z</updated>
+  </entry>
+  <entry>
+    <title>Opinion | I’m Exhausted. You’re Demoralized. We Weren’t Built for a World Like This.</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/29/opinion/boring-politics-exhaustion.html?unlocked_article_code=1.HFE.t0sk.4XH2lsIc1ylj"/>
+    <id>urn:sha256:553e315808374a2623c5</id>
+    <summary type="text">A greatly underappreciated virtue of other presidents was that you could forget about them for weeks at a time.</summary>
+    <published>2026-10-09T14:28:21Z</published>
+    <updated>2026-10-09T14:28:21Z</updated>
+  </entry>
   <entry>
     <title>Still On Its Way to Cleveland</title>
     <link rel="alternate" type="text/html" href="https://longreads.com/2026/09/22/family-road-trip-early-internet-90s"/>
@@ -734,52 +779,5 @@
     <summary type="text">To survive the box, you learn to fish. People on the outside call it solitary confinement, but it isn’t really, not even at a place like Upstate Correctional Facility, the supermax prison in Malone…</summary>
     <published>2026-09-21T15:32:00Z</published>
     <updated>2026-09-21T15:32:00Z</updated>
-  </entry>
-  <entry>
-    <title>Tenzing — Official Trailer | Apple TV</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KkYCY5YR12U"/>
-    <id>urn:sha256:c496a6bc917b0ab237d8</id>
-    <summary type="text">Apple TV · YouTube</summary>
-    <published>2026-09-21T14:48:00Z</published>
-    <updated>2026-09-21T14:48:00Z</updated>
-  </entry>
-  <entry>
-    <title>She Made Me Do It</title>
-    <link rel="alternate" type="text/html" href="https://www.newyorker.com/magazine/2026/09/21/the-violent-feud-that-shocked-the-horse-world"/>
-    <id>urn:sha256:c0addc8b1cc64e6161fd</id>
-    <summary type="text">A prominent dressage trainer shot an annoying student—and now maintains that he’s the real victim.</summary>
-    <published>2026-09-21T13:00:00Z</published>
-    <updated>2026-09-21T13:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Meet Earth’s newest wild cat species, living in Bolivia and the first named in over a century</title>
-    <link rel="alternate" type="text/html" href="https://www.pbs.org/newshour/science/meet-earths-newest-wild-cat-species-living-in-bolivia-and-the-first-named-in-over-a-century"/>
-    <id>urn:sha256:0bd8e1c73487506d7120</id>
-    <summary type="text">A previously unknown cat species has been identified in plain sight: at a wildlife sanctuary in Bolivia, where the small, spotted feline had been living for years after being taken in by a local family.</summary>
-    <published>2026-09-21T12:02:00Z</published>
-    <updated>2026-09-21T12:02:00Z</updated>
-  </entry>
-  <entry>
-    <title>Oh, Mary! Play | Official Teaser | HBO Max</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=pqdrmXQgvwI"/>
-    <id>urn:sha256:0b9e0f4a9b4e3a6b90d0</id>
-    <summary type="text">HBO Max · YouTube</summary>
-    <published>2026-09-21T02:12:00Z</published>
-    <updated>2026-09-21T02:12:00Z</updated>
-  </entry>
-  <entry>
-    <title>In Fighting for Every Black Child, Did I Betray My Own?</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/20/magazine/ny-public-schools-black-students-segregation.html?unlocked_article_code=1.ClE.9BH1.PRb5M6V8-n_9"/>
-    <id>urn:sha256:fcef2ec4314bbaa5e18b</id>
-    <summary type="text">A decade ago, I made a decision about my daughter’s education that I hoped would challenge New York City’s separate and unequal school system. Now 16, she thinks I made the wrong choice.</summary>
-    <published>2026-09-21T01:14:00Z</published>
-    <updated>2026-09-21T01:14:00Z</updated>
-  </entry>
-  <entry>
-    <title>bookshop.org</title>
-    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780593321461"/>
-    <id>urn:sha256:e537458390872aaa2aa2</id>
-    <published>2026-09-18T20:44:00Z</published>
-    <updated>2026-09-18T20:44:00Z</updated>
   </entry>
 </feed>
