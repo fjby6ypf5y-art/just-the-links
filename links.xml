@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-11T14:30:00Z</updated>
+  <updated>2026-10-12T14:30:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Lost &amp; found in Tokyo: a first-timer&#x27;s adventure</title>
+    <link rel="alternate" type="text/html" href="https://a.wholelottanothing.org/travelogue-a-week-in"/>
+    <id>urn:sha256:cda2ecb1f24c0c0cad80</id>
+    <summary type="text">I’ve wanted to visit Japan since the 1990s but I used to think it would be too overwhelming. I worried it&#x27;d be hard to navigate, difficult to find fun stuff to do, and not easy to enjoy a new country where I had a significant language barrier to</summary>
+    <published>2026-10-12T13:16:00Z</published>
+    <updated>2026-10-12T13:16:00Z</updated>
+  </entry>
   <entry>
     <title>Crossword Clues Where It’s Clear the Puzzle’s Creator Got Themselves into a Jam Letter-wise</title>
     <link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/crossword-clues-where-its-clear-the-puzzles-creator-got-themselves-into-a-jam-letter-wise"/>
@@ -771,13 +779,5 @@
     <id>urn:sha256:7930afb2dd83b3562cad</id>
     <published>2026-09-21T17:40:00Z</published>
     <updated>2026-09-21T17:40:00Z</updated>
-  </entry>
-  <entry>
-    <title>In Prison, White Supremacist Literature Is Required Reading</title>
-    <link rel="alternate" type="text/html" href="https://lithub.com/in-prison-white-supremacist-literature-is-required-reading"/>
-    <id>urn:sha256:7103e0d1e94724abf1a8</id>
-    <summary type="text">To survive the box, you learn to fish. People on the outside call it solitary confinement, but it isn’t really, not even at a place like Upstate Correctional Facility, the supermax prison in Malone…</summary>
-    <published>2026-09-21T15:32:00Z</published>
-    <updated>2026-09-21T15:32:00Z</updated>
   </entry>
 </feed>
