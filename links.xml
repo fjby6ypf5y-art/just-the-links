@@ -2,9 +2,57 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-14T14:30:00Z</updated>
+  <updated>2026-10-15T14:30:04Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Lord of The Rings: The Rings of Power - Season 3 Teaser | Prime Video</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QmS7WuI9u40"/>
+    <id>urn:sha256:455b559b8de627c1577f</id>
+    <summary type="text">Prime Video · YouTube</summary>
+    <published>2026-10-15T13:39:00Z</published>
+    <updated>2026-10-15T13:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>Tiny Little Office: the link is the document</title>
+    <link rel="alternate" type="text/html" href="https://tinylittleoffice.com"/>
+    <id>urn:sha256:01a6a4425b65f1aa07ea</id>
+    <summary type="text">A tiny office suite where the link is the document. No accounts. Nothing is saved anywhere unless you choose to keep it on this device.</summary>
+    <published>2026-10-15T12:39:00Z</published>
+    <updated>2026-10-15T12:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>Time to De-Privatize</title>
+    <link rel="alternate" type="text/html" href="https://prospect.org/2026/10/13/time-to-de-privatize-federal-government"/>
+    <id>urn:sha256:ee3f976d0b7530b31b6b</id>
+    <summary type="text">When the Democrats take back Congress, we need an agenda to return public functions to government and reverse decades of privatization.</summary>
+    <published>2026-10-14T20:33:00Z</published>
+    <updated>2026-10-14T20:33:00Z</updated>
+  </entry>
+  <entry>
+    <title>BBC Global Women on Instagram: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech #WomenInSTEM&quot;</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/reels/DeUg8S4ilYY"/>
+    <id>urn:sha256:48ec602b675c1e65e1eb</id>
+    <summary type="text">42K likes, 1,137 comments - bbcglobalwomen on October 10, 2026: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat…</summary>
+    <published>2026-10-14T19:38:00Z</published>
+    <updated>2026-10-14T19:38:00Z</updated>
+  </entry>
+  <entry>
+    <title>‘Digger’ has a lot of haters. Here’s why they’re wrong.</title>
+    <link rel="alternate" type="text/html" href="https://grist.org/culture/digger-has-a-lot-of-haters-heres-why-theyre-wrong"/>
+    <id>urn:sha256:39acf14635dde2a66888</id>
+    <summary type="text">It&#x27;s a film well-worth seeing — and talking about.</summary>
+    <published>2026-10-14T17:18:00Z</published>
+    <updated>2026-10-14T17:18:00Z</updated>
+  </entry>
+  <entry>
+    <title>Redesigning source control at Anthropic</title>
+    <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic"/>
+    <id>urn:sha256:7e289d45dfc4cd8f5fef</id>
+    <summary type="text">Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the …</summary>
+    <published>2026-10-14T16:08:00Z</published>
+    <updated>2026-10-14T16:08:00Z</updated>
+  </entry>
   <entry>
     <title>bookshop.org</title>
     <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780063277571"/>
@@ -733,53 +781,5 @@
     <summary type="text">Celebrating artists who commit to long-duration and daily creative practices.</summary>
     <published>2026-09-23T22:36:00Z</published>
     <updated>2026-09-23T22:36:00Z</updated>
-  </entry>
-  <entry>
-    <title>HOPE Trailer | TIFF 2026</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=0d7lZ9ZXFlc"/>
-    <id>urn:sha256:baf0460d283def55691f</id>
-    <summary type="text">TIFF · YouTube</summary>
-    <published>2026-09-23T21:12:00Z</published>
-    <updated>2026-09-23T21:12:00Z</updated>
-  </entry>
-  <entry>
-    <title>How chimps teach their kids tool tricks</title>
-    <link rel="alternate" type="text/html" href="https://arstechnica.com/science/2026/09/how-chimps-teach-their-kids-tool-tricks"/>
-    <id>urn:sha256:9b6d7af67ecec1f6c1ce</id>
-    <summary type="text">Adults first demonstrate tool use, then hand over the implements to their infants, who copy the behavior.</summary>
-    <published>2026-09-23T19:03:00Z</published>
-    <updated>2026-09-23T19:03:00Z</updated>
-  </entry>
-  <entry>
-    <title>Talk less, listen more and six other top tips on giving good advice</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/lifeandstyle/2026/sep/18/tips-giving-good-advice"/>
-    <id>urn:sha256:a4504b8c6fd9e5ce046b</id>
-    <summary type="text">Are you someone who thinks they have all the answers? Is your experience relevant here? Experts on the questions to ask yourself before giving advice</summary>
-    <published>2026-09-23T16:45:00Z</published>
-    <updated>2026-09-23T16:45:00Z</updated>
-  </entry>
-  <entry>
-    <title>Wildlife leader explains viral butterfly wing transplant</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/Y4pLUD3U1AM"/>
-    <id>urn:sha256:50a1c22f8176e48dbe8d</id>
-    <summary type="text">KTLA 5 · YouTube</summary>
-    <published>2026-09-23T14:35:00Z</published>
-    <updated>2026-09-23T14:35:00Z</updated>
-  </entry>
-  <entry>
-    <title>Why ‘What’s Opera, Doc?’ Looks Like That</title>
-    <link rel="alternate" type="text/html" href="https://animationobsessive.substack.com/p/why-whats-opera-doc-looks-like-that"/>
-    <id>urn:sha256:aeb21f44529da7854a7e</id>
-    <summary type="text">Plus: news.</summary>
-    <published>2026-09-23T13:55:00Z</published>
-    <updated>2026-09-23T13:55:00Z</updated>
-  </entry>
-  <entry>
-    <title>The 25 Photos That Changed Fashion Forever</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/08/t-magazine/top-fashion-photographs.html?unlocked_article_code=1.DFE.lP27.xvqLSQOxocEY"/>
-    <id>urn:sha256:724975d31180f3212378</id>
-    <summary type="text">Two photographers, a fashion designer, a stylist, a creative director, an editor and a supermodel debate the images that have had an indelible impact on how we dress.</summary>
-    <published>2026-09-23T13:00:00Z</published>
-    <updated>2026-09-23T13:00:00Z</updated>
   </entry>
 </feed>
