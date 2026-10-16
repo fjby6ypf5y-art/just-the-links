@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-16T12:30:00Z</updated>
+  <updated>2026-10-16T14:15:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>(not) solitaire</title>
+    <link rel="alternate" type="text/html" href="https://notsolitaire.com"/>
+    <id>urn:sha256:4cb9dbe19967c9aea7af</id>
+    <summary type="text">Play Draw 2 Solitaire alongside other players.</summary>
+    <content type="html">&lt;p&gt;Play Draw 2 Solitaire alongside other players.&lt;/p&gt;&lt;p&gt;&lt;em&gt;(not) solitaire&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-16T14:15:00Z</published>
+    <updated>2026-10-16T14:15:00Z</updated>
+  </entry>
   <entry>
     <title>Giant African Snails Florida Invasion</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850?gift=j9r7avb6p-KY8zdjhsiSZ9IEFROcHGnWzwgRnuCmPl0"/>
@@ -860,14 +869,5 @@
     <content type="html">&lt;p&gt;&amp;#x27;Now We Can Sing&amp;#x27;, the first single from Max Richter&amp;#x27;s new album &amp;#x27;While The Flood Rages&amp;#x27;, out 16 October. Pre-save: https://maxrichter.lnk.to/WTFRPre-order: ...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · MaxRichterVEVO&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-25T18:49:00Z</published>
     <updated>2026-09-25T18:49:00Z</updated>
-  </entry>
-  <entry>
-    <title>the Wikipedia guessing game</title>
-    <link rel="alternate" type="text/html" href="https://catfishing.net"/>
-    <id>urn:sha256:f5ce8851be87db8db762</id>
-    <summary type="text">Guess the Wikipedia article from its categories. 10 interesting people, places, and things to guess every day.</summary>
-    <content type="html">&lt;p&gt;Guess the Wikipedia article from its categories. 10 interesting people, places, and things to guess every day.&lt;/p&gt;&lt;p&gt;&lt;em&gt;catfishing&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-25T17:44:00Z</published>
-    <updated>2026-09-25T17:44:00Z</updated>
   </entry>
 </feed>
