@@ -2,14 +2,67 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-15T14:30:04Z</updated>
+  <updated>2026-10-15T21:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Beautiful Seamless Ride</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vcMhIjBYFBU"/>
+    <id>urn:sha256:c7c018085349bb12992f</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://vimeo.com/649589757&quot;&gt;vimeo.com&lt;/a&gt;, &lt;a href=&quot;https://alastairhumphreys.com&quot;&gt;alastairhumphreys.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-15T21:00:00Z</published>
+    <updated>2026-10-15T21:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>Camera Shutter Skeuomorph</title>
+    <link rel="alternate" type="text/html" href="https://www.jarrettfuller.blog/2026/09/camera-shutter-skeuomorph"/>
+    <id>urn:sha256:c0587ac8c091c312cbde</id>
+    <published>2026-10-15T19:39:00Z</published>
+    <updated>2026-10-15T19:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>github.com</title>
+    <link rel="alternate" type="text/html" href="https://github.com/LingDong-/fishdraw"/>
+    <id>urn:sha256:8b797298875c0ce97af3</id>
+    <published>2026-10-15T18:15:00Z</published>
+    <updated>2026-10-15T18:15:00Z</updated>
+  </entry>
+  <entry>
+    <title>How Hunting Owls Use Sound to “See” Under the Snow</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ykcs1U0lNtE"/>
+    <id>urn:sha256:8261950c831f4fcecc94</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=kXucblbKmFA&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=BYjVVBFgl3c&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Nature_of_Things&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@natureofthings/videos&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-15T16:55:00Z</published>
+    <updated>2026-10-15T16:55:00Z</updated>
+  </entry>
+  <entry>
+    <title>How Many Shots Are In The Average</title>
+    <link rel="alternate" type="text/html" href="https://stephenfollows.com/p/how-many-shots-are-in-the-average"/>
+    <id>urn:sha256:fa90181e335d293e40ac</id>
+    <published>2026-10-15T16:15:00Z</published>
+    <updated>2026-10-15T16:15:00Z</updated>
+  </entry>
+  <entry>
+    <title>bookshop.org</title>
+    <link rel="alternate" type="text/html" href="https://bookshop.org/book/9780316581585"/>
+    <id>urn:sha256:ef4b07d467f45998a4de</id>
+    <published>2026-10-15T15:32:00Z</published>
+    <updated>2026-10-15T15:32:00Z</updated>
+  </entry>
+  <entry>
+    <title>Where You Should Live: Five Factors to Keep in Mind</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/Dd1TAzgJU4s"/>
+    <id>urn:sha256:a5b0003b052938cbf1c4</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.instagram.com/bobbyinspace&quot;&gt;instagram.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-15T14:32:00Z</published>
+    <updated>2026-10-15T14:32:00Z</updated>
+  </entry>
   <entry>
     <title>The Lord of The Rings: The Rings of Power - Season 3 Teaser | Prime Video</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=QmS7WuI9u40"/>
     <id>urn:sha256:455b559b8de627c1577f</id>
     <summary type="text">Prime Video · YouTube</summary>
+    <content type="html">&lt;p&gt;Prime Video · YouTube&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Prime Video&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-15T13:39:00Z</published>
     <updated>2026-10-15T13:39:00Z</updated>
   </entry>
@@ -18,14 +71,23 @@
     <link rel="alternate" type="text/html" href="https://tinylittleoffice.com"/>
     <id>urn:sha256:01a6a4425b65f1aa07ea</id>
     <summary type="text">A tiny office suite where the link is the document. No accounts. Nothing is saved anywhere unless you choose to keep it on this device.</summary>
+    <content type="html">&lt;p&gt;A tiny office suite where the link is the document. No accounts. Nothing is saved anywhere unless you choose to keep it on this device.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tiny Little Office&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-15T12:39:00Z</published>
     <updated>2026-10-15T12:39:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Muffled Thud of Fire in the Hole</title>
+    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580?gift=j9r7avb6p-KY8zdjhsiSZxeSahTOBZ8n1XamG1Qqr1Y"/>
+    <id>urn:sha256:54f04370b328eba1e0ae</id>
+    <published>2026-10-14T21:40:00Z</published>
+    <updated>2026-10-14T21:40:00Z</updated>
   </entry>
   <entry>
     <title>Time to De-Privatize</title>
     <link rel="alternate" type="text/html" href="https://prospect.org/2026/10/13/time-to-de-privatize-federal-government"/>
     <id>urn:sha256:ee3f976d0b7530b31b6b</id>
     <summary type="text">When the Democrats take back Congress, we need an agenda to return public functions to government and reverse decades of privatization.</summary>
+    <content type="html">&lt;p&gt;When the Democrats take back Congress, we need an agenda to return public functions to government and reverse decades of privatization.&lt;/p&gt;</content>
     <published>2026-10-14T20:33:00Z</published>
     <updated>2026-10-14T20:33:00Z</updated>
   </entry>
@@ -33,7 +95,8 @@
     <title>BBC Global Women on Instagram: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech #WomenInSTEM&quot;</title>
     <link rel="alternate" type="text/html" href="https://www.instagram.com/reels/DeUg8S4ilYY"/>
     <id>urn:sha256:48ec602b675c1e65e1eb</id>
-    <summary type="text">42K likes, 1,137 comments - bbcglobalwomen on October 10, 2026: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat…</summary>
+    <summary type="text">42K likes, 1,144 comments - bbcglobalwomen on October 10, 2026: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech…</summary>
+    <content type="html">&lt;p&gt;42K likes, 1,144 comments - bbcglobalwomen on October 10, 2026: &amp;quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-14T19:38:00Z</published>
     <updated>2026-10-14T19:38:00Z</updated>
   </entry>
@@ -42,6 +105,7 @@
     <link rel="alternate" type="text/html" href="https://grist.org/culture/digger-has-a-lot-of-haters-heres-why-theyre-wrong"/>
     <id>urn:sha256:39acf14635dde2a66888</id>
     <summary type="text">It&#x27;s a film well-worth seeing — and talking about.</summary>
+    <content type="html">&lt;p&gt;It&amp;#x27;s a film well-worth seeing — and talking about.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Grist · Frida Garza&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-14T17:18:00Z</published>
     <updated>2026-10-14T17:18:00Z</updated>
   </entry>
@@ -50,12 +114,21 @@
     <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic"/>
     <id>urn:sha256:7e289d45dfc4cd8f5fef</id>
     <summary type="text">Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the …</summary>
+    <content type="html">&lt;p&gt;Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the …&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.anthropic.com/engineering/redesigning-source-control&quot;&gt;anthropic.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-14T16:08:00Z</published>
     <updated>2026-10-14T16:08:00Z</updated>
   </entry>
   <entry>
+    <title>Whoa, the Lion Nebula!</title>
+    <link rel="alternate" type="text/html" href="https://science.nasa.gov/missions/webb/lion-nebula-roars-to-life-with-nasas-webb"/>
+    <id>urn:sha256:cb3c11084b1e7998efbd</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://science.nasa.gov/asset/hubble/ngc-2392&quot;&gt;science.nasa.gov&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Eskimo_Nebula&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.nasa.gov/solar-system/nasa-to-reexamine-nicknames-for-cosmic-objects&quot;&gt;nasa.gov&lt;/a&gt;, &lt;a href=&quot;https://www.robinsloan.com/newsletters/peeking-over-the-wall&quot;&gt;robinsloan.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-14T14:55:00Z</published>
+    <updated>2026-10-14T14:55:00Z</updated>
+  </entry>
+  <entry>
     <title>bookshop.org</title>
-    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780063277571"/>
+    <link rel="alternate" type="text/html" href="https://bookshop.org/book/9780063277571"/>
     <id>urn:sha256:8ac50a9664729b9f2567</id>
     <published>2026-10-14T14:10:00Z</published>
     <updated>2026-10-14T14:10:00Z</updated>
@@ -65,6 +138,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html?unlocked_article_code=1.IlE.WQLh.PxXipj36yYaR"/>
     <id>urn:sha256:42dca54cb1148b269ed0</id>
     <summary type="text">Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.</summary>
+    <content type="html">&lt;p&gt;Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.&lt;/p&gt;</content>
     <published>2026-10-14T02:36:00Z</published>
     <updated>2026-10-14T02:36:00Z</updated>
   </entry>
@@ -73,6 +147,7 @@
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gDJ-ini7fF0"/>
     <id>urn:sha256:39b3cd586aa0c73ba7de</id>
     <summary type="text">Netflix · YouTube</summary>
+    <content type="html">&lt;p&gt;Netflix · YouTube&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Netflix&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=sRhTeaa_B98&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-14T01:34:00Z</published>
     <updated>2026-10-14T01:34:00Z</updated>
   </entry>
@@ -81,22 +156,41 @@
     <link rel="alternate" type="text/html" href="https://variety.com/2026/tv/news/girls-revival-lena-dunham-allison-williams-zosia-mamet-hbo-1236909362"/>
     <id>urn:sha256:98a08eab0a082009a754</id>
     <summary type="text">HBO is reviving &#x27;Girls,&#x27; with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.</summary>
+    <content type="html">&lt;p&gt;HBO is reviving &amp;#x27;Girls,&amp;#x27; with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.&lt;/p&gt;</content>
     <published>2026-10-14T00:44:00Z</published>
     <updated>2026-10-14T00:44:00Z</updated>
+  </entry>
+  <entry>
+    <title>So Many Different Mes</title>
+    <link rel="alternate" type="text/html" href="https://tomokosawada.com"/>
+    <id>urn:sha256:f13a79ce5aff7b1714e2</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.tokyoweekender.com/art_and_culture/tomoko-sawada-photographer-interview&quot;&gt;tokyoweekender.com&lt;/a&gt;, &lt;a href=&quot;https://www.moma.org/collection/works/94742&quot;&gt;moma.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-13T20:08:00Z</published>
+    <updated>2026-10-13T20:08:00Z</updated>
   </entry>
   <entry>
     <title>Crafting Apps: open-source creative tools</title>
     <link rel="alternate" type="text/html" href="https://getartcraft.com/apps"/>
     <id>urn:sha256:e2711c9ce5a221c51a12</id>
     <summary type="text">Image editing, vector illustration, video, photography, PDFs, motion graphics, page layout, interface design, word processing, audio, presentations, CAD and spreadsheets: thirteen native, open-source apps from the ArtCraft team, built in Rust and free to use.</summary>
+    <content type="html">&lt;p&gt;Image editing, vector illustration, video, photography, PDFs, motion graphics, page layout, interface design, word processing, audio, presentations, CAD and spreadsheets: thirteen native, open-source apps from the ArtCraft team, built in Rust and free to use.&lt;/p&gt;</content>
     <published>2026-10-13T18:58:00Z</published>
     <updated>2026-10-13T18:58:00Z</updated>
+  </entry>
+  <entry>
+    <title>Reelizer: A Trove of Movie Art</title>
+    <link rel="alternate" type="text/html" href="https://www.reelizer.com"/>
+    <id>urn:sha256:f8bdbc3ba841bd142e45</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://tinch.co&quot;&gt;tinch.co&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-13T17:58:00Z</published>
+    <updated>2026-10-13T17:58:00Z</updated>
   </entry>
   <entry>
     <title>Harry Styles &amp; Thom Yorke | Musicians on Musicians</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=8N3PmjcvYtY"/>
     <id>urn:sha256:84e39ad16726a10bed86</id>
     <summary type="text">Rolling Stone · YouTube</summary>
+    <content type="html">&lt;p&gt;Rolling Stone · YouTube&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.rollingstone.com/music/music-features/harry-styles-thom-yorke-musicians-on-musicians-1235635935&quot;&gt;rollingstone.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-13T16:58:00Z</published>
     <updated>2026-10-13T16:58:00Z</updated>
   </entry>
@@ -105,6 +199,7 @@
     <link rel="alternate" type="text/html" href="https://sheets.works/data-viz/holding-up-the-internet/read"/>
     <id>urn:sha256:b9d8da93113b0f9b127e</id>
     <summary type="text">Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.</summary>
+    <content type="html">&lt;p&gt;Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.&lt;/p&gt;</content>
     <published>2026-10-13T16:10:00Z</published>
     <updated>2026-10-13T16:10:00Z</updated>
   </entry>
@@ -112,7 +207,8 @@
     <title>Overdose Offsets: Why Every Bag of Fentanyl I Sell Is Net Life-Positive</title>
     <link rel="alternate" type="text/html" href="https://morewrong.lol?post=overdose-offsets-why-every-bag-of-fentanyl-i-sell-is-net-life-positive"/>
     <id>urn:sha256:3cb4999622d9b75eb9bb</id>
-    <summary type="text">I sell fentanyl six days a week under the El at Kensington and Somerset, and every bag I sell is net life-positive. Each bag carries a small but real chance of killing whoever buys it. Each bag also sends $1.80 to the Against Malaria Foundation, which GiveWell estimates saves a child’s life for about $5,500. My…</summary>
+    <summary type="text">I sell fentanyl six days a week under the El at Kensington and Somerset, and every bag I sell is net life-positive. Each bag carries a small but real chance of killing whoever buys it. Each bag also sends $1.80 to the Against Malaria Foundation, which GiveWell estimates saves a child’s life for about $5,500. My customers die at a rate of roughly one per 4,000 bags. Four thousand bags at $1.80 buys nets for 1.3 children. Every death on my corner is offset, with a third of a toddler left over…</summary>
+    <content type="html">&lt;p&gt;I sell fentanyl six days a week under the El at Kensington and Somerset, and every bag I sell is net life-positive. Each bag carries a small but real chance of killing whoever buys it. Each bag also sends $1.80 to the Against Malaria Foundation, which GiveWell estimates saves a child’s life for about $5,500. My customers die at a rate of roughly one per 4,000 bags. Four thousand bags at $1.80 buys nets for 1.3 children. Every death on my corner is offset, with a third of a toddler left over…&lt;/p&gt;</content>
     <published>2026-10-13T15:10:00Z</published>
     <updated>2026-10-13T15:10:00Z</updated>
   </entry>
@@ -121,6 +217,7 @@
     <link rel="alternate" type="text/html" href="https://kotaku.com/we-might-be-cooked-as-these-vibe-coded-web-browser-ports-of-halo-the-simpsons-hit-and-run-and-gta-vice-city-seem-to-work-perfectly-2000743300?ref=links.supply"/>
     <id>urn:sha256:63fc1c486b0e6295baa3</id>
     <summary type="text">Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight</summary>
+    <content type="html">&lt;p&gt;Call of Duty: Black Ops, Halo: CE, Grand Theft Auto: Vice City, Skate 3 and many more titles have been decompiled and ported to web browsers overnight&lt;/p&gt;&lt;p&gt;&lt;em&gt;Kotaku · Lewis Parker&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-13T14:00:00Z</published>
     <updated>2026-10-13T14:00:00Z</updated>
   </entry>
@@ -136,6 +233,7 @@
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/news/2026/sep/22/nearly-4m-records-of-enslaved-people-in-20-former-british-colonies-now-searchable-online"/>
     <id>urn:sha256:0691e928535f0ae8a424</id>
     <summary type="text">Exclusive: Collection’s 300,000 pages record lives of enslaved people in countries including the Bahamas, Barbados, Jamaica, Mauritius, South Africa and Trinidad</summary>
+    <content type="html">&lt;p&gt;Exclusive: Collection’s 300,000 pages record lives of enslaved people in countries including the Bahamas, Barbados, Jamaica, Mauritius, South Africa and Trinidad&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.ancestry.com/c/colonial-enslavement&quot;&gt;ancestry.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-12T17:58:00Z</published>
     <updated>2026-10-12T17:58:00Z</updated>
   </entry>
@@ -151,14 +249,24 @@
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=qZvmF1Bwwo8"/>
     <id>urn:sha256:40e0a99c388c3150cfdd</id>
     <summary type="text">The Rest Is Science · YouTube</summary>
+    <content type="html">&lt;p&gt;The Rest Is Science · YouTube&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Rest Is Science&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://en.wikipedia.org/wiki/Operation_Plumbbob&quot;&gt;en.wikipedia.org&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-12T15:58:00Z</published>
     <updated>2026-10-12T15:58:00Z</updated>
+  </entry>
+  <entry>
+    <title>All the Percents on Star Trek: TNG</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=YEaicg1kYMk"/>
+    <id>urn:sha256:2ece158b90544a2c1dd1</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://en.wikipedia.org/wiki/Semantic_satiation&quot;&gt;en.wikipedia.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-12T14:28:00Z</published>
+    <updated>2026-10-12T14:28:00Z</updated>
   </entry>
   <entry>
     <title>Lost &amp; found in Tokyo: a first-timer&#x27;s adventure</title>
     <link rel="alternate" type="text/html" href="https://a.wholelottanothing.org/travelogue-a-week-in"/>
     <id>urn:sha256:cda2ecb1f24c0c0cad80</id>
     <summary type="text">I’ve wanted to visit Japan since the 1990s but I used to think it would be too overwhelming. I worried it&#x27;d be hard to navigate, difficult to find fun stuff to do, and not easy to enjoy a new country where I had a significant language barrier to</summary>
+    <content type="html">&lt;p&gt;I’ve wanted to visit Japan since the 1990s but I used to think it would be too overwhelming. I worried it&amp;#x27;d be hard to navigate, difficult to find fun stuff to do, and not easy to enjoy a new country where I had a significant language barrier to&lt;/p&gt;</content>
     <published>2026-10-12T13:16:00Z</published>
     <updated>2026-10-12T13:16:00Z</updated>
   </entry>
@@ -167,15 +275,24 @@
     <link rel="alternate" type="text/html" href="https://www.mcsweeneys.net/articles/crossword-clues-where-its-clear-the-puzzles-creator-got-themselves-into-a-jam-letter-wise"/>
     <id>urn:sha256:e541b27b93baeff0e2e8</id>
     <summary type="text">- The National Association of Xylophone X-Ray Zebra Paleontologists, briefly - The sound a chicken bone may make when accidentally dropped into a garbage dis...</summary>
+    <content type="html">&lt;p&gt;- The National Association of Xylophone X-Ray Zebra Paleontologists, briefly - The sound a chicken bone may make when accidentally dropped into a garbage dis...&lt;/p&gt;</content>
     <published>2026-10-10T14:10:00Z</published>
     <updated>2026-10-10T14:10:00Z</updated>
   </entry>
   <entry>
     <title>bookshop.org</title>
-    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9798217177912"/>
+    <link rel="alternate" type="text/html" href="https://bookshop.org/book/9798217177912"/>
     <id>urn:sha256:2e20852043c1ddfc550b</id>
     <published>2026-10-09T20:38:00Z</published>
     <updated>2026-10-09T20:38:00Z</updated>
+  </entry>
+  <entry>
+    <title>Every US Electrical Outlet Explained</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=n_1wzYQwnts"/>
+    <id>urn:sha256:8a8d41308849e2278c10</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://unsung.aresluna.org/i-love-it-because-its-a-bit-messy-and-not-everything-lines-up-perfectly&quot;&gt;unsung.aresluna.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-09T19:58:00Z</published>
+    <updated>2026-10-09T19:58:00Z</updated>
   </entry>
   <entry>
     <title>Tokyo Underground Club Reading Rave</title>
@@ -192,10 +309,19 @@
     <updated>2026-10-09T17:38:00Z</updated>
   </entry>
   <entry>
+    <title>Is This Weird Quiz Game the Toughest F1 Video Game Ever?</title>
+    <link rel="alternate" type="text/html" href="https://esses.com/stories/who-can-solve-gerhard-bergers-f1-quiz"/>
+    <id>urn:sha256:bb6a0ed06a9b8cc876d3</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://en.wikipedia.org/wiki/Gerhard_Berger&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://archive.org/details/Gerhard_Bergers_F1_Quiz_1993_Austriasoft_cr_GRB_t_2_GRB&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=2wGWaSAfYuo&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-09T16:38:00Z</published>
+    <updated>2026-10-09T16:38:00Z</updated>
+  </entry>
+  <entry>
     <title>Incense Burner, #healing #incense #meditation #relaxing Agarwood Incense</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/8sUXgrnhnDs"/>
     <id>urn:sha256:6f977e7476cde5a97a57</id>
     <summary type="text">Chinese Incense Lore Culture · YouTube</summary>
+    <content type="html">&lt;p&gt;Chinese Incense Lore Culture · YouTube&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/shorts/l_XHDmjve6w&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/reels/Dd3x19nyXeX&quot;&gt;instagram.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/shorts/uZrrb40yGaU&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-09T15:48:00Z</published>
     <updated>2026-10-09T15:48:00Z</updated>
   </entry>
@@ -204,6 +330,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/29/opinion/boring-politics-exhaustion.html?unlocked_article_code=1.HFE.t0sk.4XH2lsIc1ylj"/>
     <id>urn:sha256:553e315808374a2623c5</id>
     <summary type="text">A greatly underappreciated virtue of other presidents was that you could forget about them for weeks at a time.</summary>
+    <content type="html">&lt;p&gt;A greatly underappreciated virtue of other presidents was that you could forget about them for weeks at a time.&lt;/p&gt;</content>
     <published>2026-10-09T14:28:21Z</published>
     <updated>2026-10-09T14:28:21Z</updated>
   </entry>
@@ -212,14 +339,24 @@
     <link rel="alternate" type="text/html" href="https://longreads.com/2026/09/22/family-road-trip-early-internet-90s"/>
     <id>urn:sha256:59b092b3997526379ea8</id>
     <summary type="text">Nine months, 25,000 miles, one phone cord, and the kindness of strangers.</summary>
+    <content type="html">&lt;p&gt;Nine months, 25,000 miles, one phone cord, and the kindness of strangers.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Longreads · Mark Blondin, Betsy Blondin&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-08T21:31:00Z</published>
     <updated>2026-10-08T21:31:00Z</updated>
+  </entry>
+  <entry>
+    <title>Chasing a Plane Across the Moon</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3FnH7fJ1ntI"/>
+    <id>urn:sha256:9a664df45e8966eac1c1</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://vrivedieu.com&quot;&gt;vrivedieu.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-08T20:01:00Z</published>
+    <updated>2026-10-08T20:01:00Z</updated>
   </entry>
   <entry>
     <title>Abolish frat culture</title>
     <link rel="alternate" type="text/html" href="https://besskalb.substack.com/p/abolish-frat-culture"/>
     <id>urn:sha256:608b2f02ede0d900fbf1</id>
     <summary type="text">On “The Good Guy With the Text” fallacy</summary>
+    <content type="html">&lt;p&gt;On “The Good Guy With the Text” fallacy&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bess Kalb&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-08T18:48:00Z</published>
     <updated>2026-10-08T18:48:00Z</updated>
   </entry>
@@ -228,6 +365,7 @@
     <link rel="alternate" type="text/html" href="https://anyhumanever.com"/>
     <id>urn:sha256:e9ff40fb88b4188cb795</id>
     <summary type="text">One life, drawn at random from all who have ever lived.</summary>
+    <content type="html">&lt;p&gt;One life, drawn at random from all who have ever lived.&lt;/p&gt;</content>
     <published>2026-10-08T17:58:00Z</published>
     <updated>2026-10-08T17:58:00Z</updated>
   </entry>
@@ -236,14 +374,24 @@
     <link rel="alternate" type="text/html" href="https://www.currentaffairs.org/news/mamdanis-richard-scarry-socialism-can-make-city-life-simple-again"/>
     <id>urn:sha256:76968c0450a59ff59250</id>
     <summary type="text">The NYC mayor is trying to build a city that functions like a city in a children&#x27;s picture book, where people aren’t caught in a web of lies and scams.</summary>
+    <content type="html">&lt;p&gt;The NYC mayor is trying to build a city that functions like a city in a children&amp;#x27;s picture book, where people aren’t caught in a web of lies and scams.&lt;/p&gt;</content>
     <published>2026-10-08T15:50:00Z</published>
     <updated>2026-10-08T15:50:00Z</updated>
+  </entry>
+  <entry>
+    <title>Bertrand Russell Shows How to Respond to Fascists Who Want to Debate</title>
+    <link rel="alternate" type="text/html" href="https://www.themarginalian.org/2016/10/06/bertrand-russell-oswald-mosley"/>
+    <id>urn:sha256:983c6529724395edb153</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://en.wikipedia.org/wiki/Oswald_Mosley&quot;&gt;en.wikipedia.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-08T14:30:00Z</published>
+    <updated>2026-10-08T14:30:00Z</updated>
   </entry>
   <entry>
     <title>The Global Rise of Electoral Dictatorships. Is the U.S. Next? Midterms Could Decide.</title>
     <link rel="alternate" type="text/html" href="https://theemancipator.org/2026/10/06/ideas/the-global-rise-of-electoral-dictatorships-is-the-u-s-next-midterms-could-decide"/>
     <id>urn:sha256:6f345f0b1c985a11573b</id>
-    <summary type="text">When Americans first elected Donald Trump president in 2016, there were nearly 4 billion people living in nations where they could vote in fair and competitive elections. Last year, when Trump took office again, this estimate had fallen by half, to barely above 2 billion. In the intervening years, the number of people…</summary>
+    <summary type="text">When Americans first elected Donald Trump president in 2016, there were nearly 4 billion people living in nations where they could vote in fair and competitive elections. Last year, when Trump took office again, this estimate had fallen by half, to barely above 2 billion. In the intervening years, the number of people barred from […]</summary>
+    <content type="html">&lt;p&gt;When Americans first elected Donald Trump president in 2016, there were nearly 4 billion people living in nations where they could vote in fair and competitive elections. Last year, when Trump took office again, this estimate had fallen by half, to barely above 2 billion. In the intervening years, the number of people barred from […]&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Emancipator · Ibram X. Kendi&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-08T13:10:00Z</published>
     <updated>2026-10-08T13:10:00Z</updated>
   </entry>
@@ -252,14 +400,24 @@
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Q_Mo0MqICXI"/>
     <id>urn:sha256:16eb87a24bf3414d6519</id>
     <summary type="text">Little White Lies · YouTube</summary>
+    <content type="html">&lt;p&gt;Little White Lies · YouTube&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Little White Lies&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=OQygyWx0dqs&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=knUXwj4Bu1U&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-08T11:30:00Z</published>
     <updated>2026-10-08T11:30:00Z</updated>
+  </entry>
+  <entry>
+    <title>Great Deals on Apple Stuff Today</title>
+    <link rel="alternate" type="text/html" href="https://www.amazon.com/amazonprime?language=en_US"/>
+    <id>urn:sha256:7099e130594ac1c073b2</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.amazon.com/exec/obidos/ASIN/B0FQFB8FMG/ref=nosim/0sil8&quot;&gt;amazon.com&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.com/exec/obidos/ASIN/B0GR1DVSQP/ref=nosim/0sil8&quot;&gt;amazon.com&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.com/exec/obidos/ASIN/B0GR1493ZV/ref=nosim/0sil8&quot;&gt;amazon.com&lt;/a&gt;, &lt;a href=&quot;https://www.amazon.com/primebigdealdays?_encoding=UTF8&amp;amp;_encoding=UTF8&amp;amp;pd_rd_w=kuqJr&amp;amp;content-id=amzn1.sym.22d7c532-a826-4724-9c3b-2df4bfeeae78&amp;amp;pf_rd_p=22d7c532-a826-4724-9c3b-2df4bfeeae78&amp;amp;pf_rd_r=7VBRHACDW7D37J8F6R9M&amp;amp;pd_rd_wg=XP6Wn&amp;amp;pd_rd_r=5637510b-2697-4fb7-91fd-46911a8ccfef&amp;amp;bubble-id=deal-collection-tbd&amp;amp;language=en_US&quot;&gt;amazon.com&lt;/a&gt;, &lt;a href=&quot;https://bookshop.org/book/9780593717202&quot;&gt;bookshop.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-08T03:06:00Z</published>
+    <updated>2026-10-08T03:06:00Z</updated>
   </entry>
   <entry>
     <title>Margaret Hamilton, Whose Software Guided the Apollo Missions, Has Died</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html?unlocked_article_code=1.HFE.bx1O.RusUdZLMA7_k"/>
     <id>urn:sha256:d2e5bf7b98b8d4db19de</id>
     <summary type="text">Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.</summary>
+    <content type="html">&lt;p&gt;Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.&lt;/p&gt;</content>
     <published>2026-10-08T00:10:00Z</published>
     <updated>2026-10-08T00:10:00Z</updated>
   </entry>
@@ -268,14 +426,24 @@
     <link rel="alternate" type="text/html" href="https://type.lol/studies/where-type-comes-from"/>
     <id>urn:sha256:8d67f3d4ac7ac8b5c244</id>
     <summary type="text">Discover and explore independent type foundries from around the world. Browse 900+ foundries, 18,000+ typefaces, and 2,700+ designers.</summary>
+    <content type="html">&lt;p&gt;Discover and explore independent type foundries from around the world. Browse 900+ foundries, 18,000+ typefaces, and 2,700+ designers.&lt;/p&gt;</content>
     <published>2026-10-07T21:23:00Z</published>
     <updated>2026-10-07T21:23:00Z</updated>
+  </entry>
+  <entry>
+    <title>Wildwood</title>
+    <link rel="alternate" type="text/html" href="https://www.laika.com/our-films/wildwood"/>
+    <id>urn:sha256:f83f34f89e1ecb32602e</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=bJQGtSeLPII&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.creativeboom.com/insight/wildwood-art-director-matthew-maldonado-on-why-laika-still-builds-everything-by-hand-and-why-theyre-coming-to-londons-design-musuem&quot;&gt;creativeboom.com&lt;/a&gt;, &lt;a href=&quot;https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition&quot;&gt;designmuseum.org&lt;/a&gt;, &lt;a href=&quot;https://justinmlind.com&quot;&gt;justinmlind.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-07T20:10:00Z</published>
+    <updated>2026-10-07T20:10:00Z</updated>
   </entry>
   <entry>
     <title>AI-generated posters don’t have to be horrible</title>
     <link rel="alternate" type="text/html" href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"/>
     <id>urn:sha256:b9c21ef0e3f58c4a5749</id>
     <summary type="text">Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.</summary>
+    <content type="html">&lt;p&gt;Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.&lt;/p&gt;</content>
     <published>2026-10-07T19:03:00Z</published>
     <updated>2026-10-07T19:03:00Z</updated>
   </entry>
@@ -287,10 +455,19 @@
     <updated>2026-10-07T18:03:00Z</updated>
   </entry>
   <entry>
+    <title>Lots and Lots and Lots of Control Panels</title>
+    <link rel="alternate" type="text/html" href="https://www.flickr.com/groups/controlpanel/pool"/>
+    <id>urn:sha256:fd6ff65450f7df7d0791</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.flickr.com/groups/419512@N22/pool&quot;&gt;flickr.com&lt;/a&gt;, &lt;a href=&quot;https://aresluna.org/the-hardest-working-font-in-manhattan&quot;&gt;aresluna.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-07T16:32:00Z</published>
+    <updated>2026-10-07T16:32:00Z</updated>
+  </entry>
+  <entry>
     <title>The Job Trail</title>
     <link rel="alternate" type="text/html" href="https://labs.ficuscreative.com/job_trail"/>
     <id>urn:sha256:77d184d57bde518d6808</id>
     <summary type="text">It is 2026. You have been laid off. Somewhere there is a job.</summary>
+    <content type="html">&lt;p&gt;It is 2026. You have been laid off. Somewhere there is a job.&lt;/p&gt;</content>
     <published>2026-10-07T15:22:00Z</published>
     <updated>2026-10-07T15:22:00Z</updated>
   </entry>
@@ -299,6 +476,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/wirecutter/reviews/advice-doomscrolling-alternatives"/>
     <id>urn:sha256:46a63e0f2eb0ea88d64f</id>
     <summary type="text">There are so many things to do once you put your phone down. Scroll our list for inspiration.</summary>
+    <content type="html">&lt;p&gt;There are so many things to do once you put your phone down. Scroll our list for inspiration.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Wirecutter: Reviews for the Real World&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-07T13:14:00Z</published>
     <updated>2026-10-07T13:14:00Z</updated>
   </entry>
@@ -307,6 +485,7 @@
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DAn34l_YrUM"/>
     <id>urn:sha256:778a20b58252d3cb27f5</id>
     <summary type="text">Google Japan · YouTube</summary>
+    <content type="html">&lt;p&gt;Google Japan · YouTube&lt;/p&gt;</content>
     <published>2026-10-06T21:20:00Z</published>
     <updated>2026-10-06T21:20:00Z</updated>
   </entry>
@@ -322,6 +501,7 @@
     <link rel="alternate" type="text/html" href="https://www.aljazeera.com/news/2026/10/5/can-the-kkk-find-a-new-foothold-in-the-us"/>
     <id>urn:sha256:44a044184d0b35ac9474</id>
     <summary type="text">The infamous hate group is trying to rebrand itself as the &#x27;Knights Party&#x27; in an attempt to grow its base.</summary>
+    <content type="html">&lt;p&gt;The infamous hate group is trying to rebrand itself as the &amp;#x27;Knights Party&amp;#x27; in an attempt to grow its base.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Al Jazeera · Al Jazeera Staff&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-06T18:31:00Z</published>
     <updated>2026-10-06T18:31:00Z</updated>
   </entry>
@@ -330,6 +510,7 @@
     <link rel="alternate" type="text/html" href="https://colossus.com/article/mark-zuckerberg-profile"/>
     <id>urn:sha256:7c5494adebcbebe93e9f</id>
     <summary type="text">A journey to the heart of history’s largest nonterritorial empire</summary>
+    <content type="html">&lt;p&gt;A journey to the heart of history’s largest nonterritorial empire&lt;/p&gt;</content>
     <published>2026-10-06T16:01:00Z</published>
     <updated>2026-10-06T16:01:00Z</updated>
   </entry>
@@ -344,6 +525,7 @@
     <title>Introducing mapsnap: Automated Georeferencing for Historic Sanborn Insurance Maps</title>
     <link rel="alternate" type="text/html" href="https://www.danvk.org/2026/09/10/mapsnap.html"/>
     <id>urn:sha256:0d796f6ac76e45cc9aa0</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;Dan Vanderkam&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-06T14:00:00Z</published>
     <updated>2026-10-06T14:00:00Z</updated>
   </entry>
@@ -352,6 +534,7 @@
     <link rel="alternate" type="text/html" href="https://chinesecheckers.ai/chinese-checkers-ai"/>
     <id>urn:sha256:fad425b35d6c15e35d4a</id>
     <summary type="text">Learn how JumpStar plays Chinese Checkers: rules, strategy, self-play training, model design, benchmark evidence, and the free iPhone app.</summary>
+    <content type="html">&lt;p&gt;Learn how JumpStar plays Chinese Checkers: rules, strategy, self-play training, model design, benchmark evidence, and the free iPhone app.&lt;/p&gt;</content>
     <published>2026-10-06T04:32:00Z</published>
     <updated>2026-10-06T04:32:00Z</updated>
   </entry>
@@ -367,6 +550,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/interactive/2026/09/27/opinion/ai-art-creativity.html?unlocked_article_code=1.FlE.ew95.hRKwQHd_aTem"/>
     <id>urn:sha256:8ea984bd17b6050ba3d4</id>
     <summary type="text">Anything worth remembering came from a person who did not know where she or he was going until arriving.</summary>
+    <content type="html">&lt;p&gt;Anything worth remembering came from a person who did not know where she or he was going until arriving.&lt;/p&gt;</content>
     <published>2026-10-05T20:19:00Z</published>
     <updated>2026-10-05T20:19:00Z</updated>
   </entry>
@@ -375,6 +559,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/01/opinion/joseph-stalin-middle-school.html?unlocked_article_code=1.GVE.wF80.O8jwZ1B_D3dX"/>
     <id>urn:sha256:8f036fce8b460b6d1179</id>
     <summary type="text">Middle school introduces us to complicated history. These kids wrote a play about Joseph Stalin.</summary>
+    <content type="html">&lt;p&gt;Middle school introduces us to complicated history. These kids wrote a play about Joseph Stalin.&lt;/p&gt;</content>
     <published>2026-10-05T18:27:00Z</published>
     <updated>2026-10-05T18:27:00Z</updated>
   </entry>
@@ -383,6 +568,7 @@
     <link rel="alternate" type="text/html" href="https://nappy.co"/>
     <id>urn:sha256:b5b3a369967dafbb055e</id>
     <summary type="text">Beautiful photos of Black and Brown people, for free. For commercial and personal use.</summary>
+    <content type="html">&lt;p&gt;Beautiful photos of Black and Brown people, for free. For commercial and personal use.&lt;/p&gt;</content>
     <published>2026-10-05T17:37:00Z</published>
     <updated>2026-10-05T17:37:00Z</updated>
   </entry>
@@ -398,6 +584,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/01/us/politics/supreme-court-roberts-maine.html?unlocked_article_code=1.FVE.67C_.wUqbR8eoPNdG"/>
     <id>urn:sha256:012e31027b282966ced9</id>
     <summary type="text">After decades of potlucks and paddle-boarding on Maine’s midcoast, rising anger and protests have left the Supreme Court’s chief justice more isolated than ever.</summary>
+    <content type="html">&lt;p&gt;After decades of potlucks and paddle-boarding on Maine’s midcoast, rising anger and protests have left the Supreme Court’s chief justice more isolated than ever.&lt;/p&gt;</content>
     <published>2026-10-05T14:40:00Z</published>
     <updated>2026-10-05T14:40:00Z</updated>
   </entry>
@@ -406,6 +593,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/30/opinion/america-cool-culture-soft-power.html?unlocked_article_code=1.FlE.bsoX.syedk1-gqXz7"/>
     <id>urn:sha256:808323eb2638d2848951</id>
     <summary type="text">The world order is changing. So is the United States’ place in it.</summary>
+    <content type="html">&lt;p&gt;The world order is changing. So is the United States’ place in it.&lt;/p&gt;</content>
     <published>2026-10-03T13:24:23Z</published>
     <updated>2026-10-03T13:24:23Z</updated>
   </entry>
@@ -414,6 +602,7 @@
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/world/2007/nov/26/france.artnews"/>
     <id>urn:sha256:714a645809dc062dbe3a</id>
     <summary type="text">Cultural guerrillas&#x27; cleared of lawbreaking over secret workshop in Pantheon</summary>
+    <content type="html">&lt;p&gt;Cultural guerrillas&amp;#x27; cleared of lawbreaking over secret workshop in Pantheon&lt;/p&gt;</content>
     <published>2026-10-02T21:18:00Z</published>
     <updated>2026-10-02T21:18:00Z</updated>
   </entry>
@@ -422,6 +611,7 @@
     <link rel="alternate" type="text/html" href="https://spoon-tamago.com/orysnack-avatar-bartender"/>
     <id>urn:sha256:eb23f3e65c396a053206</id>
     <summary type="text">As the sun sets in Tokyo, its alleyways become illuminated by the lights of &quot;sunakku&quot; snack bars. But OrySnack is illuminated by something entirely different: the gentle, glowing eyes of six small humanoid robots that are pouring drinks and interacting with customers. But you would be mistaken to as</summary>
+    <content type="html">&lt;p&gt;As the sun sets in Tokyo, its alleyways become illuminated by the lights of &amp;quot;sunakku&amp;quot; snack bars. But OrySnack is illuminated by something entirely different: the gentle, glowing eyes of six small humanoid robots that are pouring drinks and interacting with customers. But you would be mistaken to as&lt;/p&gt;</content>
     <published>2026-10-02T20:18:00Z</published>
     <updated>2026-10-02T20:18:00Z</updated>
   </entry>
@@ -430,6 +620,7 @@
     <link rel="alternate" type="text/html" href="https://dontcookthat.com"/>
     <id>urn:sha256:fb93347ebae46779bf88</id>
     <summary type="text">Peacock roasted in its own feathers. Beer made of sulphuric acid. Bread leavened with hydrochloric acid. 144 recipes printed in earnest in real cookbooks between 1831 and 1929. Please do not make any of them.</summary>
+    <content type="html">&lt;p&gt;Peacock roasted in its own feathers. Beer made of sulphuric acid. Bread leavened with hydrochloric acid. 144 recipes printed in earnest in real cookbooks between 1831 and 1929. Please do not make any of them.&lt;/p&gt;</content>
     <published>2026-10-02T18:00:00Z</published>
     <updated>2026-10-02T18:00:00Z</updated>
   </entry>
@@ -438,6 +629,7 @@
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/lifeandstyle/picture/2026/sep/18/the-bayeux-tapestry-of-fascism-the-stephen-collins-cartoon"/>
     <id>urn:sha256:1776fa1faecd2787685c</id>
     <summary type="text">Contemporary British political life is a rich tapestry indeed</summary>
+    <content type="html">&lt;p&gt;Contemporary British political life is a rich tapestry indeed&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-02T15:40:00Z</published>
     <updated>2026-10-02T15:40:00Z</updated>
   </entry>
@@ -446,6 +638,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/30/climate/el-nino-storm-flooding-kelvin-waves.html?unlocked_article_code=1.FlE.7Qi-.QQLXHZa3eyE7"/>
     <id>urn:sha256:c034459379c3dc75239a</id>
     <summary type="text">An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.</summary>
+    <content type="html">&lt;p&gt;An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.&lt;/p&gt;</content>
     <published>2026-10-02T13:00:00Z</published>
     <updated>2026-10-02T13:00:00Z</updated>
   </entry>
@@ -454,6 +647,7 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html?unlocked_article_code=1.FlE.fY24.WJzc1CCqhiAp"/>
     <id>urn:sha256:91bc8aea42ead16bad95</id>
     <summary type="text">The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity house since they were first made in 2024 and led the reporting on the case.</summary>
+    <content type="html">&lt;p&gt;The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity house since they were first made in 2024 and led the reporting on the case.&lt;/p&gt;</content>
     <published>2026-10-02T11:30:00Z</published>
     <updated>2026-10-02T11:30:00Z</updated>
   </entry>
@@ -462,6 +656,7 @@
     <link rel="alternate" type="text/html" href="https://www.we12travel.com/best-multi-day-hikes-in-the-world"/>
     <id>urn:sha256:0891f3943d47c5fae3da</id>
     <summary type="text">Our list of the best multi-day hikes in the world, the 2023 edition incl. treks in Europa, Asia, Oceania and the Amer</summary>
+    <content type="html">&lt;p&gt;Our list of the best multi-day hikes in the world, the 2023 edition incl. treks in Europa, Asia, Oceania and the Amer&lt;/p&gt;&lt;p&gt;&lt;em&gt;We12Travel · anto&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-01T21:00:00Z</published>
     <updated>2026-10-01T21:00:00Z</updated>
   </entry>
@@ -470,12 +665,13 @@
     <link rel="alternate" type="text/html" href="https://lobsterislobster.online"/>
     <id>urn:sha256:02475dbbb6eb55624b3f</id>
     <summary type="text">A word appears. You guess which language it was translated into. Free, no sign-up, a new word every round.</summary>
+    <content type="html">&lt;p&gt;A word appears. You guess which language it was translated into. Free, no sign-up, a new word every round.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Lobster is Lobster&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-01T19:34:00Z</published>
     <updated>2026-10-01T19:34:00Z</updated>
   </entry>
   <entry>
     <title>bookshop.org</title>
-    <link rel="alternate" type="text/html" href="https://bookshop.org/a/2966/9780063566286"/>
+    <link rel="alternate" type="text/html" href="https://bookshop.org/book/9780063566286"/>
     <id>urn:sha256:0b16b546ab787ce63822</id>
     <published>2026-10-01T18:30:00Z</published>
     <updated>2026-10-01T18:30:00Z</updated>
@@ -492,6 +688,7 @@
     <link rel="alternate" type="text/html" href="https://www.amazon.com/exec/obidos/ASIN/B0GHT67RG2/ref=nosim/0sil8"/>
     <id>urn:sha256:ca17328e13a3e50125b9</id>
     <summary type="text">Shop Amazon Kindle Paperwhite (16 GB) – Our fastest Kindle ever, with new 7&quot; glare-free display, and weeks of battery life</summary>
+    <content type="html">&lt;p&gt;Shop Amazon Kindle Paperwhite (16 GB) – Our fastest Kindle ever, with new 7&amp;quot; glare-free display, and weeks of battery life&lt;/p&gt;</content>
     <published>2026-10-01T14:00:00Z</published>
     <updated>2026-10-01T14:00:00Z</updated>
   </entry>
@@ -500,6 +697,7 @@
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ccs-B_nTfZs"/>
     <id>urn:sha256:5e4eaa2a70d0454bfa7a</id>
     <summary type="text">The Interview · YouTube</summary>
+    <content type="html">&lt;p&gt;The Interview · YouTube&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Interview&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-01T13:00:00Z</published>
     <updated>2026-10-01T13:00:00Z</updated>
   </entry>
@@ -508,6 +706,7 @@
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_h_pQ1-5iQg"/>
     <id>urn:sha256:50c6d4b724aeb6a253b3</id>
     <summary type="text">Mike Tomlin · YouTube</summary>
+    <content type="html">&lt;p&gt;Mike Tomlin · YouTube&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Mike Tomlin&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-01T12:08:00Z</published>
     <updated>2026-10-01T12:08:00Z</updated>
   </entry>
@@ -516,6 +715,7 @@
     <link rel="alternate" type="text/html" href="https://eternal.tv"/>
     <id>urn:sha256:5b9249eca3a4847da9c7</id>
     <summary type="text">Eternal Family is an offbeat streaming platform presenting hidden gems from the past and surreal entertainment.</summary>
+    <content type="html">&lt;p&gt;Eternal Family is an offbeat streaming platform presenting hidden gems from the past and surreal entertainment.&lt;/p&gt;</content>
     <published>2026-09-30T22:20:00Z</published>
     <updated>2026-09-30T22:20:00Z</updated>
   </entry>
@@ -524,6 +724,7 @@
     <link rel="alternate" type="text/html" href="https://www.blackbirdspyplane.com/p/i-used-to-get-paid-to-hang-out-with-famous-people"/>
     <id>urn:sha256:7793a6f576b43df01436</id>
     <summary type="text">Notes on a (dying?) dream job</summary>
+    <content type="html">&lt;p&gt;Notes on a (dying?) dream job&lt;/p&gt;</content>
     <published>2026-09-30T20:58:00Z</published>
     <updated>2026-09-30T20:58:00Z</updated>
   </entry>
@@ -532,6 +733,7 @@
     <link rel="alternate" type="text/html" href="https://www.newyorker.com/magazine/2026/09/21/the-american-religion-of-self-storage-facilities"/>
     <id>urn:sha256:45ac5aa2ac7f06874e26</id>
     <summary type="text">Why are we so obsessed with putting our belongings in metal boxes and then never looking at them again?</summary>
+    <content type="html">&lt;p&gt;Why are we so obsessed with putting our belongings in metal boxes and then never looking at them again?&lt;/p&gt;&lt;p&gt;&lt;em&gt;The New Yorker · David Owen&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-30T19:58:00Z</published>
     <updated>2026-09-30T19:58:00Z</updated>
   </entry>
@@ -540,6 +742,7 @@
     <link rel="alternate" type="text/html" href="https://www.thfndry.com/the-tell"/>
     <id>urn:sha256:f0d6510fd8ee1f45a07f</id>
     <summary type="text">Tom Goldstein argued before the Supreme Court and won nearly $100 million at poker. His double life was about to catch up with him.</summary>
+    <content type="html">&lt;p&gt;Tom Goldstein argued before the Supreme Court and won nearly $100 million at poker. His double life was about to catch up with him.&lt;/p&gt;</content>
     <published>2026-09-30T17:38:00Z</published>
     <updated>2026-09-30T17:38:00Z</updated>
   </entry>
@@ -555,6 +758,7 @@
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches"/>
     <id>urn:sha256:49096ea516a5ba46312a</id>
     <summary type="text">Manchester City breached Premier League financial rules by creating ‘sham’ contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found</summary>
+    <content type="html">&lt;p&gt;Manchester City breached Premier League financial rules by creating ‘sham’ contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-30T13:03:00Z</published>
     <updated>2026-09-30T13:03:00Z</updated>
   </entry>
@@ -562,6 +766,7 @@
     <title>Treat your to-read pile like a river</title>
     <link rel="alternate" type="text/html" href="https://www.oliverburkeman.com/river"/>
     <id>urn:sha256:575b7493b4261414bcfe</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;Oliver Burkeman&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-29T23:40:00Z</published>
     <updated>2026-09-29T23:40:00Z</updated>
   </entry>
@@ -591,6 +796,7 @@
     <link rel="alternate" type="text/html" href="https://herecomesthemoon.net/2026/09/commodified-intelligence"/>
     <id>urn:sha256:26038e142e05dacec17b</id>
     <summary type="text">This is a website, which means it sometimes goes offline</summary>
+    <content type="html">&lt;p&gt;This is a website, which means it sometimes goes offline&lt;/p&gt;&lt;p&gt;&lt;em&gt;MOND←TECH MAGAZINE · Mond&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-29T15:32:00Z</published>
     <updated>2026-09-29T15:32:00Z</updated>
   </entry>
@@ -599,14 +805,16 @@
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/28/opinion/sittenfeld-marriage-nyt-175.html?unlocked_article_code=1.E1E.mSTS.BJywvqjLSfLm"/>
     <id>urn:sha256:005210815e2e008cb7bb</id>
     <summary type="text">Eleven years later, the novelist revisits a guest essay she wrote about marriage.</summary>
+    <content type="html">&lt;p&gt;Eleven years later, the novelist revisits a guest essay she wrote about marriage.&lt;/p&gt;</content>
     <published>2026-09-29T13:22:00Z</published>
     <updated>2026-09-29T13:22:00Z</updated>
   </entry>
   <entry>
-    <title>OpenAI Says It Will Not Release Newest Astra A.I. Model Over Safety Concerns</title>
+    <title>OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html?unlocked_article_code=1.E1E.UaSY.RtoDXudZ-IMV"/>
     <id>urn:sha256:6f74f826ee4a48c9dcef</id>
     <summary type="text">The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.</summary>
+    <content type="html">&lt;p&gt;The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.&lt;/p&gt;</content>
     <published>2026-09-29T01:55:00Z</published>
     <updated>2026-09-29T01:55:00Z</updated>
   </entry>
@@ -615,6 +823,7 @@
     <link rel="alternate" type="text/html" href="https://www.thisamericanlife.org/898/an-argument"/>
     <id>urn:sha256:5b7f4a84cd6351919488</id>
     <summary type="text">Nikole Hannah-Jones famously argued for sending her daughter to a regular public school in NYC. Ten years later, she revisits that choice.</summary>
+    <content type="html">&lt;p&gt;Nikole Hannah-Jones famously argued for sending her daughter to a regular public school in NYC. Ten years later, she revisits that choice.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This American Life&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-29T01:25:00Z</published>
     <updated>2026-09-29T01:25:00Z</updated>
   </entry>
@@ -623,6 +832,7 @@
     <link rel="alternate" type="text/html" href="https://pitchfork.com/story/stevie-wonder-unvaults-four-songs-in-the-key-of-life-tracks"/>
     <id>urn:sha256:e4c39fa2d0f0ece2df37</id>
     <summary type="text">“We didn’t add these songs to the album, but they were part of what I was feeling and discovering as we made it,” says Wonder</summary>
+    <content type="html">&lt;p&gt;“We didn’t add these songs to the album, but they were part of what I was feeling and discovering as we made it,” says Wonder&lt;/p&gt;</content>
     <published>2026-09-29T00:45:00Z</published>
     <updated>2026-09-29T00:45:00Z</updated>
   </entry>
@@ -631,155 +841,8 @@
     <link rel="alternate" type="text/html" href="https://attainablefelicity.mattkirkland.com/20260915/cut-up-your-books.html"/>
     <id>urn:sha256:4a57f362a72e319db6bc</id>
     <summary type="text">Matt Kirkland is a designer. He probably reads too much.</summary>
+    <content type="html">&lt;p&gt;Matt Kirkland is a designer. He probably reads too much.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Matt Kirkland&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-25T21:29:00Z</published>
     <updated>2026-09-25T21:29:00Z</updated>
-  </entry>
-  <entry>
-    <title>Madden - Official Teaser | Prime Video</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KjOL6n0F0T8"/>
-    <id>urn:sha256:fed55dbb7acc95b782e9</id>
-    <summary type="text">Prime Video · YouTube</summary>
-    <published>2026-09-25T20:39:00Z</published>
-    <updated>2026-09-25T20:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>What if America Went Completely Dark?</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html?unlocked_article_code=1.DVE.aani.d0qM5n0DF9wb"/>
-    <id>urn:sha256:f57ed8c9e86f61d77d1a</id>
-    <summary type="text">The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.</summary>
-    <published>2026-09-25T19:39:00Z</published>
-    <updated>2026-09-25T19:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>Max Richter - Now We Can Sing (Visualiser)</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=uZf2jkCI6Fo"/>
-    <id>urn:sha256:c6bb6d0b0559bbc01f15</id>
-    <summary type="text">Max Richter · YouTube</summary>
-    <published>2026-09-25T18:49:00Z</published>
-    <updated>2026-09-25T18:49:00Z</updated>
-  </entry>
-  <entry>
-    <title>catfishing - the Wikipedia guessing game</title>
-    <link rel="alternate" type="text/html" href="https://catfishing.net"/>
-    <id>urn:sha256:f5ce8851be87db8db762</id>
-    <summary type="text">Guess the Wikipedia article from its categories. 10 interesting people, places, and things to guess every day.</summary>
-    <published>2026-09-25T17:44:00Z</published>
-    <updated>2026-09-25T17:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>iNCYNC — Terry Riley: In C</title>
-    <link rel="alternate" type="text/html" href="https://incync.space/incync.html"/>
-    <id>urn:sha256:e7c6c8d94821a0d1e039</id>
-    <summary type="text">Play multiple recordings of Terry Riley&#x27;s In C simultaneously. Adjust playback rate to sync tempos across performances. Scores of recordings spanning over a half-century.</summary>
-    <published>2026-09-25T16:54:00Z</published>
-    <updated>2026-09-25T16:54:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Metric Is Not The Mission History Rarely Announces Itself</title>
-    <link rel="alternate" type="text/html" href="https://www.techdirt.com/2026/09/21/the-metric-is-not-the-mission-history-rarely-announces-itself"/>
-    <id>urn:sha256:c950a87f9edbc6cca229</id>
-    <published>2026-09-25T15:54:00Z</published>
-    <updated>2026-09-25T15:54:00Z</updated>
-  </entry>
-  <entry>
-    <title>Romania soccer introduces black card to ‘combat abusive behaviour’ from parents at youth games</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/athletic/7586821/2026/09/12/football-black-card-referee?unlocked_article_code=1.DVE.y6jX.0LGjt9QdMiMY"/>
-    <id>urn:sha256:578332dc33b396ea2ea6</id>
-    <summary type="text">The card can be used to permanently cancel the match if they “observe inappropriate behaviour from spectators or parents&quot;.</summary>
-    <published>2026-09-25T15:00:00Z</published>
-    <updated>2026-09-25T15:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Sagrada Familia</title>
-    <link rel="alternate" type="text/html" href="https://www.lego.com/en-us/product/sagrada-familia-21065"/>
-    <id>urn:sha256:0ff58aeba0a219e6f13d</id>
-    <published>2026-09-25T13:45:00Z</published>
-    <updated>2026-09-25T13:45:00Z</updated>
-  </entry>
-  <entry>
-    <title>What If We Just Stopped?</title>
-    <link rel="alternate" type="text/html" href="https://dansinker.com/posts/2026-09-23-stopped"/>
-    <id>urn:sha256:6faab830f9286a37ce33</id>
-    <published>2026-09-25T00:10:00Z</published>
-    <updated>2026-09-25T00:10:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Catalogue of Ships</title>
-    <link rel="alternate" type="text/html" href="https://homer-catalogue-of-ships.netlify.app"/>
-    <id>urn:sha256:b7d68aab555037bf9db3</id>
-    <summary type="text">Twenty-nine contingents, 1,186 ships, one map, and a Homeric galley you can walk around.</summary>
-    <published>2026-09-24T20:49:00Z</published>
-    <updated>2026-09-24T20:49:00Z</updated>
-  </entry>
-  <entry>
-    <title>Are Beavers Actually Good at Dams?</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=r1wwtGgnzg4"/>
-    <id>urn:sha256:45ea2c6a7f39dd47ecdb</id>
-    <summary type="text">Practical Engineering · YouTube</summary>
-    <published>2026-09-24T19:49:00Z</published>
-    <updated>2026-09-24T19:49:00Z</updated>
-  </entry>
-  <entry>
-    <title>THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH | Official Trailer | Netflix</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=RjEZaUBbUvU"/>
-    <id>urn:sha256:f21aff894e76530773d0</id>
-    <summary type="text">Netflix · YouTube</summary>
-    <published>2026-09-24T18:59:00Z</published>
-    <updated>2026-09-24T18:59:00Z</updated>
-  </entry>
-  <entry>
-    <title>Trace — A Daily Recipe</title>
-    <link rel="alternate" type="text/html" href="https://playtrace.co.uk"/>
-    <id>urn:sha256:20da0c2ac16919a05594</id>
-    <summary type="text">A daily puzzle. Figure out the recipe of operations that turns one list into another.</summary>
-    <published>2026-09-24T18:13:00Z</published>
-    <updated>2026-09-24T18:13:00Z</updated>
-  </entry>
-  <entry>
-    <title>Four Islamic polymaths prove breadth beats specialisation</title>
-    <link rel="alternate" type="text/html" href="https://aeon.co/essays/four-islamic-polymaths-prove-breadth-beats-specialisation"/>
-    <id>urn:sha256:9c969f6407d8a633d1f5</id>
-    <summary type="text">The fathers of Islamic science hold lessons for students: breadth over specialisation, and never let constraints get in the way</summary>
-    <published>2026-09-24T17:29:00Z</published>
-    <updated>2026-09-24T17:29:00Z</updated>
-  </entry>
-  <entry>
-    <title>Songs Explain America Playlist</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/culture/2026/09/50-songs-explain-america-playlist/687598?gift=j9r7avb6p-KY8zdjhsiSZxhJ-RtcYIFsANQw5aDJHGo"/>
-    <id>urn:sha256:bd5af3f1429317d4a2b8</id>
-    <published>2026-09-24T16:39:00Z</published>
-    <updated>2026-09-24T16:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>How This Orphaned Elephant Defied the Odds</title>
-    <link rel="alternate" type="text/html" href="https://www.nationalgeographic.com/animals/article/nigeria-orphaned-elephant"/>
-    <id>urn:sha256:30171387f5974e78beac</id>
-    <summary type="text">“The baby elephant needs a mother to run to. And the fact is that the mother is a 30-year-old Nigerian man right now.”</summary>
-    <published>2026-09-24T14:55:00Z</published>
-    <updated>2026-09-24T14:55:00Z</updated>
-  </entry>
-  <entry>
-    <title>Robert Eggers Tackling ‘Romeo and Juliet’ Adaptation as Focus Wins Bidding War (Exclusive)</title>
-    <link rel="alternate" type="text/html" href="https://www.hollywoodreporter.com/movies/movie-news/robert-eggers-tackling-romeo-and-juliet-adaptation-1236707061"/>
-    <id>urn:sha256:16ec501b7634858e1d04</id>
-    <summary type="text">Where art thou? Here art thou: The feature project will be the filmmaker&#x27;s next after his upcoming &#x27;Werwulf.&#x27;</summary>
-    <published>2026-09-24T11:11:00Z</published>
-    <updated>2026-09-24T11:11:00Z</updated>
-  </entry>
-  <entry>
-    <title>Solitaire Alone Together</title>
-    <link rel="alternate" type="text/html" href="https://solitairealonetogether.com"/>
-    <id>urn:sha256:b5f48b200f61da4a0da0</id>
-    <summary type="text">Play solitaire with the rest of the internet.</summary>
-    <published>2026-09-23T23:56:00Z</published>
-    <updated>2026-09-23T23:56:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Museum of Time Based Art</title>
-    <link rel="alternate" type="text/html" href="http://motba.art"/>
-    <id>urn:sha256:cd368f8b376975cddfad</id>
-    <summary type="text">Celebrating artists who commit to long-duration and daily creative practices.</summary>
-    <published>2026-09-23T22:36:00Z</published>
-    <updated>2026-09-23T22:36:00Z</updated>
   </entry>
 </feed>
