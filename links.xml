@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-16T15:32:00Z</updated>
+  <updated>2026-10-16T17:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Blade Runner 2099 - NYCC Trailer | Prime Video</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AwK5KxoJsvk"/>
+    <id>urn:sha256:82b1974ff85d0722f7ca</id>
+    <summary type="text">A new world. A new order. A new Blade Runner. Blade Runner 2099, a new limited series, premieres November 25th on Prime Video.» SUBSCRIBE: http://bit.ly/Prim...</summary>
+    <content type="html">&lt;p&gt;A new world. A new order. A new Blade Runner. Blade Runner 2099, a new limited series, premieres November 25th on Prime Video.» SUBSCRIBE: http://bit.ly/Prim...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Prime Video&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-16T17:00:00Z</published>
+    <updated>2026-10-16T17:00:00Z</updated>
+  </entry>
   <entry>
     <title>Going 94 MPH on a Skateboard (New World Record)</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=u3ydV2RVJvc"/>
@@ -860,14 +869,5 @@
     <content type="html">&lt;p&gt;There is only one John Madden. Thanksgiving 2026. #MaddenMovieInspired by a true story, MADDEN follows the football legend from Super Bowl glory with the Rai...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Prime Video&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-25T20:39:00Z</published>
     <updated>2026-09-25T20:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>What if America Went Completely Dark?</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/08/18/magazine/national-blackout-power-electricity-outage.html?unlocked_article_code=1.DVE.aani.d0qM5n0DF9wb"/>
-    <id>urn:sha256:f57ed8c9e86f61d77d1a</id>
-    <summary type="text">The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.</summary>
-    <content type="html">&lt;p&gt;The power grid relies on thousands of aging, hand-built transformers. If enough fail, the blackout could last years.&lt;/p&gt;</content>
-    <published>2026-09-25T19:39:00Z</published>
-    <updated>2026-09-25T19:39:00Z</updated>
   </entry>
 </feed>
