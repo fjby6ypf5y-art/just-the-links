@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-15T21:00:00Z</updated>
+  <updated>2026-10-16T12:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Giant African Snails Florida Invasion</title>
+    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/science/2026/10/giant-african-snails-florida-invasion/688850?gift=j9r7avb6p-KY8zdjhsiSZ9IEFROcHGnWzwgRnuCmPl0"/>
+    <id>urn:sha256:d7ad9e5bc75bbbc4fe70</id>
+    <published>2026-10-16T12:30:00Z</published>
+    <updated>2026-10-16T12:30:00Z</updated>
+  </entry>
   <entry>
     <title>Beautiful Seamless Ride</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vcMhIjBYFBU"/>
@@ -862,14 +869,5 @@
     <content type="html">&lt;p&gt;Guess the Wikipedia article from its categories. 10 interesting people, places, and things to guess every day.&lt;/p&gt;&lt;p&gt;&lt;em&gt;catfishing&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-25T17:44:00Z</published>
     <updated>2026-09-25T17:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>Terry Riley: In C</title>
-    <link rel="alternate" type="text/html" href="https://incync.space/incync.html"/>
-    <id>urn:sha256:e7c6c8d94821a0d1e039</id>
-    <summary type="text">Play multiple recordings of Terry Riley&#x27;s In C simultaneously. Adjust playback rate to sync tempos across performances. Scores of recordings spanning over a half-century.</summary>
-    <content type="html">&lt;p&gt;Play multiple recordings of Terry Riley&amp;#x27;s In C simultaneously. Adjust playback rate to sync tempos across performances. Scores of recordings spanning over a half-century.&lt;/p&gt;&lt;p&gt;&lt;em&gt;iNCYNC&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-25T16:54:00Z</published>
-    <updated>2026-09-25T16:54:00Z</updated>
   </entry>
 </feed>
