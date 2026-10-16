@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-16T20:09:00Z</updated>
+  <updated>2026-10-16T22:01:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>I don’t think black people should have to pay for Ancestry.com!! Feat. Charles Harley</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/H0KGWo3SoXg"/>
+    <id>urn:sha256:f5f079c8cdd17736aff3</id>
+    <summary type="text">Created/Produced by Kareem Rahma (@kareem) and Andrew Kuo (@akuoproject)</summary>
+    <content type="html">&lt;p&gt;Created/Produced by Kareem Rahma (@kareem) and Andrew Kuo (@akuoproject)&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · SubwayTakes with Kareem Rahma&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-16T22:01:00Z</published>
+    <updated>2026-10-16T22:01:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Mundo Mendo BOOKS SERIES</title>
+    <link rel="alternate" type="text/html" href="https://www.mundomendo.com/books"/>
+    <id>urn:sha256:7030d038390410bec900</id>
+    <summary type="text">You don&#x27;t buy the books, you support the artist.</summary>
+    <content type="html">&lt;p&gt;You don&amp;#x27;t buy the books, you support the artist.&lt;/p&gt;&lt;p&gt;&lt;em&gt;MUNDO MENDO&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-16T21:18:00Z</published>
+    <updated>2026-10-16T21:18:00Z</updated>
+  </entry>
   <entry>
     <title>Chromatic Inkscapes</title>
     <link rel="alternate" type="text/html" href="https://adamfuhrer.com"/>
@@ -849,23 +867,5 @@
     <content type="html">&lt;p&gt;Eleven years later, the novelist revisits a guest essay she wrote about marriage.&lt;/p&gt;</content>
     <published>2026-09-29T13:22:00Z</published>
     <updated>2026-09-29T13:22:00Z</updated>
-  </entry>
-  <entry>
-    <title>OpenAI Says It Will Not Release Newest A.I. Model Over Safety Concerns</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/28/technology/openai-astra-safety.html?unlocked_article_code=1.E1E.UaSY.RtoDXudZ-IMV"/>
-    <id>urn:sha256:6f74f826ee4a48c9dcef</id>
-    <summary type="text">The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.</summary>
-    <content type="html">&lt;p&gt;The company’s researchers raised questions about the security of the model, known as GPT-6.1 Astra.&lt;/p&gt;</content>
-    <published>2026-09-29T01:55:00Z</published>
-    <updated>2026-09-29T01:55:00Z</updated>
-  </entry>
-  <entry>
-    <title>An Argument</title>
-    <link rel="alternate" type="text/html" href="https://www.thisamericanlife.org/898/an-argument"/>
-    <id>urn:sha256:5b7f4a84cd6351919488</id>
-    <summary type="text">Nikole Hannah-Jones famously argued for sending her daughter to a regular public school in NYC. Ten years later, she revisits that choice.</summary>
-    <content type="html">&lt;p&gt;Nikole Hannah-Jones famously argued for sending her daughter to a regular public school in NYC. Ten years later, she revisits that choice.&lt;/p&gt;&lt;p&gt;&lt;em&gt;This American Life&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-29T01:25:00Z</published>
-    <updated>2026-09-29T01:25:00Z</updated>
   </entry>
 </feed>
