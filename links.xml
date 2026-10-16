@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-16T17:00:00Z</updated>
+  <updated>2026-10-16T18:10:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Roooobot. Huuuuuman.</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EcDJJSKs2o8"/>
+    <id>urn:sha256:0a7d1c0285fa5b6a2d5b</id>
+    <summary type="text">はじめまして。ノエルと申します。エイトリングの演技です。Hello, I&#x27;m Noëlle, a juggler from Japan.An eight-ring juggling performance.https://www.instagram.com/noelle_ju88ring?xtok=aW15MWU...</summary>
+    <content type="html">&lt;p&gt;はじめまして。ノエルと申します。エイトリングの演技です。Hello, I&amp;#x27;m Noëlle, a juggler from Japan.An eight-ring juggling performance.https://www.instagram.com/noelle_ju88ring?xtok=aW15MWU...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · 笹生明日香（ノエル）&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://akanekikaku.com/avantgardey&quot;&gt;akanekikaku.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@avantgardey&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://mastodon.social/@sevlu/117433627240341636&quot;&gt;mastodon.social&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-16T18:10:00Z</published>
+    <updated>2026-10-16T18:10:00Z</updated>
+  </entry>
   <entry>
     <title>Blade Runner 2099 - NYCC Trailer | Prime Video</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AwK5KxoJsvk"/>
@@ -860,14 +869,5 @@
     <content type="html">&lt;p&gt;Matt Kirkland is a designer. He probably reads too much.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Matt Kirkland&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-25T21:29:00Z</published>
     <updated>2026-09-25T21:29:00Z</updated>
-  </entry>
-  <entry>
-    <title>Madden - Official Teaser | Prime Video</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KjOL6n0F0T8"/>
-    <id>urn:sha256:fed55dbb7acc95b782e9</id>
-    <summary type="text">There is only one John Madden. Thanksgiving 2026. #MaddenMovieInspired by a true story, MADDEN follows the football legend from Super Bowl glory with the Rai...</summary>
-    <content type="html">&lt;p&gt;There is only one John Madden. Thanksgiving 2026. #MaddenMovieInspired by a true story, MADDEN follows the football legend from Super Bowl glory with the Rai...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Prime Video&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-25T20:39:00Z</published>
-    <updated>2026-09-25T20:39:00Z</updated>
   </entry>
 </feed>
