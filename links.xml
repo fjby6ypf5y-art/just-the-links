@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-19T18:41:00Z</updated>
+  <updated>2026-10-19T19:33:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>A Tiny 24 FPS E-Ink Game Boy Emulator</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=XiZmM6hwwAU"/>
+    <id>urn:sha256:5e035c2780d1a9364018</id>
+    <summary type="text">I wrote a custom display driver for a small ESP32-S3 e-paper board and managed to get around 30 display updates per second, with 4 shades of gray.In this vid...</summary>
+    <content type="html">&lt;p&gt;I wrote a custom display driver for a small ESP32-S3 e-paper board and managed to get around 30 display updates per second, with 4 shades of gray.In this vid...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Bo Made It&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://github.com/kuslota/InkBoy&quot;&gt;github.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=oPbOK90aJEo&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=nHbA2-_qzH4&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.yankodesign.com/2026/10/15/this-tiny-e-paper-game-boy-lets-you-play-super-mario-land-at-30-fps-on-a-reading-screen&quot;&gt;yankodesign.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-19T19:33:00Z</published>
+    <updated>2026-10-19T19:33:00Z</updated>
+  </entry>
   <entry>
     <title>Exhibition Tour—Krasner and Pollock: Past Continuous | Met Exhibitions</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xtCdl-4HDdk"/>
@@ -865,14 +874,5 @@
     <id>urn:sha256:bb333907c5e0ba4c5bc8</id>
     <published>2026-09-30T16:28:00Z</published>
     <updated>2026-09-30T16:28:00Z</updated>
-  </entry>
-  <entry>
-    <title>Manchester City guilty over Premier League charges after £900m of ‘sham’ contracts</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/football/2026/sep/29/manchester-city-found-guilty-all-premier-league-charges-rule-breaches"/>
-    <id>urn:sha256:49096ea516a5ba46312a</id>
-    <summary type="text">Manchester City breached Premier League financial rules by creating ‘sham’ contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found</summary>
-    <content type="html">&lt;p&gt;Manchester City breached Premier League financial rules by creating ‘sham’ contracts to help inflate revenue and reduce costs by more than £900m over a nine-year period, an independent commission found&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-30T13:03:00Z</published>
-    <updated>2026-09-30T13:03:00Z</updated>
   </entry>
 </feed>
