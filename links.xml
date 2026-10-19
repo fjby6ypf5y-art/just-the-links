@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-19T19:33:00Z</updated>
+  <updated>2026-10-19T20:28:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Life after death?</title>
+    <link rel="alternate" type="text/html" href="https://pudding.cool/2026/10/lifeafter"/>
+    <id>urn:sha256:ee73f4e7395b3bf79ecd</id>
+    <summary type="text">Thousands of humans around the world wrestling with what comes after it all</summary>
+    <content type="html">&lt;p&gt;Thousands of humans around the world wrestling with what comes after it all&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Pudding&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://alvinschang.com&quot;&gt;alvinschang.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-19T20:28:00Z</published>
+    <updated>2026-10-19T20:28:00Z</updated>
+  </entry>
   <entry>
     <title>A Tiny 24 FPS E-Ink Game Boy Emulator</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=XiZmM6hwwAU"/>
@@ -867,12 +876,5 @@
     <content type="html">&lt;p&gt;Tom Goldstein argued before the Supreme Court and won nearly $100 million at poker. His double life was about to catch up with him.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Foundry&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-30T17:38:00Z</published>
     <updated>2026-09-30T17:38:00Z</updated>
-  </entry>
-  <entry>
-    <title>Sky burial - Wikipedia</title>
-    <link rel="alternate" type="text/html" href="https://en.wikipedia.org/wiki/Sky_burial"/>
-    <id>urn:sha256:bb333907c5e0ba4c5bc8</id>
-    <published>2026-09-30T16:28:00Z</published>
-    <updated>2026-09-30T16:28:00Z</updated>
   </entry>
 </feed>
