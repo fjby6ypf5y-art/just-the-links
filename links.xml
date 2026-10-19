@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-19T20:28:00Z</updated>
+  <updated>2026-10-19T21:18:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Should we all be getting tariff refunds right now? : Planet Money</title>
+    <link rel="alternate" type="text/html" href="https://www.npr.org/transcripts/nx-s1-5996901"/>
+    <id>urn:sha256:9594affe82988b87dc20</id>
+    <summary type="text">Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid back, too. But … it’s not so simple. Once again, we’re dipping back into the drama of import tax law. We’re engrossed in the ups, downs, betrayal, and…</summary>
+    <content type="html">&lt;p&gt;Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid back, too. But … it’s not so simple. Once again, we’re dipping back into the drama of import tax law. We’re engrossed in the ups, downs, betrayal, and…&lt;/p&gt;&lt;p&gt;&lt;em&gt;NPR&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.panic.com&quot;&gt;panic.com&lt;/a&gt;, &lt;a href=&quot;https://cabel.com&quot;&gt;cabel.com&lt;/a&gt;, &lt;a href=&quot;https://play.date&quot;&gt;play.date&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-19T21:18:00Z</published>
+    <updated>2026-10-19T21:18:00Z</updated>
+  </entry>
   <entry>
     <title>Life after death?</title>
     <link rel="alternate" type="text/html" href="https://pudding.cool/2026/10/lifeafter"/>
@@ -867,14 +876,5 @@
     <content type="html">&lt;p&gt;Why are we so obsessed with putting our belongings in metal boxes and then never looking at them again?&lt;/p&gt;&lt;p&gt;&lt;em&gt;The New Yorker · David Owen&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-09-30T19:58:00Z</published>
     <updated>2026-09-30T19:58:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Tell: Tom Goldstein’s Double Life</title>
-    <link rel="alternate" type="text/html" href="https://www.thfndry.com/the-tell"/>
-    <id>urn:sha256:f0d6510fd8ee1f45a07f</id>
-    <summary type="text">Tom Goldstein argued before the Supreme Court and won nearly $100 million at poker. His double life was about to catch up with him.</summary>
-    <content type="html">&lt;p&gt;Tom Goldstein argued before the Supreme Court and won nearly $100 million at poker. His double life was about to catch up with him.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Foundry&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-30T17:38:00Z</published>
-    <updated>2026-09-30T17:38:00Z</updated>
   </entry>
 </feed>
