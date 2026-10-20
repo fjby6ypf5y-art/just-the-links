@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-20T12:39:00Z</updated>
+  <updated>2026-10-20T14:09:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>How Japanese Dried Bonito Is Made</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HsMbNVEJp9g"/>
+    <id>urn:sha256:25d97db58e4b38ab3e39</id>
+    <summary type="text">How katsuobushi -- Japanese dried bonito, said to be the world&#x27;s hardest food -- is made in Nishi-Izu, Japan. Inside Kanesa Katsuobushi Shoten, a workshop fo...</summary>
+    <content type="html">&lt;p&gt;How katsuobushi -- Japanese dried bonito, said to be the world&amp;#x27;s hardest food -- is made in Nishi-Izu, Japan. Inside Kanesa Katsuobushi Shoten, a workshop fo...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · SugoUma Japan - スゴウマジャパン / Japanese Food&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.canesa.net&quot;&gt;canesa.net&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-20T14:09:00Z</published>
+    <updated>2026-10-20T14:09:00Z</updated>
+  </entry>
   <entry>
     <title>Blocking Internet Archive Will Not Stop AI</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065?gift=j9r7avb6p-KY8zdjhsiSZ1AS4fIdqjHOc9xe3O3gHT8"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;Eternal Family is an offbeat streaming platform presenting hidden gems from the past and surreal entertainment.&lt;/p&gt;</content>
     <published>2026-09-30T22:20:00Z</published>
     <updated>2026-09-30T22:20:00Z</updated>
-  </entry>
-  <entry>
-    <title>I used to get paid to hang out with famous people</title>
-    <link rel="alternate" type="text/html" href="https://www.blackbirdspyplane.com/p/i-used-to-get-paid-to-hang-out-with-famous-people"/>
-    <id>urn:sha256:7793a6f576b43df01436</id>
-    <summary type="text">Notes on a (dying?) dream job</summary>
-    <content type="html">&lt;p&gt;Notes on a (dying?) dream job&lt;/p&gt;&lt;p&gt;&lt;em&gt;Blackbird Spyplane&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-09-30T20:58:00Z</published>
-    <updated>2026-09-30T20:58:00Z</updated>
   </entry>
 </feed>
