@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-20T16:41:00Z</updated>
+  <updated>2026-10-20T17:47:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Best Monopoly Strategy, Tested on 300 Million Games</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=S_2eVAaw1UM"/>
+    <id>urn:sha256:ea1729d3cc1c29bbd29a</id>
+    <summary type="text">I turned eight classic Monopoly strategies into computer players and made them play 312,898,560 games against each other. At a table of four, the best one wo...</summary>
+    <content type="html">&lt;p&gt;I turned eight classic Monopoly strategies into computer players and made them play 312,898,560 games against each other. At a table of four, the best one wo...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Perfect Play&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-20T17:47:00Z</published>
+    <updated>2026-10-20T17:47:00Z</updated>
+  </entry>
   <entry>
     <title>Protestors Criticized For Looting Businesses Without Forming Private Equity Firm First</title>
     <link rel="alternate" type="text/html" href="https://theonion.com/protestors-criticized-for-looting-businesses-without-fo-1843735351"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;Shop Amazon Kindle Paperwhite (16 GB) – Our fastest Kindle ever, with new 7&amp;quot; glare-free display, and weeks of battery life&lt;/p&gt;</content>
     <published>2026-10-01T14:00:00Z</published>
     <updated>2026-10-01T14:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Sylvester Stallone Hid His Struggles. At 80, He’s Coming Clean. | The Interview</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=ccs-B_nTfZs"/>
-    <id>urn:sha256:5e4eaa2a70d0454bfa7a</id>
-    <summary type="text">Sylvester Stallone has loomed large in our popular imagination for 50 years, ever since he exploded onto the screen playing the iconic underdog boxer Rocky B...</summary>
-    <content type="html">&lt;p&gt;Sylvester Stallone has loomed large in our popular imagination for 50 years, ever since he exploded onto the screen playing the iconic underdog boxer Rocky B...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Interview&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-01T13:00:00Z</published>
-    <updated>2026-10-01T13:00:00Z</updated>
   </entry>
 </feed>
