@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-20T17:47:00Z</updated>
+  <updated>2026-10-20T18:46:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Newly Identified Green Star Leaves Astronomers Amazed</title>
+    <link rel="alternate" type="text/html" href="https://www.reuters.com/science/newly-identified-green-star-leaves-astronomers-amazed-2026-10-16"/>
+    <id>urn:sha256:d532f186bf85742c2850</id>
+    <published>2026-10-20T18:46:00Z</published>
+    <updated>2026-10-20T18:46:00Z</updated>
+  </entry>
   <entry>
     <title>The Best Monopoly Strategy, Tested on 300 Million Games</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=S_2eVAaw1UM"/>
@@ -865,14 +872,5 @@
     <id>urn:sha256:16fea67cade7cc8cabb9</id>
     <published>2026-10-01T16:00:00Z</published>
     <updated>2026-10-01T16:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Kindle Paperwhite 16 GB | Fastest Kindle E-Reader</title>
-    <link rel="alternate" type="text/html" href="https://www.amazon.com/exec/obidos/ASIN/B0GHT67RG2/ref=nosim/0sil8"/>
-    <id>urn:sha256:ca17328e13a3e50125b9</id>
-    <summary type="text">Shop Amazon Kindle Paperwhite (16 GB) – Our fastest Kindle ever, with new 7&quot; glare-free display, and weeks of battery life</summary>
-    <content type="html">&lt;p&gt;Shop Amazon Kindle Paperwhite (16 GB) – Our fastest Kindle ever, with new 7&amp;quot; glare-free display, and weeks of battery life&lt;/p&gt;</content>
-    <published>2026-10-01T14:00:00Z</published>
-    <updated>2026-10-01T14:00:00Z</updated>
   </entry>
 </feed>
