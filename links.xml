@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-20T15:35:00Z</updated>
+  <updated>2026-10-20T16:41:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Protestors Criticized For Looting Businesses Without Forming Private Equity Firm First</title>
+    <link rel="alternate" type="text/html" href="https://theonion.com/protestors-criticized-for-looting-businesses-without-fo-1843735351"/>
+    <id>urn:sha256:de6ef5dc5633ae6cb860</id>
+    <summary type="text">MINNEAPOLIS—Calling for a more measured way to express opposition to police brutality, critics slammed demonstrators Thursday for recklessly looting businesses without forming a private equity firm first. “Look, we all have the right to protest, but that doesn’t mean you can just rush in and destroy any business without gathering a group of clandestine investors to purchase it at a severely reduced price and slowly bleed it to death,” said Facebook commenter Amy Mulrain, echoing the sentiments…</summary>
+    <content type="html">&lt;p&gt;MINNEAPOLIS—Calling for a more measured way to express opposition to police brutality, critics slammed demonstrators Thursday for recklessly looting businesses without forming a private equity firm first. “Look, we all have the right to protest, but that doesn’t mean you can just rush in and destroy any business without gathering a group of clandestine investors to purchase it at a severely reduced price and slowly bleed it to death,” said Facebook commenter Amy Mulrain, echoing the sentiments…&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Onion · The Onion Staff&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-20T16:41:00Z</published>
+    <updated>2026-10-20T16:41:00Z</updated>
+  </entry>
   <entry>
     <title>Did Claude Help an Amateur Astronomer Discover a New Planet?</title>
     <link rel="alternate" type="text/html" href="https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;Sylvester Stallone has loomed large in our popular imagination for 50 years, ever since he exploded onto the screen playing the iconic underdog boxer Rocky B...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Interview&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-01T13:00:00Z</published>
     <updated>2026-10-01T13:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>EP 1: ROOFTOPS, PENTHOUSES, AND URBAN LIVING</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_h_pQ1-5iQg"/>
-    <id>urn:sha256:50c6d4b724aeb6a253b3</id>
-    <summary type="text">In this episode, I discuss why I decided to start the Minecraft City, followed by an examination of the first building downtown and other key rooftop propert...</summary>
-    <content type="html">&lt;p&gt;In this episode, I discuss why I decided to start the Minecraft City, followed by an examination of the first building downtown and other key rooftop propert...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Mike Tomlin&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-01T12:08:00Z</published>
-    <updated>2026-10-01T12:08:00Z</updated>
   </entry>
 </feed>
