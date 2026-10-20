@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-20T14:09:00Z</updated>
+  <updated>2026-10-20T15:35:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Did Claude Help an Amateur Astronomer Discover a New Planet?</title>
+    <link rel="alternate" type="text/html" href="https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393"/>
+    <id>urn:sha256:a6ba9ef21e2f6a77d84e</id>
+    <summary type="text">Billions of exoplanets are believed to be out there awaiting discovery. AI—with its ability to sift through mountains of data—could speed that process along.</summary>
+    <content type="html">&lt;p&gt;Billions of exoplanets are believed to be out there awaiting discovery. AI—with its ability to sift through mountains of data—could speed that process along.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Gizmodo · Webb Wright&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://tess.mit.edu&quot;&gt;tess.mit.edu&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-20T15:35:00Z</published>
+    <updated>2026-10-20T15:35:00Z</updated>
+  </entry>
   <entry>
     <title>How Japanese Dried Bonito Is Made</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=HsMbNVEJp9g"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;In this episode, I discuss why I decided to start the Minecraft City, followed by an examination of the first building downtown and other key rooftop propert...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Mike Tomlin&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-01T12:08:00Z</published>
     <updated>2026-10-01T12:08:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Hidden-Gem Media Service</title>
-    <link rel="alternate" type="text/html" href="https://eternal.tv"/>
-    <id>urn:sha256:5b9249eca3a4847da9c7</id>
-    <summary type="text">Eternal Family is an offbeat streaming platform presenting hidden gems from the past and surreal entertainment.</summary>
-    <content type="html">&lt;p&gt;Eternal Family is an offbeat streaming platform presenting hidden gems from the past and surreal entertainment.&lt;/p&gt;</content>
-    <published>2026-09-30T22:20:00Z</published>
-    <updated>2026-09-30T22:20:00Z</updated>
   </entry>
 </feed>
