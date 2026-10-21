@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-21T12:55:00Z</updated>
+  <updated>2026-10-21T13:45:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Japan Launches Mission To Bring Home A Piece Of The Martian Moon Phobos</title>
+    <link rel="alternate" type="text/html" href="https://arstechnica.com/space/2026/10/japan-launches-mission-to-bring-home-a-piece-of-the-martian-moon-phobos"/>
+    <id>urn:sha256:c724d86504b141244b77</id>
+    <published>2026-10-21T13:45:00Z</published>
+    <updated>2026-10-21T13:45:00Z</updated>
+  </entry>
   <entry>
     <title>What Moving House Can Do Your Happiness</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/family/archive/2021/01/what-moving-house-can-do-your-happiness/617667?gift=j9r7avb6p-KY8zdjhsiSZ_WVacR_xvGiAsUFKmGKXA8"/>
@@ -862,14 +869,5 @@
     <content type="html">&lt;p&gt;An enormous pulse of wave energy will soon reach Southern California and continue north, raising sea levels by half a foot and increasing threats from swells and tides.&lt;/p&gt;</content>
     <published>2026-10-02T13:00:00Z</published>
     <updated>2026-10-02T13:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Student Journalists Who Never Let the Cornell Assault Case Go</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/09/29/nyregion/cornell-daily-sun-newspaper-rape.html?unlocked_article_code=1.FlE.fY24.WJzc1CCqhiAp"/>
-    <id>urn:sha256:91bc8aea42ead16bad95</id>
-    <summary type="text">The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity house since they were first made in 2024 and led the reporting on the case.</summary>
-    <content type="html">&lt;p&gt;The student newspaper, The Cornell Daily Sun, covered the allegations of rape at a fraternity house since they were first made in 2024 and led the reporting on the case.&lt;/p&gt;</content>
-    <published>2026-10-02T11:30:00Z</published>
-    <updated>2026-10-02T11:30:00Z</updated>
   </entry>
 </feed>
