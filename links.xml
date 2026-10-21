@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-21T14:49:00Z</updated>
+  <updated>2026-10-21T16:03:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Physics-Based Portal Puzzle Platformer</title>
+    <link rel="alternate" type="text/html" href="https://www.playlinkloop.com"/>
+    <id>urn:sha256:d1bd44a554376310b6d3</id>
+    <summary type="text">Link Loop is a physics-based portal puzzle platformer for PC and Steam Deck, with co-op, a built-in level editor and Steam Workshop support.</summary>
+    <content type="html">&lt;p&gt;Link Loop is a physics-based portal puzzle platformer for PC and Steam Deck, with co-op, a built-in level editor and Steam Workshop support.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Link Loop&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=l-8hU9XEep8&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-21T16:03:00Z</published>
+    <updated>2026-10-21T16:03:00Z</updated>
+  </entry>
   <entry>
     <title>Ambient Earth</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=alJMoaKpV_E"/>
@@ -860,14 +869,5 @@
     <content type="html">&lt;p&gt;Peacock roasted in its own feathers. Beer made of sulphuric acid. Bread leavened with hydrochloric acid. 282 recipes printed in earnest in real books between 1831 and 1929. Please do not make any of them.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Don&amp;#x27;t Cook That&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-02T18:00:00Z</published>
     <updated>2026-10-02T18:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Bayeux Tapestry of Fascism: The Stephen Collins cartoon</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/lifeandstyle/picture/2026/sep/18/the-bayeux-tapestry-of-fascism-the-stephen-collins-cartoon"/>
-    <id>urn:sha256:1776fa1faecd2787685c</id>
-    <summary type="text">Contemporary British political life is a rich tapestry indeed</summary>
-    <content type="html">&lt;p&gt;Contemporary British political life is a rich tapestry indeed&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-02T15:40:00Z</published>
-    <updated>2026-10-02T15:40:00Z</updated>
   </entry>
 </feed>
