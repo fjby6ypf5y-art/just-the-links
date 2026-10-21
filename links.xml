@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-21T20:07:00Z</updated>
+  <updated>2026-10-21T21:57:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>They Created a Cell That’s Almost Alive. What to Do With It Now?</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html?unlocked_article_code=1.KVE.in7C.avsNc611Xlqh"/>
+    <id>urn:sha256:21bbf3906f3755f47629</id>
+    <summary type="text">SpudCells may one day produce new medicines and materials. But first scientists have to improve them — and make sure they aren’t misused.</summary>
+    <content type="html">&lt;p&gt;SpudCells may one day produce new medicines and materials. But first scientists have to improve them — and make sure they aren’t misused.&lt;/p&gt;</content>
+    <published>2026-10-21T21:57:00Z</published>
+    <updated>2026-10-21T21:57:00Z</updated>
+  </entry>
+  <entry>
+    <title>Bastardica</title>
+    <link rel="alternate" type="text/html" href="https://bastardica.mitpit.com"/>
+    <id>urn:sha256:f03b8aa461cf74976d5e</id>
+    <summary type="text">A type foundry for bastard web fonts.</summary>
+    <content type="html">&lt;p&gt;A type foundry for bastard web fonts.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bastardica&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-21T21:12:00Z</published>
+    <updated>2026-10-21T21:12:00Z</updated>
+  </entry>
   <entry>
     <title>How Did Life Arise?</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/19/science/evolution-life-earth.html?unlocked_article_code=1.KVE.hmnh.mNZL7wVyDP-f"/>
@@ -851,21 +869,5 @@
     <content type="html">&lt;p&gt;Beautiful photos of Black and Brown people, for free. For commercial and personal use.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nappy&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-05T17:37:00Z</published>
     <updated>2026-10-05T17:37:00Z</updated>
-  </entry>
-  <entry>
-    <title>mappingtariffs.org</title>
-    <link rel="alternate" type="text/html" href="https://mappingtariffs.org/map"/>
-    <id>urn:sha256:88f10154ff7f547a8c38</id>
-    <published>2026-10-05T15:32:00Z</published>
-    <updated>2026-10-05T15:32:00Z</updated>
-  </entry>
-  <entry>
-    <title>John Roberts and His Island</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/01/us/politics/supreme-court-roberts-maine.html?unlocked_article_code=1.FVE.67C_.wUqbR8eoPNdG"/>
-    <id>urn:sha256:012e31027b282966ced9</id>
-    <summary type="text">After decades of potlucks and paddle-boarding on Maine’s midcoast, rising anger and protests have left the Supreme Court’s chief justice more isolated than ever.</summary>
-    <content type="html">&lt;p&gt;After decades of potlucks and paddle-boarding on Maine’s midcoast, rising anger and protests have left the Supreme Court’s chief justice more isolated than ever.&lt;/p&gt;</content>
-    <published>2026-10-05T14:40:00Z</published>
-    <updated>2026-10-05T14:40:00Z</updated>
   </entry>
 </feed>
