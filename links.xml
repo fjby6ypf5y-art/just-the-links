@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-21T21:57:00Z</updated>
+  <updated>2026-10-22T00:49:03Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Meet Prometheus, a Gift Link Search Engine</title>
+    <link rel="alternate" type="text/html" href="https://bsky.app/profile/davidsacerdote.bsky.social/feed/aaaixbb5liqbu"/>
+    <id>urn:sha256:7d0105938d74bd4874d8</id>
+    <summary type="text">Gift links or Gift Articles - paywall bypassing links to major publications. Like and pin this feed so you and others can find it easily. Set &#x27;Content Languages&#x27; to see more from other countries in the Gift Link Feed: https://bsky.app/settings/language</summary>
+    <content type="html">&lt;p&gt;Gift links or Gift Articles - paywall bypassing links to major publications. Like and pin this feed so you and others can find it easily. Set &amp;#x27;Content Languages&amp;#x27; to see more from other countries in the Gift Link Feed: https://bsky.app/settings/language&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bluesky Social&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://mastodon.social/tags/giftlink&quot;&gt;mastodon.social&lt;/a&gt;, &lt;a href=&quot;https://www.techdirt.com/2024/04/30/read-all-about-how-paywalls-are-bad-for-democracy-right-behind-this-paywall&quot;&gt;techdirt.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-22T00:49:03Z</published>
+    <updated>2026-10-22T00:49:03Z</updated>
+  </entry>
   <entry>
     <title>They Created a Cell That’s Almost Alive. What to Do With It Now?</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/14/science/spudcell-adamala-biotic.html?unlocked_article_code=1.KVE.in7C.avsNc611Xlqh"/>
@@ -860,14 +869,5 @@
     <content type="html">&lt;p&gt;Middle school introduces us to complicated history. These kids wrote a play about Joseph Stalin.&lt;/p&gt;</content>
     <published>2026-10-05T18:27:00Z</published>
     <updated>2026-10-05T18:27:00Z</updated>
-  </entry>
-  <entry>
-    <title>Beautifully Diverse Stock Photos</title>
-    <link rel="alternate" type="text/html" href="https://nappy.co"/>
-    <id>urn:sha256:b5b3a369967dafbb055e</id>
-    <summary type="text">Beautiful photos of Black and Brown people, for free. For commercial and personal use.</summary>
-    <content type="html">&lt;p&gt;Beautiful photos of Black and Brown people, for free. For commercial and personal use.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nappy&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-05T17:37:00Z</published>
-    <updated>2026-10-05T17:37:00Z</updated>
   </entry>
 </feed>
