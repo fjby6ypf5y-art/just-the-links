@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-22T19:49:00Z</updated>
+  <updated>2026-10-22T20:31:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Flipbook of the Rings</title>
+    <link rel="alternate" type="text/html" href="https://www.andymation.com"/>
+    <id>urn:sha256:c336de8e665896dc80ba</id>
+    <summary type="text">Andymation flipbook kits and supplementary materials are the best way to draw your own story! You can find all the basics as well as supplementary drawing materials here. Or, find a way to personalize your flipbooks with different color custom Snap Screws. You can also find Andymation branded merch.</summary>
+    <content type="html">&lt;p&gt;Andymation flipbook kits and supplementary materials are the best way to draw your own story! You can find all the basics as well as supplementary drawing materials here. Or, find a way to personalize your flipbooks with different color custom Snap Screws. You can also find Andymation branded merch.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Andymation new site&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=lWtX7nVFrUw&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=4vCN8EXoCVk&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://awonderfulsheep.com/2025/08/01/lotr-the-flipbook-of-the-rings&quot;&gt;awonderfulsheep.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=_R-vtxh5aVA&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-22T20:31:00Z</published>
+    <updated>2026-10-22T20:31:00Z</updated>
+  </entry>
   <entry>
     <title>OMNI Magazine Archive : Free Download, Borrow, and Streaming : Internet Archive</title>
     <link rel="alternate" type="text/html" href="https://archive.org/details/omni-archive"/>
@@ -866,14 +875,5 @@
     <content type="html">&lt;p&gt;The infamous hate group is trying to rebrand itself as the &amp;#x27;Knights Party&amp;#x27; in an attempt to grow its base.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Al Jazeera · Al Jazeera Staff&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-06T18:31:00Z</published>
     <updated>2026-10-06T18:31:00Z</updated>
-  </entry>
-  <entry>
-    <title>Profile of Mark Zuckerberg</title>
-    <link rel="alternate" type="text/html" href="https://colossus.com/article/mark-zuckerberg-profile"/>
-    <id>urn:sha256:7c5494adebcbebe93e9f</id>
-    <summary type="text">A journey to the heart of history’s largest nonterritorial empire</summary>
-    <content type="html">&lt;p&gt;A journey to the heart of history’s largest nonterritorial empire&lt;/p&gt;&lt;p&gt;&lt;em&gt;Colossus&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-06T16:01:00Z</published>
-    <updated>2026-10-06T16:01:00Z</updated>
   </entry>
 </feed>
