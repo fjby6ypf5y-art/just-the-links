@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-23T16:30:00Z</updated>
+  <updated>2026-10-23T17:44:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Restaurant Phone Number Question</title>
+    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/culture/2026/10/restaurant-phone-number-question/688926?gift=j9r7avb6p-KY8zdjhsiSZ0tFeAhe7IhdA8vfU9uxDyc"/>
+    <id>urn:sha256:5a1dd67a1f391637e9f0</id>
+    <published>2026-10-23T17:44:00Z</published>
+    <updated>2026-10-23T17:44:00Z</updated>
+  </entry>
   <entry>
     <title>US households pay 62% more for water than they did a decade ago, study finds</title>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study"/>
@@ -866,14 +873,5 @@
     <content type="html">&lt;p&gt;There are so many things to do once you put your phone down. Scroll our list for inspiration.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Wirecutter: Reviews for the Real World&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-07T13:14:00Z</published>
     <updated>2026-10-07T13:14:00Z</updated>
-  </entry>
-  <entry>
-    <title>Gboard くるくるバージョン</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=DAn34l_YrUM"/>
-    <id>urn:sha256:778a20b58252d3cb27f5</id>
-    <summary type="text">Gboard チームからの新しいご提案、Gboard くるくるバージョンをご紹介します。Gboard くるくるバージョンは、キーがあなたの手元に流れてくる新しいキーボードです。ご家庭でも DIY できるよう設計図を公開しています。くわしくは以下のウェブサイトをご覧ください。Google Japan ブログ：htt...</summary>
-    <content type="html">&lt;p&gt;Gboard チームからの新しいご提案、Gboard くるくるバージョンをご紹介します。Gboard くるくるバージョンは、キーがあなたの手元に流れてくる新しいキーボードです。ご家庭でも DIY できるよう設計図を公開しています。くわしくは以下のウェブサイトをご覧ください。Google Japan ブログ：htt...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Google Japan&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-06T21:20:00Z</published>
-    <updated>2026-10-06T21:20:00Z</updated>
   </entry>
 </feed>
