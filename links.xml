@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-22T21:38:00Z</updated>
+  <updated>2026-10-23T16:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>US households pay 62% more for water than they did a decade ago, study finds</title>
+    <link rel="alternate" type="text/html" href="https://www.theguardian.com/us-news/2026/oct/06/households-drinking-water-cost-study"/>
+    <id>urn:sha256:7b6a1414b9f2be3eb509</id>
+    <summary type="text">For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author says</summary>
+    <content type="html">&lt;p&gt;For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author says&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-23T16:30:00Z</published>
+    <updated>2026-10-23T16:30:00Z</updated>
+  </entry>
   <entry>
     <title>allthingslinguistic.com</title>
     <link rel="alternate" type="text/html" href="https://allthingslinguistic.com/post/830127683810836480"/>
@@ -866,12 +875,5 @@
     <content type="html">&lt;p&gt;Gboard チームからの新しいご提案、Gboard くるくるバージョンをご紹介します。Gboard くるくるバージョンは、キーがあなたの手元に流れてくる新しいキーボードです。ご家庭でも DIY できるよう設計図を公開しています。くわしくは以下のウェブサイトをご覧ください。Google Japan ブログ：htt...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Google Japan&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-06T21:20:00Z</published>
     <updated>2026-10-06T21:20:00Z</updated>
-  </entry>
-  <entry>
-    <title>Things That Are Good To Do</title>
-    <link rel="alternate" type="text/html" href="https://www.quarter--mile.com/Things-That-Are-Good-to-Do"/>
-    <id>urn:sha256:8df59ffe35412fb4c2fa</id>
-    <published>2026-10-06T19:01:00Z</published>
-    <updated>2026-10-06T19:01:00Z</updated>
   </entry>
 </feed>
