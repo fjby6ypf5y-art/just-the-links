@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-23T17:44:00Z</updated>
+  <updated>2026-10-25T14:11:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>youtube.com</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=6jt_2bIaoxo"/>
+    <id>urn:sha256:d2f0a5a19c1ac0d0df14</id>
+    <published>2026-10-25T14:11:00Z</published>
+    <updated>2026-10-25T14:11:00Z</updated>
+  </entry>
   <entry>
     <title>Restaurant Phone Number Question</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/culture/2026/10/restaurant-phone-number-question/688926?gift=j9r7avb6p-KY8zdjhsiSZ0tFeAhe7IhdA8vfU9uxDyc"/>
@@ -864,14 +871,5 @@
     <content type="html">&lt;p&gt;It is 2026. You have been laid off. Somewhere there is a job.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bryan Mamaril&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-07T15:22:00Z</published>
     <updated>2026-10-07T15:22:00Z</updated>
-  </entry>
-  <entry>
-    <title>118 Things to Do Instead of Doomscrolling</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/wirecutter/reviews/advice-doomscrolling-alternatives"/>
-    <id>urn:sha256:46a63e0f2eb0ea88d64f</id>
-    <summary type="text">There are so many things to do once you put your phone down. Scroll our list for inspiration.</summary>
-    <content type="html">&lt;p&gt;There are so many things to do once you put your phone down. Scroll our list for inspiration.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Wirecutter: Reviews for the Real World&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-07T13:14:00Z</published>
-    <updated>2026-10-07T13:14:00Z</updated>
   </entry>
 </feed>
