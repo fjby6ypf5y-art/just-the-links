@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-26T16:15:00Z</updated>
+  <updated>2026-10-26T17:22:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>NASA’s Perseverance Sets Off-World Record for Total Distance Driven</title>
+    <link rel="alternate" type="text/html" href="https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven"/>
+    <id>urn:sha256:139ab5215aba49d5caca</id>
+    <summary type="text">NASA’s Perseverance Mars rover has driven farther than any vehicle ever has on the surface of another world. On Oct. 11, the rover’s odometer reached</summary>
+    <content type="html">&lt;p&gt;NASA’s Perseverance Mars rover has driven farther than any vehicle ever has on the surface of another world. On Oct. 11, the rover’s odometer reached&lt;/p&gt;&lt;p&gt;&lt;em&gt;NASA Science&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://science.nasa.gov/resource/how-perseverance-drives-on-mars&quot;&gt;science.nasa.gov&lt;/a&gt;, &lt;a href=&quot;https://www.guinnessworldrecords.com/world-records/highest-vehicle-mileage&quot;&gt;guinnessworldrecords.com&lt;/a&gt;, &lt;a href=&quot;https://www.volvocars.com/au/news/electrification/2023-october-one-careful-owner&quot;&gt;volvocars.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-26T17:22:00Z</published>
+    <updated>2026-10-26T17:22:00Z</updated>
+  </entry>
   <entry>
     <title>Battle Drones—a vibe coded RTS with audio-based multiplayer</title>
     <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/20/battledrones"/>
@@ -864,14 +873,5 @@
     <content type="html">&lt;p&gt;Discover and explore independent type foundries from around the world. Browse 900+ foundries, 18,000+ typefaces, and 2,700+ designers.&lt;/p&gt;</content>
     <published>2026-10-07T21:23:00Z</published>
     <updated>2026-10-07T21:23:00Z</updated>
-  </entry>
-  <entry>
-    <title>Wildwood</title>
-    <link rel="alternate" type="text/html" href="https://www.laika.com/our-films/wildwood"/>
-    <id>urn:sha256:f83f34f89e1ecb32602e</id>
-    <summary type="text">LAIKA&#x27;s next animated feature is &quot;Wildwood,&quot; based on the bestselling novel by Colin Meloy (The Decemberists&#x27; lead singer) and illustrated by Carson Ellis.</summary>
-    <content type="html">&lt;p&gt;LAIKA&amp;#x27;s next animated feature is &amp;quot;Wildwood,&amp;quot; based on the bestselling novel by Colin Meloy (The Decemberists&amp;#x27; lead singer) and illustrated by Carson Ellis.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=bJQGtSeLPII&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.creativeboom.com/insight/wildwood-art-director-matthew-maldonado-on-why-laika-still-builds-everything-by-hand-and-why-theyre-coming-to-londons-design-musuem&quot;&gt;creativeboom.com&lt;/a&gt;, &lt;a href=&quot;https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition&quot;&gt;designmuseum.org&lt;/a&gt;, &lt;a href=&quot;https://justinmlind.com&quot;&gt;justinmlind.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-07T20:10:00Z</published>
-    <updated>2026-10-07T20:10:00Z</updated>
   </entry>
 </feed>
