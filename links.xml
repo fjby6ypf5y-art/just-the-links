@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-26T17:22:00Z</updated>
+  <updated>2026-10-26T19:11:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Ten of the most bizarre films and their posters, as chosen by Eternal Family</title>
+    <link rel="alternate" type="text/html" href="https://www.itsnicethat.com/articles/eternal-family-film-project-151026"/>
+    <id>urn:sha256:dd5392af50bc01444c59</id>
+    <summary type="text">Eternal Family is a movie streaming app like no other. From Indian comedy-horrors to Filipino rip-offs of E.T, the app collects the kookiest curios of alternative cinema. Below, the collective picks its favourites among the madness.</summary>
+    <content type="html">&lt;p&gt;Eternal Family is a movie streaming app like no other. From Indian comedy-horrors to Filipino rip-offs of E.T, the app collects the kookiest curios of alternative cinema. Below, the collective picks its favourites among the madness.&lt;/p&gt;</content>
+    <published>2026-10-26T19:11:00Z</published>
+    <updated>2026-10-26T19:11:00Z</updated>
+  </entry>
+  <entry>
+    <title>How Tree Rings Challenged the Myth of American Wilderness</title>
+    <link rel="alternate" type="text/html" href="https://www.newyorker.com/science/elements/how-tree-rings-challenged-the-myth-of-american-wilderness"/>
+    <id>urn:sha256:b7353f840532c2a9f188</id>
+    <summary type="text">By studying fire scars in ancient wood, many scientists have become convinced that Indigenous people transformed North America long before Christopher Columbus arrived.</summary>
+    <content type="html">&lt;p&gt;By studying fire scars in ancient wood, many scientists have become convinced that Indigenous people transformed North America long before Christopher Columbus arrived.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The New Yorker · M. R. O’Connor&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-26T18:16:00Z</published>
+    <updated>2026-10-26T18:16:00Z</updated>
+  </entry>
   <entry>
     <title>NASA’s Perseverance Sets Off-World Record for Total Distance Driven</title>
     <link rel="alternate" type="text/html" href="https://science.nasa.gov/blogs/perseverance-mars-rover/2026/10/12/nasas-perseverance-sets-off-world-record-for-total-distance-driven"/>
@@ -855,23 +873,5 @@
     <content type="html">&lt;p&gt;Exploring the work of legendary graphic designer #SaulBass, and how he revolutionised the art of movie title design in the 1960s. Edited by Luís Azevedo.Watc...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Little White Lies&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=OQygyWx0dqs&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=knUXwj4Bu1U&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-08T11:30:00Z</published>
     <updated>2026-10-08T11:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Woman Whose Software Guided the Apollo Missions Has Died</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/07/obituaries/margaret-hamilton-dead.html?unlocked_article_code=1.HFE.bx1O.RusUdZLMA7_k"/>
-    <id>urn:sha256:d2e5bf7b98b8d4db19de</id>
-    <summary type="text">Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.</summary>
-    <content type="html">&lt;p&gt;Margaret Hamilton, the first female programmer hired to work on the space project at M.I.T., was 90.&lt;/p&gt;</content>
-    <published>2026-10-08T00:10:00Z</published>
-    <updated>2026-10-08T00:10:00Z</updated>
-  </entry>
-  <entry>
-    <title>Type.lol: Independent Type Foundry Index</title>
-    <link rel="alternate" type="text/html" href="https://type.lol/studies/where-type-comes-from"/>
-    <id>urn:sha256:8d67f3d4ac7ac8b5c244</id>
-    <summary type="text">Discover and explore independent type foundries from around the world. Browse 900+ foundries, 18,000+ typefaces, and 2,700+ designers.</summary>
-    <content type="html">&lt;p&gt;Discover and explore independent type foundries from around the world. Browse 900+ foundries, 18,000+ typefaces, and 2,700+ designers.&lt;/p&gt;</content>
-    <published>2026-10-07T21:23:00Z</published>
-    <updated>2026-10-07T21:23:00Z</updated>
   </entry>
 </feed>
