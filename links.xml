@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-26T19:11:00Z</updated>
+  <updated>2026-10-26T19:59:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Russian and East European Posters</title>
+    <link rel="alternate" type="text/html" href="https://digital-collections.princeton.edu/collections/soviet_posters"/>
+    <id>urn:sha256:6973a41702a0acf24ada</id>
+    <summary type="text">Princeton has a large and expanding collections of Russian and East European posters. The collection documents poster art as used in advertising for performances and films and in and a variety of P...</summary>
+    <content type="html">&lt;p&gt;Princeton has a large and expanding collections of Russian and East European posters. The collection documents poster art as used in advertising for performances and films and in and a variety of P...&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.flickr.com/photos/bpx/albums/72057594117941491&quot;&gt;flickr.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-26T19:59:00Z</published>
+    <updated>2026-10-26T19:59:00Z</updated>
+  </entry>
   <entry>
     <title>Ten of the most bizarre films and their posters, as chosen by Eternal Family</title>
     <link rel="alternate" type="text/html" href="https://www.itsnicethat.com/articles/eternal-family-film-project-151026"/>
@@ -864,14 +873,5 @@
     <content type="html">&lt;p&gt;When Americans first elected Donald Trump president in 2016, there were nearly 4 billion people living in nations where they could vote in fair and competitive elections. Last year, when Trump took office again, this estimate had fallen by half, to barely above 2 billion. In the intervening years, the number of people barred from […]&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Emancipator · Ibram X. Kendi&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-08T13:10:00Z</published>
     <updated>2026-10-08T13:10:00Z</updated>
-  </entry>
-  <entry>
-    <title>Saul Bass and the art of movie title design</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Q_Mo0MqICXI"/>
-    <id>urn:sha256:16eb87a24bf3414d6519</id>
-    <summary type="text">Exploring the work of legendary graphic designer #SaulBass, and how he revolutionised the art of movie title design in the 1960s. Edited by Luís Azevedo.Watc...</summary>
-    <content type="html">&lt;p&gt;Exploring the work of legendary graphic designer #SaulBass, and how he revolutionised the art of movie title design in the 1960s. Edited by Luís Azevedo.Watc...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Little White Lies&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=OQygyWx0dqs&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=knUXwj4Bu1U&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-08T11:30:00Z</published>
-    <updated>2026-10-08T11:30:00Z</updated>
   </entry>
 </feed>
