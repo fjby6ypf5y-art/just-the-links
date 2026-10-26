@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-26T15:21:00Z</updated>
+  <updated>2026-10-26T16:15:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Battle Drones—a vibe coded RTS with audio-based multiplayer</title>
+    <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/20/battledrones"/>
+    <id>urn:sha256:d0f0045fb40f11c22501</id>
+    <summary type="text">My latest vibe coded game experiment is a Command &amp;amp; Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is …</summary>
+    <content type="html">&lt;p&gt;My latest vibe coded game experiment is a Command &amp;amp;amp; Conquer style RTS (Real Time Strategy) game called Battle Drones (play it here). Unlike my previous experiments, this one is …&lt;/p&gt;&lt;p&gt;&lt;em&gt;Simon Willison’s Weblog · Simon Willison&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://simonwillison.net/2026/Oct/21/panache&quot;&gt;simonwillison.net&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-26T16:15:00Z</published>
+    <updated>2026-10-26T16:15:00Z</updated>
+  </entry>
   <entry>
     <title>TOKYO NATIONAL MUSEUM</title>
     <link rel="alternate" type="text/html" href="https://www.tnm.jp/modules/r_free_page/index.php?id=2759&amp;lang=en"/>
@@ -864,14 +873,5 @@
     <content type="html">&lt;p&gt;LAIKA&amp;#x27;s next animated feature is &amp;quot;Wildwood,&amp;quot; based on the bestselling novel by Colin Meloy (The Decemberists&amp;#x27; lead singer) and illustrated by Carson Ellis.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=bJQGtSeLPII&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.creativeboom.com/insight/wildwood-art-director-matthew-maldonado-on-why-laika-still-builds-everything-by-hand-and-why-theyre-coming-to-londons-design-musuem&quot;&gt;creativeboom.com&lt;/a&gt;, &lt;a href=&quot;https://designmuseum.org/exhibitions/laika-presents-wildwood-the-exhibition&quot;&gt;designmuseum.org&lt;/a&gt;, &lt;a href=&quot;https://justinmlind.com&quot;&gt;justinmlind.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-07T20:10:00Z</published>
     <updated>2026-10-07T20:10:00Z</updated>
-  </entry>
-  <entry>
-    <title>AI-generated posters don’t have to be horrible</title>
-    <link rel="alternate" type="text/html" href="https://john.hartnup.uk/2026/06/07/ai-event-posters.html"/>
-    <id>urn:sha256:b9c21ef0e3f58c4a5749</id>
-    <summary type="text">Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.</summary>
-    <content type="html">&lt;p&gt;Why AI-generated event posters all look alike — and how naming a design style and era, from Bauhaus to punk fanzine, gets far better results.&lt;/p&gt;&lt;p&gt;&lt;em&gt;‘ERE I AM - JH! · John Hartnup&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-07T19:03:00Z</published>
-    <updated>2026-10-07T19:03:00Z</updated>
   </entry>
 </feed>
