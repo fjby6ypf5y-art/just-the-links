@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-26T13:26:00Z</updated>
+  <updated>2026-10-26T14:29:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Winners of the Wildlife Photographer of the Year 2026</title>
+    <link rel="alternate" type="text/html" href="https://www.nhm.ac.uk/wpy/gallery?tags=award.ctgrywnnr%2Caward.impactaward%2Caward.wldlfphtgrphrfthyr%2Caward.yngwldlfphtgrphrfthyr&amp;tags=ed.current"/>
+    <id>urn:sha256:645d56ff0d21487f3114</id>
+    <summary type="text">Browse the WPY winning images in our immersive gallery. Use the filter tab to customise your search</summary>
+    <content type="html">&lt;p&gt;Browse the WPY winning images in our immersive gallery. Use the filter tab to customise your search&lt;/p&gt;&lt;p&gt;&lt;em&gt;Wildlife Photographer of the Year&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.theguardian.com/environment/gallery/2026/oct/14/wildlife-photographer-of-the-year-2026-winners-in-pictures&quot;&gt;theguardian.com&lt;/a&gt;, &lt;a href=&quot;https://www.theatlantic.com/photography/2026/10/winners-wildlife-photographer-year-2026/689005?gift=j9r7avb6p-KY8zdjhsiSZ_IDWljBk4RsBy6qXZusibY&quot;&gt;theatlantic.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-26T14:29:00Z</published>
+    <updated>2026-10-26T14:29:00Z</updated>
+  </entry>
   <entry>
     <title>How to install an app on your Commodore 64</title>
     <link rel="alternate" type="text/html" href="https://www.anildash.com/2026/10/08/install-an-app-commodore-64"/>
@@ -862,14 +871,5 @@
     <id>urn:sha256:49ce9524fbd2d43bafd4</id>
     <published>2026-10-07T18:03:00Z</published>
     <updated>2026-10-07T18:03:00Z</updated>
-  </entry>
-  <entry>
-    <title>Lots and Lots and Lots of Control Panels</title>
-    <link rel="alternate" type="text/html" href="https://www.flickr.com/groups/controlpanel/pool"/>
-    <id>urn:sha256:fd6ff65450f7df7d0791</id>
-    <summary type="text">We are dedicated to the joy of vintage buttons, knobs, dials, switches, toggles, gauges, readouts, and blinky-blinks. _____________________________________________________________ What? We enjoy all parts of vintage electronics, mid-century buildings and classic cars, but the images here shall focus solely on their knobs and toggle bits. Submissions will be stringently edited by the Master Controllers. Old stuff is favored over new, chrome over plastic, incandescent over fluorescent, heavy over…</summary>
-    <content type="html">&lt;p&gt;We are dedicated to the joy of vintage buttons, knobs, dials, switches, toggles, gauges, readouts, and blinky-blinks. _____________________________________________________________ What? We enjoy all parts of vintage electronics, mid-century buildings and classic cars, but the images here shall focus solely on their knobs and toggle bits. Submissions will be stringently edited by the Master Controllers. Old stuff is favored over new, chrome over plastic, incandescent over fluorescent, heavy over…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Flickr&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.flickr.com/groups/419512@N22/pool&quot;&gt;flickr.com&lt;/a&gt;, &lt;a href=&quot;https://aresluna.org/the-hardest-working-font-in-manhattan&quot;&gt;aresluna.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-07T16:32:00Z</published>
-    <updated>2026-10-07T16:32:00Z</updated>
   </entry>
 </feed>
