@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-29T18:18:00Z</updated>
+  <updated>2026-10-29T20:02:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Star Wars: The Radio Drama</title>
+    <link rel="alternate" type="text/html" href="https://archive.org/details/08Episode08DeathStarsTransit"/>
+    <id>urn:sha256:fc54bd97f66e1aedf879</id>
+    <summary type="text">These are out of my collection of Radio Dramas with Mark Hamill from 1981The Original Files are WMA, much larger than what you see here. I made the MP3 320kb...</summary>
+    <content type="html">&lt;p&gt;These are out of my collection of Radio Dramas with Mark Hamill from 1981The Original Files are WMA, much larger than what you see here. I made the MP3 320kb...&lt;/p&gt;&lt;p&gt;&lt;em&gt;Internet Archive&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://archive.org/details/10Episode10TheClashOfLightsabres&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://archive.org/details/05Episode05SoTurnsAGalaxySoTurnsAWheel&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://archive.org/details/palpsmightbepalpatineshhh/Star+Wars+-+National+Public+Radio+Trilogy&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://www.openculture.com/2020/05/the-original-star-wars-trilogy-adapted-into-a-14-hour-radio-drama-by-npr-1981-1996.html&quot;&gt;openculture.com&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Star_Wars_%28radio_series%29&quot;&gt;en.wikipedia.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-29T20:02:00Z</published>
+    <updated>2026-10-29T20:02:00Z</updated>
+  </entry>
+  <entry>
+    <title>Dumpster Archeology</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=hssJdx7EfM4"/>
+    <id>urn:sha256:9279b833e6f82753a0fd</id>
+    <summary type="text">Self-proclaimed &quot;Dumpster Archeologist&quot; Lew Blink embarks on thrilling expeditions through dimly lit alleys where every item holds a story waiting to be brou...</summary>
+    <content type="html">&lt;p&gt;Self-proclaimed &amp;quot;Dumpster Archeologist&amp;quot; Lew Blink embarks on thrilling expeditions through dimly lit alleys where every item holds a story waiting to be brou...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · StolenSun&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-29T19:11:00Z</published>
+    <updated>2026-10-29T19:11:00Z</updated>
+  </entry>
   <entry>
     <title>The Largest Tweetable Number — Lectures on Infinity (Lecture 4)</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3n115MgLFz0"/>
@@ -857,23 +875,5 @@
     <content type="html">&lt;p&gt;Observing across the starry “plains” of space, NASA’s James Webb Space Telescope has taken new images of NGC 2392, nicknamed the Lion Nebula. NASA’s Hubble&lt;/p&gt;&lt;p&gt;&lt;em&gt;NASA Science&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://science.nasa.gov/asset/hubble/ngc-2392&quot;&gt;science.nasa.gov&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Eskimo_Nebula&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.nasa.gov/solar-system/nasa-to-reexamine-nicknames-for-cosmic-objects&quot;&gt;nasa.gov&lt;/a&gt;, &lt;a href=&quot;https://www.robinsloan.com/newsletters/peeking-over-the-wall&quot;&gt;robinsloan.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-14T14:55:00Z</published>
     <updated>2026-10-14T14:55:00Z</updated>
-  </entry>
-  <entry>
-    <title>‘Breathtaking,’ ‘Devastating’: Mathematics Reels After New OpenAI Release</title>
-    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/08/science/mathematicians-respond-openai-release.html?unlocked_article_code=1.IlE.WQLh.PxXipj36yYaR"/>
-    <id>urn:sha256:42dca54cb1148b269ed0</id>
-    <summary type="text">Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.</summary>
-    <content type="html">&lt;p&gt;Hundreds of new A.I.-generated findings moved the frontiers of higher math in a single day — dispelling any doubt that the field is forever changed.&lt;/p&gt;</content>
-    <published>2026-10-14T02:36:00Z</published>
-    <updated>2026-10-14T02:36:00Z</updated>
-  </entry>
-  <entry>
-    <title>NARNIA: THE MAGICIAN’S NEPHEW | Official Trailer | Netflix</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=gDJ-ini7fF0"/>
-    <id>urn:sha256:39b3cd586aa0c73ba7de</id>
-    <summary type="text">Only in theaters February 12.Academy Award–nominated filmmaker Greta Gerwig brings C. S. Lewis’ beloved story The Magician’s Nephew to the screen for the fir...</summary>
-    <content type="html">&lt;p&gt;Only in theaters February 12.Academy Award–nominated filmmaker Greta Gerwig brings C. S. Lewis’ beloved story The Magician’s Nephew to the screen for the fir...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Netflix&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=sRhTeaa_B98&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-14T01:34:00Z</published>
-    <updated>2026-10-14T01:34:00Z</updated>
   </entry>
 </feed>
