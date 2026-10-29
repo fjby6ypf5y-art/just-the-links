@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-29T03:06:00Z</updated>
+  <updated>2026-10-29T12:55:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Rigatoni With White Bolognese Recipe • 5★</title>
+    <link rel="alternate" type="text/html" href="https://cooking.nytimes.com/recipes/11111-rigatoni-with-white-bolognese?unlocked_article_code=1.MVE.HQSN.6zs6kAkoeZF8"/>
+    <id>urn:sha256:c0eee4ffb04a7a377524</id>
+    <summary type="text">White Bolognese, a meat sauce made without tomato, is a variation you rarely see in America.</summary>
+    <content type="html">&lt;p&gt;White Bolognese, a meat sauce made without tomato, is a variation you rarely see in America.&lt;/p&gt;&lt;p&gt;&lt;em&gt;NYT Cooking&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-29T12:55:00Z</published>
+    <updated>2026-10-29T12:55:00Z</updated>
+  </entry>
   <entry>
     <title>Errol Morris Is Sitting on a Secret Elizabeth Holmes Interview (EXCLUSIVE)</title>
     <link rel="alternate" type="text/html" href="https://variety.com/2026/film/features/errol-morris-secret-elizabeth-holmes-interview-1236931901"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;@thomyorke_ and @HarryStyles meet as part of Rolling Stone’s eighth annual Musicians on Musicians series. They first met in Rome a couple of summers ago, whe...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Rolling Stone&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.rollingstone.com/music/music-features/harry-styles-thom-yorke-musicians-on-musicians-1235635935&quot;&gt;rollingstone.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-13T16:58:00Z</published>
     <updated>2026-10-13T16:58:00Z</updated>
-  </entry>
-  <entry>
-    <title>The people holding up the internet</title>
-    <link rel="alternate" type="text/html" href="https://sheets.works/data-viz/holding-up-the-internet/read"/>
-    <id>urn:sha256:b9d8da93113b0f9b127e</id>
-    <summary type="text">Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.</summary>
-    <content type="html">&lt;p&gt;Four billion phones ask one text file what time it is. One lecturer keeps it in his spare time. We counted the rest.&lt;/p&gt;</content>
-    <published>2026-10-13T16:10:00Z</published>
-    <updated>2026-10-13T16:10:00Z</updated>
   </entry>
 </feed>
