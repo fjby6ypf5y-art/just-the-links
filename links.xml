@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-29T16:03:00Z</updated>
+  <updated>2026-10-29T17:20:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The 200 Best Rock Songs of the 21st Century</title>
+    <link rel="alternate" type="text/html" href="https://www.rollingstone.com/music/music-lists/best-rock-songs-of-the-21st-century-1235634033"/>
+    <id>urn:sha256:73da2e9a7d519174e5d8</id>
+    <summary type="text">The 200 Greatest Rock Songs of the 21st Century So Far: The Strokes, the White Stripes, and more</summary>
+    <content type="html">&lt;p&gt;The 200 Greatest Rock Songs of the 21st Century So Far: The Strokes, the White Stripes, and more&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://open.spotify.com/playlist/6yf5RDVq1uRiqODOymJITp&quot;&gt;open.spotify.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-29T17:20:00Z</published>
+    <updated>2026-10-29T17:20:00Z</updated>
+  </entry>
   <entry>
     <title>The Remarkable Serbian Election</title>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"/>
@@ -866,13 +875,5 @@
     <content type="html">&lt;p&gt;HBO is reviving &amp;#x27;Girls,&amp;#x27; with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Variety · Selome Hailu&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-14T00:44:00Z</published>
     <updated>2026-10-14T00:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>So Many Different Mes</title>
-    <link rel="alternate" type="text/html" href="https://tomokosawada.com"/>
-    <id>urn:sha256:f13a79ce5aff7b1714e2</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;Tomoko Sawada - 澤田知子 |&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.tokyoweekender.com/art_and_culture/tomoko-sawada-photographer-interview&quot;&gt;tokyoweekender.com&lt;/a&gt;, &lt;a href=&quot;https://www.moma.org/collection/works/94742&quot;&gt;moma.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-13T20:08:00Z</published>
-    <updated>2026-10-13T20:08:00Z</updated>
   </entry>
 </feed>
