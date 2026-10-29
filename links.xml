@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-29T17:20:00Z</updated>
+  <updated>2026-10-29T18:18:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Largest Tweetable Number — Lectures on Infinity (Lecture 4)</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3n115MgLFz0"/>
+    <id>urn:sha256:211ae80ef07c47eec9c0</id>
+    <summary type="text">Lecture 4 of &quot;Lectures on Infinity.&quot;What is the largest number you can describe in a tweet? With only 280 characters, there must be a finite number of possib...</summary>
+    <content type="html">&lt;p&gt;Lecture 4 of &amp;quot;Lectures on Infinity.&amp;quot;What is the largest number you can describe in a tweet? With only 280 characters, there must be a finite number of possib...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Ergo&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-29T18:18:00Z</published>
+    <updated>2026-10-29T18:18:00Z</updated>
+  </entry>
   <entry>
     <title>The 200 Best Rock Songs of the 21st Century</title>
     <link rel="alternate" type="text/html" href="https://www.rollingstone.com/music/music-lists/best-rock-songs-of-the-21st-century-1235634033"/>
@@ -866,14 +875,5 @@
     <content type="html">&lt;p&gt;Only in theaters February 12.Academy Award–nominated filmmaker Greta Gerwig brings C. S. Lewis’ beloved story The Magician’s Nephew to the screen for the fir...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Netflix&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=sRhTeaa_B98&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-14T01:34:00Z</published>
     <updated>2026-10-14T01:34:00Z</updated>
-  </entry>
-  <entry>
-    <title>‘Girls’ Shocker: Lena Dunham Sets Revival at HBO With Allison Williams, Zosia Mamet, Jemima Kirke Returning</title>
-    <link rel="alternate" type="text/html" href="https://variety.com/2026/tv/news/girls-revival-lena-dunham-allison-williams-zosia-mamet-hbo-1236909362"/>
-    <id>urn:sha256:98a08eab0a082009a754</id>
-    <summary type="text">HBO is reviving &#x27;Girls,&#x27; with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.</summary>
-    <content type="html">&lt;p&gt;HBO is reviving &amp;#x27;Girls,&amp;#x27; with Lena Dunham, Allison Williams, Zosia Mamet, Jemima Kirke and Andrew Rannells returning.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Variety · Selome Hailu&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-14T00:44:00Z</published>
-    <updated>2026-10-14T00:44:00Z</updated>
   </entry>
 </feed>
