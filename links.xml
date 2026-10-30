@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-30T12:30:00Z</updated>
+  <updated>2026-10-30T15:25:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%</title>
+    <link rel="alternate" type="text/html" href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42"/>
+    <id>urn:sha256:66d5d662c245ed961e9e</id>
+    <summary type="text">Markers released top-line results today after previously reporting the trial succeeded.</summary>
+    <content type="html">&lt;p&gt;Markers released top-line results today after previously reporting the trial succeeded.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ars Technica&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-30T15:25:00Z</published>
+    <updated>2026-10-30T15:25:00Z</updated>
+  </entry>
   <entry>
     <title>Listen to a Long-Lost Daft Punk Mix From 1997</title>
     <link rel="alternate" type="text/html" href="https://www.instagram.com/p/DewzvwDtasv"/>
@@ -864,14 +873,5 @@
     <content type="html">&lt;p&gt;When the Democrats take back Congress, we need an agenda to return public functions to government and reverse decades of privatization.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The American Prospect · Robert Kuttner&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-14T20:33:00Z</published>
     <updated>2026-10-14T20:33:00Z</updated>
-  </entry>
-  <entry>
-    <title>BBC Global Women on Instagram: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech #WomenInSTEM&quot;</title>
-    <link rel="alternate" type="text/html" href="https://www.instagram.com/reels/DeUg8S4ilYY"/>
-    <id>urn:sha256:48ec602b675c1e65e1eb</id>
-    <summary type="text">42K likes, 1,144 comments - bbcglobalwomen on October 10, 2026: &quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech…</summary>
-    <content type="html">&lt;p&gt;42K likes, 1,144 comments - bbcglobalwomen on October 10, 2026: &amp;quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-14T19:38:00Z</published>
-    <updated>2026-10-14T19:38:00Z</updated>
   </entry>
 </feed>
