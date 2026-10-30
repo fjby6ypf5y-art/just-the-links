@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-29T21:24:00Z</updated>
+  <updated>2026-10-29T23:28:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Rest In Peace, Patrick Stewart (1940-2026)</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html?unlocked_article_code=1.MVE.y5HU.d3De6bGDNBbj"/>
+    <id>urn:sha256:d958103a036038cafcc2</id>
+    <summary type="text">The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”</summary>
+    <content type="html">&lt;p&gt;The British actor was 86. He achieved pop-culture stardom as Capt. Jean-Luc Picard on “Star Trek: The Next Generation.”&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://en.wikipedia.org/wiki/Patrick_Stewart&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.hollywoodreporter.com/tv/tv-news/patrick-stewart-stormed-off-star-trek-next-generation-set-1235603395&quot;&gt;hollywoodreporter.com&lt;/a&gt;, &lt;a href=&quot;https://www.wired.com/story/patrick-stewart-memoir&quot;&gt;wired.com&lt;/a&gt;, &lt;a href=&quot;http://archive.today/NLKDD&quot;&gt;archive.today&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=xUKrxHUCmnU&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-29T23:28:00Z</published>
+    <updated>2026-10-29T23:28:00Z</updated>
+  </entry>
   <entry>
     <title>Italian Farmer Found Unknown Seeds Attic With Nothing Lose Planted Them Result Biblical</title>
     <link rel="alternate" type="text/html" href="https://www.smithsonianmag.com/science-nature/italian-farmer-found-unknown-seeds-attic-with-nothing-lose-planted-them-result-biblical-180989644"/>
@@ -864,14 +873,5 @@
     <content type="html">&lt;p&gt;It&amp;#x27;s a film well-worth seeing — and talking about.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Grist · Frida Garza&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-14T17:18:00Z</published>
     <updated>2026-10-14T17:18:00Z</updated>
-  </entry>
-  <entry>
-    <title>Redesigning source control at Anthropic</title>
-    <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/13/redesigning-source-control-at-anthropic"/>
-    <id>urn:sha256:7e289d45dfc4cd8f5fef</id>
-    <summary type="text">Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the …</summary>
-    <content type="html">&lt;p&gt;Interesting piece from Anthropic describing why and how they built their own custom alternative to Git, based on the dramatic increase in rate of changes to their code after the …&lt;/p&gt;&lt;p&gt;&lt;em&gt;Simon Willison’s Weblog · Simon Willison&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.anthropic.com/engineering/redesigning-source-control&quot;&gt;anthropic.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-14T16:08:00Z</published>
-    <updated>2026-10-14T16:08:00Z</updated>
   </entry>
 </feed>
