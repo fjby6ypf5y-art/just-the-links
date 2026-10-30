@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-30T15:25:00Z</updated>
+  <updated>2026-10-30T16:45:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Benchma(r)king – James Bridle</title>
+    <link rel="alternate" type="text/html" href="https://emergencemagazine.org/essay/benchmarking"/>
+    <id>urn:sha256:66cd6a9082ecbf32abb3</id>
+    <summary type="text">Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.</summary>
+    <content type="html">&lt;p&gt;Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Emergence Magazine&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-10-30T16:45:00Z</published>
+    <updated>2026-10-30T16:45:00Z</updated>
+  </entry>
   <entry>
     <title>Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%</title>
     <link rel="alternate" type="text/html" href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42"/>
@@ -864,14 +873,5 @@
     <id>urn:sha256:54f04370b328eba1e0ae</id>
     <published>2026-10-14T21:40:00Z</published>
     <updated>2026-10-14T21:40:00Z</updated>
-  </entry>
-  <entry>
-    <title>Time to De-Privatize</title>
-    <link rel="alternate" type="text/html" href="https://prospect.org/2026/10/13/time-to-de-privatize-federal-government"/>
-    <id>urn:sha256:ee3f976d0b7530b31b6b</id>
-    <summary type="text">When the Democrats take back Congress, we need an agenda to return public functions to government and reverse decades of privatization.</summary>
-    <content type="html">&lt;p&gt;When the Democrats take back Congress, we need an agenda to return public functions to government and reverse decades of privatization.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The American Prospect · Robert Kuttner&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-14T20:33:00Z</published>
-    <updated>2026-10-14T20:33:00Z</updated>
   </entry>
 </feed>
