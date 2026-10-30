@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-29T23:28:00Z</updated>
+  <updated>2026-10-30T12:30:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Listen to a Long-Lost Daft Punk Mix From 1997</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/DewzvwDtasv"/>
+    <id>urn:sha256:53ad344c34283494a737</id>
+    <summary type="text">4,393 likes, 376 comments - ralph2020vision on October 21, 2026: &quot;daft punk - feb 1997 - dj mix Well it took a minute but massive thanks to Adrian @greatbeardigitising Bristol for restoring the tape by removing mould &amp; fixing rips! Might have to share this one? #daftpunk #electronicmusic&quot;.</summary>
+    <content type="html">&lt;p&gt;4,393 likes, 376 comments - ralph2020vision on October 21, 2026: &amp;quot;daft punk - feb 1997 - dj mix Well it took a minute but massive thanks to Adrian @greatbeardigitising Bristol for restoring the tape by removing mould &amp;amp; fixing rips! Might have to share this one? #daftpunk #electronicmusic&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://soundcloud.com/ralphlawson/daft-punk-feb-97-dj-mix&quot;&gt;soundcloud.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-30T12:30:00Z</published>
+    <updated>2026-10-30T12:30:00Z</updated>
+  </entry>
   <entry>
     <title>Rest In Peace, Patrick Stewart (1940-2026)</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/10/29/arts/television/patrick-stewart-dead.html?unlocked_article_code=1.MVE.y5HU.d3De6bGDNBbj"/>
@@ -864,14 +873,5 @@
     <content type="html">&lt;p&gt;42K likes, 1,144 comments - bbcglobalwomen on October 10, 2026: &amp;quot;“Look, I know social media wants this. I know you guys want this little clip…”⁣ ⁣ Meredith Whittaker oversees the running of the messaging app, Signal.⁣ ⁣ Time magazine named her one of the most powerful people in AI.⁣ ⁣ But when @meghamohanauthor sat down with her, to ask some quick fire questions, things didn’t quite go to plan…⁣ Tap the link in our bio to watch the full interview. ⁣ #BBCGlobalWomen #MeredithWhittaker #Tech…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-14T19:38:00Z</published>
     <updated>2026-10-14T19:38:00Z</updated>
-  </entry>
-  <entry>
-    <title>‘Digger’ has a lot of haters. Here’s why they’re wrong.</title>
-    <link rel="alternate" type="text/html" href="https://grist.org/culture/digger-has-a-lot-of-haters-heres-why-theyre-wrong"/>
-    <id>urn:sha256:39acf14635dde2a66888</id>
-    <summary type="text">It&#x27;s a film well-worth seeing — and talking about.</summary>
-    <content type="html">&lt;p&gt;It&amp;#x27;s a film well-worth seeing — and talking about.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Grist · Frida Garza&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-14T17:18:00Z</published>
-    <updated>2026-10-14T17:18:00Z</updated>
   </entry>
 </feed>
