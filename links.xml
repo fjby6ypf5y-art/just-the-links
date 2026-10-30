@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-10-30T16:45:00Z</updated>
+  <updated>2026-10-30T17:58:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Three-Body Orbits</title>
+    <link rel="alternate" type="text/html" href="https://www.threebodyorbits.com/orbit/v_figure_8_v_1_a"/>
+    <id>urn:sha256:1ce654db930734f1639b</id>
+    <summary type="text">Figure-8 V.1.A: a periodic three-body orbit with equal masses, period 6.3259, stable, from Šuvakov &amp; Dmitrašinović (2013). Watch it play, nudge it, rate it.</summary>
+    <content type="html">&lt;p&gt;Figure-8 V.1.A: a periodic three-body orbit with equal masses, period 6.3259, stable, from Šuvakov &amp;amp; Dmitrašinović (2013). Watch it play, nudge it, rate it.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Three Body Orbits&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://en.wikipedia.org/wiki/Three-body_problem&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.threebodyorbits.com/orbit/freefall_part1_f1111&quot;&gt;threebodyorbits.com&lt;/a&gt;, &lt;a href=&quot;https://www.threebodyorbits.com/orbit/hristov2026_hs417_1_1_1&quot;&gt;threebodyorbits.com&lt;/a&gt;, &lt;a href=&quot;https://www.threebodyorbits.com/hunt&quot;&gt;threebodyorbits.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-10-30T17:58:00Z</published>
+    <updated>2026-10-30T17:58:00Z</updated>
+  </entry>
   <entry>
     <title>Benchma(r)king – James Bridle</title>
     <link rel="alternate" type="text/html" href="https://emergencemagazine.org/essay/benchmarking"/>
@@ -866,12 +875,5 @@
     <content type="html">&lt;p&gt;A tiny office suite where the link is the document. No accounts. Nothing is saved anywhere unless you choose to keep it on this device.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tiny Little Office&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-15T12:39:00Z</published>
     <updated>2026-10-15T12:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Muffled Thud of Fire in the Hole</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/magazine/archive/2014/03/the-dark-power-of-fraternities/357580?gift=j9r7avb6p-KY8zdjhsiSZxeSahTOBZ8n1XamG1Qqr1Y"/>
-    <id>urn:sha256:54f04370b328eba1e0ae</id>
-    <published>2026-10-14T21:40:00Z</published>
-    <updated>2026-10-14T21:40:00Z</updated>
   </entry>
 </feed>
