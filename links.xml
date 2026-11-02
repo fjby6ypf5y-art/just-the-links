@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-02T14:20:00Z</updated>
+  <updated>2026-11-02T15:27:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Gilded Age Season 4 | Official Trailer | HBO Max</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=MqRa6X31lUk"/>
+    <id>urn:sha256:613362a28e0fae883d3c</id>
+    <summary type="text">On the verge of greatness, everything is at stake. Season 4 of #TheGildedAge premieres November 1 on HBO Max. About HBO Max:HBO Max is the premier global st...</summary>
+    <content type="html">&lt;p&gt;On the verge of greatness, everything is at stake. Season 4 of #TheGildedAge premieres November 1 on HBO Max. About HBO Max:HBO Max is the premier global st...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · HBO Max&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-02T15:27:00Z</published>
+    <updated>2026-11-02T15:27:00Z</updated>
+  </entry>
   <entry>
     <title>Readwise Books: Step Three of Our Master Plan</title>
     <link rel="alternate" type="text/html" href="https://blog.readwise.io/readwise-books"/>
@@ -866,14 +875,5 @@
     <content type="html">&lt;p&gt;procedurally generated fish drawings. Contribute to LingDong-/fishdraw development by creating an account on GitHub.&lt;/p&gt;&lt;p&gt;&lt;em&gt;GitHub&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-15T18:15:00Z</published>
     <updated>2026-10-15T18:15:00Z</updated>
-  </entry>
-  <entry>
-    <title>How Hunting Owls Use Sound to “See” Under the Snow</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=Ykcs1U0lNtE"/>
-    <id>urn:sha256:8261950c831f4fcecc94</id>
-    <summary type="text">In a Manitoba forest, a great grey owl sits atop a spindly branch. Then, wings outstretched, it descends from its perch, gliding over the blanket of snow. Sp...</summary>
-    <content type="html">&lt;p&gt;In a Manitoba forest, a great grey owl sits atop a spindly branch. Then, wings outstretched, it descends from its perch, gliding over the blanket of snow. Sp...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Nature of Things&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=kXucblbKmFA&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=BYjVVBFgl3c&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/The_Nature_of_Things&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@natureofthings/videos&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-15T16:55:00Z</published>
-    <updated>2026-10-15T16:55:00Z</updated>
   </entry>
 </feed>
