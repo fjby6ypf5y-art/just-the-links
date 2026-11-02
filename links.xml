@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-02T16:14:00Z</updated>
+  <updated>2026-11-02T18:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>now that’s what I call volta</title>
+    <link rel="alternate" type="text/html" href="https://jomc.substack.com/p/now-thats-what-i-call-volta"/>
+    <id>urn:sha256:5dc2598c4532899e3152</id>
+    <summary type="text">I loved this essay in Public Books by Emma Adler with exactly the sort of attention-grabbing headline to knock me out of my default internet sleepwalking state: “Every Novel Is Boring—Until It Isn’t”:</summary>
+    <content type="html">&lt;p&gt;I loved this essay in Public Books by Emma Adler with exactly the sort of attention-grabbing headline to knock me out of my default internet sleepwalking state: “Every Novel Is Boring—Until It Isn’t”:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Joanne McNeil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.publicbooks.org/every-novel-is-boring-until-it-isnt&quot;&gt;publicbooks.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-02T18:00:00Z</published>
+    <updated>2026-11-02T18:00:00Z</updated>
+  </entry>
+  <entry>
+    <title>The Collectively Drawn World</title>
+    <link rel="alternate" type="text/html" href="https://www.habibicode.org/thedrawnmaps"/>
+    <id>urn:sha256:6792e0b4f9445b56dc54</id>
+    <summary type="text">Every border and coastline people have drawn from memory playing Borderline: the world, the US states, the French départements, the UK&#x27;s counties, Germany&#x27;s Länder, Australia&#x27;s states, Switzerland&#x27;s cantons, Italy&#x27;s regions, Spain&#x27;s communities and Mexico&#x27;s states.</summary>
+    <content type="html">&lt;p&gt;Every border and coastline people have drawn from memory playing Borderline: the world, the US states, the French départements, the UK&amp;#x27;s counties, Germany&amp;#x27;s Länder, Australia&amp;#x27;s states, Switzerland&amp;#x27;s cantons, Italy&amp;#x27;s regions, Spain&amp;#x27;s communities and Mexico&amp;#x27;s states.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.habibicode.org/borderline&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnworld&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnusa&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawncanada&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnitaly&quot;&gt;habibicode.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-02T17:30:00Z</published>
+    <updated>2026-11-02T17:30:00Z</updated>
+  </entry>
   <entry>
     <title>Row Poulette Potato</title>
     <link rel="alternate" type="text/html" href="https://www.foodandwine.com/row-7-poulette-potato-12147524"/>
@@ -855,23 +873,5 @@
     <id>urn:sha256:d7ad9e5bc75bbbc4fe70</id>
     <published>2026-10-16T12:30:00Z</published>
     <updated>2026-10-16T12:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>Beautiful Seamless Ride</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=vcMhIjBYFBU"/>
-    <id>urn:sha256:c7c018085349bb12992f</id>
-    <summary type="text">Everything is connected. Each ride is an extension of the one before. Each reentry is a transition to the next launch. Each experience builds on one another ...</summary>
-    <content type="html">&lt;p&gt;Everything is connected. Each ride is an extension of the one before. Each reentry is a transition to the next launch. Each experience builds on one another ...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · #RideShimano&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://vimeo.com/649589757&quot;&gt;vimeo.com&lt;/a&gt;, &lt;a href=&quot;https://alastairhumphreys.com&quot;&gt;alastairhumphreys.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-15T21:00:00Z</published>
-    <updated>2026-10-15T21:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Last Skeuomorph in iOS?</title>
-    <link rel="alternate" type="text/html" href="https://www.jarrettfuller.blog/2026/09/camera-shutter-skeuomorph"/>
-    <id>urn:sha256:c0587ac8c091c312cbde</id>
-    <summary type="text">Physical shutters and the sound design of taking a photograph.</summary>
-    <content type="html">&lt;p&gt;Physical shutters and the sound design of taking a photograph.&lt;/p&gt;</content>
-    <published>2026-10-15T19:39:00Z</published>
-    <updated>2026-10-15T19:39:00Z</updated>
   </entry>
 </feed>
