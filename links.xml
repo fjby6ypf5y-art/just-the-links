@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-02T21:37:00Z</updated>
+  <updated>2026-11-02T22:55:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The October inflection point for vibe game development</title>
+    <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/28/vibe-game-development"/>
+    <id>urn:sha256:70f2bbbd704a353daaa0</id>
+    <summary type="text">I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents …</summary>
+    <content type="html">&lt;p&gt;I’ve written before about how November 2025 was an inflection point for coding agents—the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents …&lt;/p&gt;&lt;p&gt;&lt;em&gt;Simon Willison’s Weblog · Simon Willison&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-02T22:55:00Z</published>
+    <updated>2026-11-02T22:55:00Z</updated>
+  </entry>
   <entry>
     <title>Arkivism: search millions of public-domain images</title>
     <link rel="alternate" type="text/html" href="https://arkivism.com"/>
@@ -866,14 +875,5 @@
     <id>urn:sha256:bf703de8b684d7d0bd8a</id>
     <published>2026-10-16T19:13:00Z</published>
     <updated>2026-10-16T19:13:00Z</updated>
-  </entry>
-  <entry>
-    <title>Roooobot. Huuuuuman.</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=EcDJJSKs2o8"/>
-    <id>urn:sha256:0a7d1c0285fa5b6a2d5b</id>
-    <summary type="text">はじめまして。ノエルと申します。エイトリングの演技です。Hello, I&#x27;m Noëlle, a juggler from Japan.An eight-ring juggling performance.https://www.instagram.com/noelle_ju88ring?xtok=aW15MWU...</summary>
-    <content type="html">&lt;p&gt;はじめまして。ノエルと申します。エイトリングの演技です。Hello, I&amp;#x27;m Noëlle, a juggler from Japan.An eight-ring juggling performance.https://www.instagram.com/noelle_ju88ring?xtok=aW15MWU...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · 笹生明日香（ノエル）&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://akanekikaku.com/avantgardey&quot;&gt;akanekikaku.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/@avantgardey&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://mastodon.social/@sevlu/117433627240341636&quot;&gt;mastodon.social&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-16T18:10:00Z</published>
-    <updated>2026-10-16T18:10:00Z</updated>
   </entry>
 </feed>
