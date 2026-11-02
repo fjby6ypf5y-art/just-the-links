@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-02T19:58:00Z</updated>
+  <updated>2026-11-02T20:42:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>A.I. Stories in the Age of AI Hype: a Conversation with Ted Chiang</title>
+    <link rel="alternate" type="text/html" href="https://buttondown.com/charliejane/archive/ai-stories-in-the-age-of-ai-hype-a-conversation"/>
+    <id>urn:sha256:c8d17719102782ff4de1</id>
+    <summary type="text">First, a couple plugs! I’m a guest of honor at PhilCon next month, and it’s looking AWESOME. I’m doing a conversation with Jadzia Axelrod (Galaxy the...</summary>
+    <content type="html">&lt;p&gt;First, a couple plugs! I’m a guest of honor at PhilCon next month, and it’s looking AWESOME. I’m doing a conversation with Jadzia Axelrod (Galaxy the...&lt;/p&gt;</content>
+    <published>2026-11-02T20:42:00Z</published>
+    <updated>2026-11-02T20:42:00Z</updated>
+  </entry>
   <entry>
     <title>Pride and Prejudice | Official Trailer | Netflix</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=KuRYRhP6kag"/>
@@ -866,14 +875,5 @@
     <content type="html">&lt;p&gt;A new world. A new order. A new Blade Runner. Blade Runner 2099, a new limited series, premieres November 25th on Prime Video.» SUBSCRIBE: http://bit.ly/Prim...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Prime Video&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-16T17:00:00Z</published>
     <updated>2026-10-16T17:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>Going 94 MPH on a Skateboard (New World Record)</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=u3ydV2RVJvc"/>
-    <id>urn:sha256:0b2d9bac834331e38214</id>
-    <summary type="text">Two time downhill skateboard world champion Diego Poncelet sets a new world record for the fastest speed on a skateboard. Fulfilling a lifelong dream, he tra...</summary>
-    <content type="html">&lt;p&gt;Two time downhill skateboard world champion Diego Poncelet sets a new world record for the fastest speed on a skateboard. Fulfilling a lifelong dream, he tra...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Red Bull&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-16T15:32:00Z</published>
-    <updated>2026-10-16T15:32:00Z</updated>
   </entry>
 </feed>
