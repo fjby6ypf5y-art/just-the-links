@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-02T22:55:00Z</updated>
+  <updated>2026-11-03T19:09:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Wipeout XL Soundtrack (1996) + 2097 PSX Game Disc Tracks</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zeHxWUe6XeM"/>
+    <id>urn:sha256:6b12cd7905f0a028b90e</id>
+    <summary type="text">Electronica / Breakbeat / House / Electro / Acid / Drum And Bass&quot;Curly Says Press Play&quot;*Wipeout XL Soundtrack*00:00 1. The Future Sound Of London - We ...</summary>
+    <content type="html">&lt;p&gt;Electronica / Breakbeat / House / Electro / Acid / Drum And Bass&amp;quot;Curly Says Press Play&amp;quot;*Wipeout XL Soundtrack*00:00 1. The Future Sound Of London - We ...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Thriftin’ For Beats&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-03T19:09:00Z</published>
+    <updated>2026-11-03T19:09:00Z</updated>
+  </entry>
   <entry>
     <title>The October inflection point for vibe game development</title>
     <link rel="alternate" type="text/html" href="https://simonwillison.net/2026/Oct/28/vibe-game-development"/>
@@ -868,12 +877,5 @@
     <content type="html">&lt;p&gt;Algorithmic art, pen plots, and hardware pieces — artist &amp;amp; software engineer&lt;/p&gt;&lt;p&gt;&lt;em&gt;Adam Fuhrer&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://adamfuhrer.com#t=chromatic%20aberration&quot;&gt;adamfuhrer.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-16T20:09:00Z</published>
     <updated>2026-10-16T20:09:00Z</updated>
-  </entry>
-  <entry>
-    <title>Margaret Atwood Handmaids Tale Virginia Book Ban Library Removal</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/ideas/archive/2023/02/margaret-atwood-handmaids-tale-virginia-book-ban-library-removal/673013?gift=j9r7avb6p-KY8zdjhsiSZ3-c2_UN_Zj6nztvCkh8h-0"/>
-    <id>urn:sha256:bf703de8b684d7d0bd8a</id>
-    <published>2026-10-16T19:13:00Z</published>
-    <updated>2026-10-16T19:13:00Z</updated>
   </entry>
 </feed>
