@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-03T19:09:00Z</updated>
+  <updated>2026-11-03T20:01:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>APOD: 2026 November 2 - A Long Cloud on Mars</title>
+    <link rel="alternate" type="text/html" href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars"/>
+    <id>urn:sha256:97484297c8c94a4b95c9</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;NASA Science&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-03T20:01:00Z</published>
+    <updated>2026-11-03T20:01:00Z</updated>
+  </entry>
   <entry>
     <title>Wipeout XL Soundtrack (1996) + 2097 PSX Game Disc Tracks</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=zeHxWUe6XeM"/>
@@ -868,14 +876,5 @@
     <content type="html">&lt;p&gt;You don&amp;#x27;t buy the books, you support the artist.&lt;/p&gt;&lt;p&gt;&lt;em&gt;MUNDO MENDO&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-16T21:18:00Z</published>
     <updated>2026-10-16T21:18:00Z</updated>
-  </entry>
-  <entry>
-    <title>Chromatic Inkscapes</title>
-    <link rel="alternate" type="text/html" href="https://adamfuhrer.com"/>
-    <id>urn:sha256:f0922451f761364067e4</id>
-    <summary type="text">Algorithmic art, pen plots, and hardware pieces — artist &amp; software engineer</summary>
-    <content type="html">&lt;p&gt;Algorithmic art, pen plots, and hardware pieces — artist &amp;amp; software engineer&lt;/p&gt;&lt;p&gt;&lt;em&gt;Adam Fuhrer&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://adamfuhrer.com#t=chromatic%20aberration&quot;&gt;adamfuhrer.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-16T20:09:00Z</published>
-    <updated>2026-10-16T20:09:00Z</updated>
   </entry>
 </feed>
