@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-03T20:01:00Z</updated>
+  <updated>2026-11-03T20:48:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Last Normal Year</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AvikGCepgNY"/>
+    <id>urn:sha256:a5a96cb490429d74adfc</id>
+    <summary type="text">I just keep thinking, holy crap...we&#x27;re in it...and we&#x27;ve been in it for a while now. Focus Friend Androidhttps://play.google.com/store/apps/details?id=com.u...</summary>
+    <content type="html">&lt;p&gt;I just keep thinking, holy crap...we&amp;#x27;re in it...and we&amp;#x27;ve been in it for a while now. Focus Friend Androidhttps://play.google.com/store/apps/details?id=com.u...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · vlogbrothers&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-03T20:48:00Z</published>
+    <updated>2026-11-03T20:48:00Z</updated>
+  </entry>
   <entry>
     <title>APOD: 2026 November 2 - A Long Cloud on Mars</title>
     <link rel="alternate" type="text/html" href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars"/>
@@ -867,14 +876,5 @@
     <content type="html">&lt;p&gt;Created/Produced by Kareem Rahma (@kareem) and Andrew Kuo (@akuoproject)&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · SubwayTakes with Kareem Rahma&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-16T22:01:00Z</published>
     <updated>2026-10-16T22:01:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Mundo Mendo BOOKS SERIES</title>
-    <link rel="alternate" type="text/html" href="https://www.mundomendo.com/books"/>
-    <id>urn:sha256:7030d038390410bec900</id>
-    <summary type="text">You don&#x27;t buy the books, you support the artist.</summary>
-    <content type="html">&lt;p&gt;You don&amp;#x27;t buy the books, you support the artist.&lt;/p&gt;&lt;p&gt;&lt;em&gt;MUNDO MENDO&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-16T21:18:00Z</published>
-    <updated>2026-10-16T21:18:00Z</updated>
   </entry>
 </feed>
