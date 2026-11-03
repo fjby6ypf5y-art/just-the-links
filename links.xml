@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-03T20:48:00Z</updated>
+  <updated>2026-11-03T21:32:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Lev Akabas, Data Visualization on Instagram: &quot;As part of a competition with a few friends, I attempted the very dumb challenge of trying to write the names of 3,000 real people in one sitting It took 7 hours, but I did it And then, of course, I had to make some data viz out of it 📊 Full list of 3,000 linked in bio&quot;</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/DfIFD8-lqeD"/>
+    <id>urn:sha256:fda0ad2855b7459397b8</id>
+    <summary type="text">17K likes, 217 comments - datakabas on October 30, 2026: &quot;As part of a competition with a few friends, I attempted the very dumb challenge of trying to write the names of 3,000 real people in one sitting It took 7 hours, but I did it And then, of course, I had to make some data viz out of it 📊 Full list of 3,000 linked in bio&quot;.</summary>
+    <content type="html">&lt;p&gt;17K likes, 217 comments - datakabas on October 30, 2026: &amp;quot;As part of a competition with a few friends, I attempted the very dumb challenge of trying to write the names of 3,000 real people in one sitting It took 7 hours, but I did it And then, of course, I had to make some data viz out of it 📊 Full list of 3,000 linked in bio&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-03T21:32:00Z</published>
+    <updated>2026-11-03T21:32:00Z</updated>
+  </entry>
   <entry>
     <title>The Last Normal Year</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AvikGCepgNY"/>
@@ -867,14 +876,5 @@
     <content type="html">&lt;p&gt;The 45th and 47th president has been called consequential, imaginative, influential—sometimes for better, mostly for worse. Ta-Nehisi Coates takes it one beat further in a bid to examine just how pivotal this president will prove to have been.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Vanity Fair · Ta-Nehisi Coates&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://archive.li/Bzimr&quot;&gt;archive.li&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=_lIIVjF3SVQ&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-19T13:53:26Z</published>
     <updated>2026-10-19T13:53:26Z</updated>
-  </entry>
-  <entry>
-    <title>I don’t think black people should have to pay for Ancestry.com!! Feat. Charles Harley</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/H0KGWo3SoXg"/>
-    <id>urn:sha256:f5f079c8cdd17736aff3</id>
-    <summary type="text">Created/Produced by Kareem Rahma (@kareem) and Andrew Kuo (@akuoproject)</summary>
-    <content type="html">&lt;p&gt;Created/Produced by Kareem Rahma (@kareem) and Andrew Kuo (@akuoproject)&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · SubwayTakes with Kareem Rahma&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-16T22:01:00Z</published>
-    <updated>2026-10-16T22:01:00Z</updated>
   </entry>
 </feed>
