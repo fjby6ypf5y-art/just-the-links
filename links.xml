@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-05T14:32:00Z</updated>
+  <updated>2026-11-05T15:39:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>ledger.worseonpurpose.com</title>
+    <link rel="alternate" type="text/html" href="https://ledger.worseonpurpose.com/status/avoid"/>
+    <id>urn:sha256:c8445758abddc90239c7</id>
+    <published>2026-11-05T15:39:00Z</published>
+    <updated>2026-11-05T15:39:00Z</updated>
+  </entry>
   <entry>
     <title>Stunning Image of Our Satellite-Choked Night Skies</title>
     <link rel="alternate" type="text/html" href="https://www.instagram.com/p/Dei4FQ0HSt-"/>
@@ -865,14 +872,5 @@
     <content type="html">&lt;p&gt;Together we must clear every word to reach paradise.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Frank Lantz&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-19T17:41:00Z</published>
     <updated>2026-10-19T17:41:00Z</updated>
-  </entry>
-  <entry>
-    <title>Hyperland, a Prescient 1990 TV Show by Douglas Adams</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=5nOXGYxHVFI"/>
-    <id>urn:sha256:9732ac72e9dca4568bf9</id>
-    <summary type="text">Douglas Adams - Hyperland (BBC2 1990)Quietly tucked away in the BBC2 schedules of autumn 1990 was this ahead-of-its-time gem, written by Douglas Adams - tech...</summary>
-    <content type="html">&lt;p&gt;Douglas Adams - Hyperland (BBC2 1990)Quietly tucked away in the BBC2 schedules of autumn 1990 was this ahead-of-its-time gem, written by Douglas Adams - tech...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · MrMartinPipe&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://archive.org/details/Hyperland1990&quot;&gt;archive.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-19T16:31:00Z</published>
-    <updated>2026-10-19T16:31:00Z</updated>
   </entry>
 </feed>
