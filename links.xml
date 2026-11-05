@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-05T20:06:00Z</updated>
+  <updated>2026-11-05T21:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Amy Yolland on Instagram: &quot;I don’t think I’ll ever take another video better than this 🐋&quot;</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/DdAuunNu7EM"/>
+    <id>urn:sha256:d9268059d077c37fb77b</id>
+    <summary type="text">1,250 likes, 79 comments - amy_yolland on September 7, 2026: &quot;I don’t think I’ll ever take another video better than this 🐋&quot;.</summary>
+    <content type="html">&lt;p&gt;1,250 likes, 79 comments - amy_yolland on September 7, 2026: &amp;quot;I don’t think I’ll ever take another video better than this 🐋&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/shorts/ky2fYUvWRQc&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-05T21:00:00Z</published>
+    <updated>2026-11-05T21:00:00Z</updated>
+  </entry>
   <entry>
     <title>The Subvocal Company</title>
     <link rel="alternate" type="text/html" href="https://subvocal.company"/>
@@ -865,12 +874,5 @@
     <content type="html">&lt;p&gt;How katsuobushi -- Japanese dried bonito, said to be the world&amp;#x27;s hardest food -- is made in Nishi-Izu, Japan. Inside Kanesa Katsuobushi Shoten, a workshop fo...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · SugoUma Japan - スゴウマジャパン / Japanese Food&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.canesa.net&quot;&gt;canesa.net&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-20T14:09:00Z</published>
     <updated>2026-10-20T14:09:00Z</updated>
-  </entry>
-  <entry>
-    <title>Blocking Internet Archive Will Not Stop AI</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/technology/2026/10/blocking-internet-archive-will-not-stop-ai/689065?gift=j9r7avb6p-KY8zdjhsiSZ1AS4fIdqjHOc9xe3O3gHT8"/>
-    <id>urn:sha256:67ce43bd45dea1b9832d</id>
-    <published>2026-10-20T12:39:00Z</published>
-    <updated>2026-10-20T12:39:00Z</updated>
   </entry>
 </feed>
