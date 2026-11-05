@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-05T18:05:00Z</updated>
+  <updated>2026-11-05T20:06:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Subvocal Company</title>
+    <link rel="alternate" type="text/html" href="https://subvocal.company"/>
+    <id>urn:sha256:064956c241761010954d</id>
+    <summary type="text">Meet Subvocal. Silent text input for your computer, at the speed of speech. Built by The Subvocal Company.</summary>
+    <content type="html">&lt;p&gt;Meet Subvocal. Silent text input for your computer, at the speed of speech. Built by The Subvocal Company.&lt;/p&gt;</content>
+    <published>2026-11-05T20:06:00Z</published>
+    <updated>2026-11-05T20:06:00Z</updated>
+  </entry>
+  <entry>
+    <title>Some final words on Foursquare.</title>
+    <link rel="alternate" type="text/html" href="https://teendrama.substack.com/p/some-final-words-on-foursquare"/>
+    <id>urn:sha256:7e6d5bafd0892e3a6b2d</id>
+    <summary type="text">After 17 years, Foursquare’s ending is written. Writing this to share my opinions &amp; frustrations with the final years of the company, and to honor the team who helped build &amp; maintain FSQ’s legacy.</summary>
+    <content type="html">&lt;p&gt;After 17 years, Foursquare’s ending is written. Writing this to share my opinions &amp;amp; frustrations with the final years of the company, and to honor the team who helped build &amp;amp; maintain FSQ’s legacy.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dennis Crowley&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-05T19:19:00Z</published>
+    <updated>2026-11-05T19:19:00Z</updated>
+  </entry>
   <entry>
     <title>Grocery Shopping With a Bow &amp; Arrow</title>
     <link rel="alternate" type="text/html" href="https://christianjankowski.com/works/1992-2/die-jagd-the-hunt"/>
@@ -854,23 +872,5 @@
     <id>urn:sha256:67ce43bd45dea1b9832d</id>
     <published>2026-10-20T12:39:00Z</published>
     <updated>2026-10-20T12:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>Should we all be getting tariff refunds right now? : Planet Money</title>
-    <link rel="alternate" type="text/html" href="https://www.npr.org/transcripts/nx-s1-5996901"/>
-    <id>urn:sha256:9594affe82988b87dc20</id>
-    <summary type="text">Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid back, too. But … it’s not so simple. Once again, we’re dipping back into the drama of import tax law. We’re engrossed in the ups, downs, betrayal, and…</summary>
-    <content type="html">&lt;p&gt;Companies are getting billions of dollars back. How about us? It seems simple, right? We paid higher prices for imported goods because of tariffs. Then the tariffs were ruled illegal. Courts said the money paid to the U.S. government had to be refunded. Companies are getting that money now. It would seem like we, the customers, should get paid back, too. But … it’s not so simple. Once again, we’re dipping back into the drama of import tax law. We’re engrossed in the ups, downs, betrayal, and…&lt;/p&gt;&lt;p&gt;&lt;em&gt;NPR&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.panic.com&quot;&gt;panic.com&lt;/a&gt;, &lt;a href=&quot;https://cabel.com&quot;&gt;cabel.com&lt;/a&gt;, &lt;a href=&quot;https://play.date&quot;&gt;play.date&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-19T21:18:00Z</published>
-    <updated>2026-10-19T21:18:00Z</updated>
-  </entry>
-  <entry>
-    <title>Life after death?</title>
-    <link rel="alternate" type="text/html" href="https://pudding.cool/2026/10/lifeafter"/>
-    <id>urn:sha256:ee73f4e7395b3bf79ecd</id>
-    <summary type="text">Thousands of humans around the world wrestling with what comes after it all</summary>
-    <content type="html">&lt;p&gt;Thousands of humans around the world wrestling with what comes after it all&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Pudding&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://alvinschang.com&quot;&gt;alvinschang.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-19T20:28:00Z</published>
-    <updated>2026-10-19T20:28:00Z</updated>
   </entry>
 </feed>
