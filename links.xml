@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-05T15:39:00Z</updated>
+  <updated>2026-11-05T17:10:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Web Is More Than Enough, by Paul Ford</title>
+    <link rel="alternate" type="text/html" href="https://ftrain.com/aboard-the-web-is-more-than-enough"/>
+    <id>urn:sha256:15e3009512868312452c</id>
+    <summary type="text">Web browsers enable incredibly rich app development—and that’s radically easier than it used to be.</summary>
+    <content type="html">&lt;p&gt;Web browsers enable incredibly rich app development—and that’s radically easier than it used to be.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ftrain.com&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-05T17:10:00Z</published>
+    <updated>2026-11-05T17:10:00Z</updated>
+  </entry>
+  <entry>
+    <title>An 80-Cent Plastic Pouch Is Saving Thousands of Women From Dying in Childbirth</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/03/health/maternal-drapes-nigeria-childbirth.html?unlocked_article_code=1.OFE.WG3k.C6Rrll8RVxHi"/>
+    <id>urn:sha256:c4160e10110f4fa3a81b</id>
+    <summary type="text">The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.</summary>
+    <content type="html">&lt;p&gt;The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.&lt;/p&gt;</content>
+    <published>2026-11-05T16:22:00Z</published>
+    <updated>2026-11-05T16:22:00Z</updated>
+  </entry>
   <entry>
     <title>ledger.worseonpurpose.com</title>
     <link rel="alternate" type="text/html" href="https://ledger.worseonpurpose.com/status/avoid"/>
@@ -854,23 +872,5 @@
     <content type="html">&lt;p&gt;I wrote a custom display driver for a small ESP32-S3 e-paper board and managed to get around 30 display updates per second, with 4 shades of gray.In this vid...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Bo Made It&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://github.com/kuslota/InkBoy&quot;&gt;github.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=oPbOK90aJEo&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=nHbA2-_qzH4&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.yankodesign.com/2026/10/15/this-tiny-e-paper-game-boy-lets-you-play-super-mario-land-at-30-fps-on-a-reading-screen&quot;&gt;yankodesign.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-19T19:33:00Z</published>
     <updated>2026-10-19T19:33:00Z</updated>
-  </entry>
-  <entry>
-    <title>Exhibition Tour—Krasner and Pollock: Past Continuous | Met Exhibitions</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xtCdl-4HDdk"/>
-    <id>urn:sha256:56a96fb2405149865b86</id>
-    <summary type="text">Join David Breslin, Leonard A. Lauder Curator in Charge of Modern and Contemporary Art, and Brinda Kumar, Associate Curator in the Department of Modern and C...</summary>
-    <content type="html">&lt;p&gt;Join David Breslin, Leonard A. Lauder Curator in Charge of Modern and Contemporary Art, and Brinda Kumar, Associate Curator in the Department of Modern and C...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Met&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.metmuseum.org/exhibitions/krasner-and-pollock-past-continuous&quot;&gt;metmuseum.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-19T18:41:00Z</published>
-    <updated>2026-10-19T18:41:00Z</updated>
-  </entry>
-  <entry>
-    <title>Towers of Babble</title>
-    <link rel="alternate" type="text/html" href="https://franklantz.substack.com/p/towers-of-babble"/>
-    <id>urn:sha256:8e0bd387b3cd34f163e7</id>
-    <summary type="text">Together we must clear every word to reach paradise.</summary>
-    <content type="html">&lt;p&gt;Together we must clear every word to reach paradise.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Frank Lantz&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-19T17:41:00Z</published>
-    <updated>2026-10-19T17:41:00Z</updated>
   </entry>
 </feed>
