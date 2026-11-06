@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-06T05:23:00Z</updated>
+  <updated>2026-11-06T14:01:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Bain Capital Acquires Tibetan Buddhism For $35 Million</title>
+    <link rel="alternate" type="text/html" href="https://theonion.com/bain-capital-acquires-tibetan-buddhism-for-35-million"/>
+    <id>urn:sha256:ae5d40510a38dfb708ca</id>
+    <summary type="text">DHARAMSHALA, INDIA—In a move that adds diverse value to the global investment firm’s holdings, Bain Capital announced Thursday the acquisition of Tibetan Buddhism, financing a $35 million deal for a controlling stake in the religion. Bain corporate officers said they believe Tibetan Buddhism has the fundamentals to be a leader in the dharmic space, but […]</summary>
+    <content type="html">&lt;p&gt;DHARAMSHALA, INDIA—In a move that adds diverse value to the global investment firm’s holdings, Bain Capital announced Thursday the acquisition of Tibetan Buddhism, financing a $35 million deal for a controlling stake in the religion. Bain corporate officers said they believe Tibetan Buddhism has the fundamentals to be a leader in the dharmic space, but […]&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Onion · The Onion Staff&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-06T14:01:00Z</published>
+    <updated>2026-11-06T14:01:00Z</updated>
+  </entry>
   <entry>
     <title>Anthropic tells Claude to stop remaking video games</title>
     <link rel="alternate" type="text/html" href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"/>
@@ -865,14 +874,5 @@
     <id>urn:sha256:d532f186bf85742c2850</id>
     <published>2026-10-20T18:46:00Z</published>
     <updated>2026-10-20T18:46:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Best Monopoly Strategy, Tested on 300 Million Games</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=S_2eVAaw1UM"/>
-    <id>urn:sha256:ea1729d3cc1c29bbd29a</id>
-    <summary type="text">I turned eight classic Monopoly strategies into computer players and made them play 312,898,560 games against each other. At a table of four, the best one wo...</summary>
-    <content type="html">&lt;p&gt;I turned eight classic Monopoly strategies into computer players and made them play 312,898,560 games against each other. At a table of four, the best one wo...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Perfect Play&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-20T17:47:00Z</published>
-    <updated>2026-10-20T17:47:00Z</updated>
   </entry>
 </feed>
