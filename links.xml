@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-06T03:01:00Z</updated>
+  <updated>2026-11-06T03:22:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>New York Times Company in Advanced Talks to Acquire Letterboxd</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/05/business/media/letterboxd-new-york-times-company.html?unlocked_article_code=1.OFE.zntL.Pvdhf3xRiKdM"/>
+    <id>urn:sha256:dae9d6b95226fb0229d4</id>
+    <summary type="text">The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.</summary>
+    <content type="html">&lt;p&gt;The roughly $330 million deal for the cinephile community site would be part of an effort to add new products and services to the company’s portfolio.&lt;/p&gt;</content>
+    <published>2026-11-06T03:22:00Z</published>
+    <updated>2026-11-06T03:22:00Z</updated>
+  </entry>
   <entry>
     <title>Salon.com</title>
     <link rel="alternate" type="text/html" href="https://www.salon.com/2026/11/05/goodbye-from-salon"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;MINNEAPOLIS—Calling for a more measured way to express opposition to police brutality, critics slammed demonstrators Thursday for recklessly looting businesses without forming a private equity firm first. “Look, we all have the right to protest, but that doesn’t mean you can just rush in and destroy any business without gathering a group of clandestine investors to purchase it at a severely reduced price and slowly bleed it to death,” said Facebook commenter Amy Mulrain, echoing the sentiments…&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Onion · The Onion Staff&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-20T16:41:00Z</published>
     <updated>2026-10-20T16:41:00Z</updated>
-  </entry>
-  <entry>
-    <title>Did Claude Help an Amateur Astronomer Discover a New Planet?</title>
-    <link rel="alternate" type="text/html" href="https://gizmodo.com/did-claude-help-an-amateur-astronomer-discover-a-new-planet-2000824393"/>
-    <id>urn:sha256:a6ba9ef21e2f6a77d84e</id>
-    <summary type="text">Billions of exoplanets are believed to be out there awaiting discovery. AI—with its ability to sift through mountains of data—could speed that process along.</summary>
-    <content type="html">&lt;p&gt;Billions of exoplanets are believed to be out there awaiting discovery. AI—with its ability to sift through mountains of data—could speed that process along.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Gizmodo · Webb Wright&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://tess.mit.edu&quot;&gt;tess.mit.edu&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-20T15:35:00Z</published>
-    <updated>2026-10-20T15:35:00Z</updated>
   </entry>
 </feed>
