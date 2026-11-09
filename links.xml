@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-09T14:55:00Z</updated>
+  <updated>2026-11-09T15:41:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Winners of the 2026 Photomicrography Competition</title>
+    <link rel="alternate" type="text/html" href="https://www.nikonsmallworld.com/galleries/2026-photomicrography-competition/microscopic-view-of-an-inkjet-printer-depositing-ink-onto-paper"/>
+    <id>urn:sha256:439828d76937306f8856</id>
+    <summary type="text">Ole Bielfeldt - Microscopic view of an inkjet printer depositing ink onto paper</summary>
+    <content type="html">&lt;p&gt;Ole Bielfeldt - Microscopic view of an inkjet printer depositing ink onto paper&lt;/p&gt;&lt;p&gt;&lt;em&gt;Nikon Small World&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.instagram.com/p/DewUrtnDfG0&quot;&gt;instagram.com&lt;/a&gt;, &lt;a href=&quot;https://www.nikonsmallworld.com/galleries/2026-photomicrography-competition&quot;&gt;nikonsmallworld.com&lt;/a&gt;, &lt;a href=&quot;https://www.nikonsmallworld.com/galleries/2026-photomicrography-competition/large-sea-snail-abalone-shell&quot;&gt;nikonsmallworld.com&lt;/a&gt;, &lt;a href=&quot;https://www.nikonsmallworld.com/galleries/2026-photomicrography-competition/dedifferentiated-liver-endothelial-cell&quot;&gt;nikonsmallworld.com&lt;/a&gt;, &lt;a href=&quot;https://jodiettenberg.substack.com/p/sixty-seven&quot;&gt;jodiettenberg.substack.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-09T15:41:00Z</published>
+    <updated>2026-11-09T15:41:00Z</updated>
+  </entry>
   <entry>
     <title>Dark Forestry</title>
     <link rel="alternate" type="text/html" href="https://henry.codes/writing/dark-forestry"/>
@@ -868,14 +877,5 @@
     <content type="html">&lt;p&gt;Where did it start? How did it grow complex? Why did it get big? Three moments in Earth’s early history when evolution suddenly, inexplicably turned up the dial.&lt;/p&gt;</content>
     <published>2026-10-21T20:07:00Z</published>
     <updated>2026-10-21T20:07:00Z</updated>
-  </entry>
-  <entry>
-    <title>NYC’s Fastest Bike Messenger (1985)</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=xMvJ83XpGoI"/>
-    <id>urn:sha256:8d90183de76c2f37b64f</id>
-    <summary type="text">At 24, David Leopold is the best bike messenger in New York City. In this 1985 archival footage, Charles Kuralt finds out why he is so good at what he does.#...</summary>
-    <content type="html">&lt;p&gt;At 24, David Leopold is the best bike messenger in New York City. In this 1985 archival footage, Charles Kuralt finds out why he is so good at what he does.#...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · CBS Evening News&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=QKyt2PWqup8&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=Y2y4hNuqlTs&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-21T18:54:00Z</published>
-    <updated>2026-10-21T18:54:00Z</updated>
   </entry>
 </feed>
