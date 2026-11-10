@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-10T16:41:00Z</updated>
+  <updated>2026-11-10T19:11:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>How to build a police state | William Wheeler</title>
+    <link rel="alternate" type="text/html" href="https://www.theguardian.com/us-news/ng-interactive/2026/oct/25/trump-bukele-el-salvador-police-state"/>
+    <id>urn:sha256:5e6b2ecf01122be9cb3c</id>
+    <summary type="text">To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador’s Nayib Bukele</summary>
+    <content type="html">&lt;p&gt;To understand where Trump is trying to take the US, we should look to the authoritarian playbook of his favorite ally: El Salvador’s Nayib Bukele&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-10T19:11:00Z</published>
+    <updated>2026-11-10T19:11:00Z</updated>
+  </entry>
   <entry>
     <title>The Pollycrisis Wingrave</title>
     <link rel="alternate" type="text/html" href="https://thebaffler.com/salvos/the-pollycrisis-wingrave"/>
@@ -863,14 +872,5 @@
     <content type="html">&lt;p&gt;Andymation flipbook kits and supplementary materials are the best way to draw your own story! You can find all the basics as well as supplementary drawing materials here. Or, find a way to personalize your flipbooks with different color custom Snap Screws. You can also find Andymation branded merch.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Andymation new site&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=lWtX7nVFrUw&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=4vCN8EXoCVk&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://awonderfulsheep.com/2025/08/01/lotr-the-flipbook-of-the-rings&quot;&gt;awonderfulsheep.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=_R-vtxh5aVA&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-22T20:31:00Z</published>
     <updated>2026-10-22T20:31:00Z</updated>
-  </entry>
-  <entry>
-    <title>OMNI Magazine Archive : Free Download, Borrow, and Streaming : Internet Archive</title>
-    <link rel="alternate" type="text/html" href="https://archive.org/details/omni-archive"/>
-    <id>urn:sha256:b5e61910612c6b189f42</id>
-    <summary type="text">Omni was a science and science fiction magazine published in the US and the UK. It contained articles on science, parapsychology, and short works of science...</summary>
-    <content type="html">&lt;p&gt;Omni was a science and science fiction magazine published in the US and the UK. It contained articles on science, parapsychology, and short works of science...&lt;/p&gt;&lt;p&gt;&lt;em&gt;Internet Archive&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-22T19:49:00Z</published>
-    <updated>2026-10-22T19:49:00Z</updated>
   </entry>
 </feed>
