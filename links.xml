@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-10T20:10:00Z</updated>
+  <updated>2026-11-10T21:19:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Daily Overview on Instagram: &quot;Pushed by northerly winds, crescent-shaped barchan dunes in Egypt’s Kharga Oasis move about 13 meters a year, leaving roads buried and rerouted to curve around the advancing sand. Created by @dailyoverview Source Imagery: @vantor_tech&quot;</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/DfS2nReSL7J"/>
+    <id>urn:sha256:fdd9bc885a5a7c92d337</id>
+    <summary type="text">12K likes, 61 comments - dailyoverview on November 3, 2026: &quot;Pushed by northerly winds, crescent-shaped barchan dunes in Egypt’s Kharga Oasis move about 13 meters a year, leaving roads buried and rerouted to curve around the advancing sand. Created by @dailyoverview Source Imagery: @vantor_tech&quot;.</summary>
+    <content type="html">&lt;p&gt;12K likes, 61 comments - dailyoverview on November 3, 2026: &amp;quot;Pushed by northerly winds, crescent-shaped barchan dunes in Egypt’s Kharga Oasis move about 13 meters a year, leaving roads buried and rerouted to curve around the advancing sand. Created by @dailyoverview Source Imagery: @vantor_tech&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-10T21:19:00Z</published>
+    <updated>2026-11-10T21:19:00Z</updated>
+  </entry>
   <entry>
     <title>USPS Announces Mythical Creatures Stamps for 2027</title>
     <link rel="alternate" type="text/html" href="https://about.usps.com/newsroom/national-releases/2026/1109-usps-announces-stamp-subjects-for-2027.htm"/>
@@ -865,12 +874,5 @@
     <content type="html">&lt;p&gt;For-profit water corporations, federal cuts and climate crisis are ‘supercharging water rate hikes’, study co-author says&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-23T16:30:00Z</published>
     <updated>2026-10-23T16:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>allthingslinguistic.com</title>
-    <link rel="alternate" type="text/html" href="https://allthingslinguistic.com/post/830127683810836480"/>
-    <id>urn:sha256:ec61263c0aae700b9072</id>
-    <published>2026-10-22T21:38:00Z</published>
-    <updated>2026-10-22T21:38:00Z</updated>
   </entry>
 </feed>
