@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-10T22:28:00Z</updated>
+  <updated>2026-11-11T14:18:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Could a modern chess engine on a Pentium have defeated Kasparov in 1996?</title>
+    <link rel="alternate" type="text/html" href="https://nicholas.carlini.com/writing/2026/algorithmic-improvements-chess.html"/>
+    <id>urn:sha256:921aede24621fdae1e28</id>
+    <summary type="text">A fun experiment where I back-port all the improvements we&#x27;ve made to chess engines over the last 30 years and run it on a 1996 Pentium Pro to see what we could have done if only we knew more at the time.</summary>
+    <content type="html">&lt;p&gt;A fun experiment where I back-port all the improvements we&amp;#x27;ve made to chess engines over the last 30 years and run it on a 1996 Pentium Pro to see what we could have done if only we knew more at the time.&lt;/p&gt;</content>
+    <published>2026-11-11T14:18:00Z</published>
+    <updated>2026-11-11T14:18:00Z</updated>
+  </entry>
   <entry>
     <title>LEGO® History</title>
     <link rel="alternate" type="text/html" href="https://www.lego.com/en-us/history/articles/d-lego-building-instructions-through-time?locale=en-us"/>
@@ -866,12 +875,5 @@
     <id>urn:sha256:d2f0a5a19c1ac0d0df14</id>
     <published>2026-10-25T14:11:00Z</published>
     <updated>2026-10-25T14:11:00Z</updated>
-  </entry>
-  <entry>
-    <title>Restaurant Phone Number Question</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/culture/2026/10/restaurant-phone-number-question/688926?gift=j9r7avb6p-KY8zdjhsiSZ0tFeAhe7IhdA8vfU9uxDyc"/>
-    <id>urn:sha256:5a1dd67a1f391637e9f0</id>
-    <published>2026-10-23T17:44:00Z</published>
-    <updated>2026-10-23T17:44:00Z</updated>
   </entry>
 </feed>
