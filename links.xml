@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-11T20:04:00Z</updated>
+  <updated>2026-11-11T20:51:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Staying Cool at the Airport</title>
+    <link rel="alternate" type="text/html" href="https://therealadam.com"/>
+    <id>urn:sha256:af3172db0e6a4a12e123</id>
+    <summary type="text">Follow &lt;a href=&quot;https://micro.blog/therealadam&quot;&gt;@therealadam on Micro.blog&lt;/a&gt;.</summary>
+    <content type="html">&lt;p&gt;Follow &amp;lt;a href=&amp;quot;https://micro.blog/therealadam&amp;quot;&amp;gt;@therealadam on Micro.blog&amp;lt;/a&amp;gt;.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://members.specialprojects.jp&quot;&gt;members.specialprojects.jp&lt;/a&gt;, &lt;a href=&quot;https://bookshop.org/book/9780593851029&quot;&gt;bookshop.org&lt;/a&gt;, &lt;a href=&quot;https://craigmod.com/essays/lets_fly&quot;&gt;craigmod.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-11T20:51:00Z</published>
+    <updated>2026-11-11T20:51:00Z</updated>
+  </entry>
   <entry>
     <title>Scientists discover first new penguin species in more than 100 years</title>
     <link rel="alternate" type="text/html" href="https://www.sciencedaily.com/releases/2026/09/260920222410.htm"/>
@@ -868,14 +877,5 @@
     <content type="html">&lt;p&gt;Eternal Family is a movie streaming app like no other. From Indian comedy-horrors to Filipino rip-offs of E.T, the app collects the kookiest curios of alternative cinema. Below, the collective picks its favourites among the madness.&lt;/p&gt;</content>
     <published>2026-10-26T19:11:00Z</published>
     <updated>2026-10-26T19:11:00Z</updated>
-  </entry>
-  <entry>
-    <title>How Tree Rings Challenged the Myth of American Wilderness</title>
-    <link rel="alternate" type="text/html" href="https://www.newyorker.com/science/elements/how-tree-rings-challenged-the-myth-of-american-wilderness"/>
-    <id>urn:sha256:b7353f840532c2a9f188</id>
-    <summary type="text">By studying fire scars in ancient wood, many scientists have become convinced that Indigenous people transformed North America long before Christopher Columbus arrived.</summary>
-    <content type="html">&lt;p&gt;By studying fire scars in ancient wood, many scientists have become convinced that Indigenous people transformed North America long before Christopher Columbus arrived.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The New Yorker · M. R. O’Connor&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-26T18:16:00Z</published>
-    <updated>2026-10-26T18:16:00Z</updated>
   </entry>
 </feed>
