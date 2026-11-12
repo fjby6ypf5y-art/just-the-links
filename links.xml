@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-12T17:59:00Z</updated>
+  <updated>2026-11-12T18:48:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Astro Spiral: The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt</title>
+    <link rel="alternate" type="text/html" href="https://boldentrance.com/astro-spiral-the-greatest-car-stunt"/>
+    <id>urn:sha256:ca9b860400480e27125d</id>
+    <summary type="text">And it&#x27;s no surprise James Bond was behind the wheel The corkscrew car jump in The Man With The Golden Gun is the coolest car stunt in any movie series. Following Bond tradition, the car stunt was done</summary>
+    <content type="html">&lt;p&gt;And it&amp;#x27;s no surprise James Bond was behind the wheel The corkscrew car jump in The Man With The Golden Gun is the coolest car stunt in any movie series. Following Bond tradition, the car stunt was done&lt;/p&gt;&lt;p&gt;&lt;em&gt;Bold Entrance | Behind-the-Scenes of Hollywood&amp;#x27;s Biggest Franchises&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-12T18:48:00Z</published>
+    <updated>2026-11-12T18:48:00Z</updated>
+  </entry>
   <entry>
     <title>Opinion | Martha Stewart’s ‘Hobo’ Shows How Trump Emboldened Rich People</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/10/opinion/rich-people-martha-stewart-midterms.html?unlocked_article_code=1.P1E.MR3-.yFyFJQA1O_-P"/>
@@ -868,14 +877,5 @@
     <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.npr.org/2025/03/22/nx-s1-5321299/how-empathy-came-to-be-seen-as-a-weakness-in-conservative-circles&quot;&gt;npr.org&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-27T15:44:00Z</published>
     <updated>2026-10-27T15:44:00Z</updated>
-  </entry>
-  <entry>
-    <title>See the MONSTER WAVES hitting Taiwan with Super Typhoon Champi</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/shorts/TRNyKY-UXOY"/>
-    <id>urn:sha256:38e97feee63611c3d902</id>
-    <summary type="text">READ MORE:https://www.theweathernetwork.com/en/news/weather/forecasts/296-km-h-super-typhoon-champi-is-now-the-strongest-storm-on-earth-in-2026SEE OUR LATEST...</summary>
-    <content type="html">&lt;p&gt;READ MORE:https://www.theweathernetwork.com/en/news/weather/forecasts/296-km-h-super-typhoon-champi-is-now-the-strongest-storm-on-earth-in-2026SEE OUR LATEST...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Weather Network&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.msn.com/en-us/news/other/typhoon-champi-s-colossal-swell-nearly-erases-75-foot-lighthouse-in-taiwan-video/ar-AA2g6Qub&quot;&gt;msn.com&lt;/a&gt;, &lt;a href=&quot;https://www.surfer.com/news/super-typhoon-champi-crane-video&quot;&gt;surfer.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T14:39:00Z</published>
-    <updated>2026-10-27T14:39:00Z</updated>
   </entry>
 </feed>
