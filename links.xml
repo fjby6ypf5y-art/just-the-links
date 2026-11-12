@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-12T16:44:00Z</updated>
+  <updated>2026-11-12T17:59:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Opinion | Martha Stewart’s ‘Hobo’ Shows How Trump Emboldened Rich People</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/10/opinion/rich-people-martha-stewart-midterms.html?unlocked_article_code=1.P1E.MR3-.yFyFJQA1O_-P"/>
+    <id>urn:sha256:a1c3cfca5c8bb636c3ff</id>
+    <summary type="text">It’s been two years of rich people going full Roman emperor — unleashed, unapologetic and, often, punching down.</summary>
+    <content type="html">&lt;p&gt;It’s been two years of rich people going full Roman emperor — unleashed, unapologetic and, often, punching down.&lt;/p&gt;</content>
+    <published>2026-11-12T17:59:00Z</published>
+    <updated>2026-11-12T17:59:00Z</updated>
+  </entry>
   <entry>
     <title>Map of New England Places Everybody Pronounces Wrong</title>
     <link rel="alternate" type="text/html" href="https://30daymapchallenge.com"/>
@@ -868,13 +877,5 @@
     <content type="html">&lt;p&gt;READ MORE:https://www.theweathernetwork.com/en/news/weather/forecasts/296-km-h-super-typhoon-champi-is-now-the-strongest-storm-on-earth-in-2026SEE OUR LATEST...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The Weather Network&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.msn.com/en-us/news/other/typhoon-champi-s-colossal-swell-nearly-erases-75-foot-lighthouse-in-taiwan-video/ar-AA2g6Qub&quot;&gt;msn.com&lt;/a&gt;, &lt;a href=&quot;https://www.surfer.com/news/super-typhoon-champi-crane-video&quot;&gt;surfer.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-27T14:39:00Z</published>
     <updated>2026-10-27T14:39:00Z</updated>
-  </entry>
-  <entry>
-    <title>American Sustenance Omnivore Dilemma</title>
-    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/culture/2026/10/american-sustenance-omnivore-dilemma/688643?gift=j9r7avb6p-KY8zdjhsiSZ1i8HQKqnCbnmF07aL2EeMQ"/>
-    <id>urn:sha256:971fea9f7f08758b8943</id>
-    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://bookshop.org/book/9780143038580&quot;&gt;bookshop.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T13:53:00Z</published>
-    <updated>2026-10-27T13:53:00Z</updated>
   </entry>
 </feed>
