@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-12T18:48:00Z</updated>
+  <updated>2026-11-12T19:58:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Riding the Rails With America&#x27;s Last Train-Hoppers</title>
+    <link rel="alternate" type="text/html" href="https://www.currentaffairs.org/news/trainhoppers"/>
+    <id>urn:sha256:ec778e09e4a9a6b13d98</id>
+    <summary type="text">In an age of surveillance and hyper-connectivity, a secretive subculture still finds freedom in the open road.</summary>
+    <content type="html">&lt;p&gt;In an age of surveillance and hyper-connectivity, a secretive subculture still finds freedom in the open road.&lt;/p&gt;</content>
+    <published>2026-11-12T19:58:00Z</published>
+    <updated>2026-11-12T19:58:00Z</updated>
+  </entry>
   <entry>
     <title>Astro Spiral: The Greatest Car Stunt Was Also The World’s First Computer-Modeled Stunt</title>
     <link rel="alternate" type="text/html" href="https://boldentrance.com/astro-spiral-the-greatest-car-stunt"/>
@@ -869,13 +878,5 @@
     <content type="html">&lt;p&gt;Rumours confirmed! DAFT PUNK™ is making its way into the LEGO® Universe!Welcome to the LEGO Group on YouTube! We&amp;#x27;re digging into the stories, secrets and sur...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The LEGO Group&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-27T16:56:00Z</published>
     <updated>2026-10-27T16:56:00Z</updated>
-  </entry>
-  <entry>
-    <title>The American Divide on Empathy</title>
-    <link rel="alternate" type="text/html" href="https://prri.org/research/darkening-mood-and-shifting-political-loyalties-ahead-of-midterm-elections-findings-from-the-2026-american-values-survey"/>
-    <id>urn:sha256:f7e07d62511c700f38ca</id>
-    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://www.npr.org/2025/03/22/nx-s1-5321299/how-empathy-came-to-be-seen-as-a-weakness-in-conservative-circles&quot;&gt;npr.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T15:44:00Z</published>
-    <updated>2026-10-27T15:44:00Z</updated>
   </entry>
 </feed>
