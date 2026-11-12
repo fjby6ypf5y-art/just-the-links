@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-12T19:58:00Z</updated>
+  <updated>2026-11-12T21:01:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Richard Scarry Illustrations Paired With Karl Marx Quotes</title>
+    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/Dco27Hvk_KP"/>
+    <id>urn:sha256:77b2c3998991addba5b4</id>
+    <summary type="text">196K likes, 959 comments - zachmander on August 29, 2026: &quot;I added Karl Marx quotes to Richard Scarry illustrations and they kinda fit 🍎&quot;.</summary>
+    <content type="html">&lt;p&gt;196K likes, 959 comments - zachmander on August 29, 2026: &amp;quot;I added Karl Marx quotes to Richard Scarry illustrations and they kinda fit 🍎&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.instagram.com/p/DcrbyLxE-8q&quot;&gt;instagram.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-12T21:01:00Z</published>
+    <updated>2026-11-12T21:01:00Z</updated>
+  </entry>
   <entry>
     <title>Riding the Rails With America&#x27;s Last Train-Hoppers</title>
     <link rel="alternate" type="text/html" href="https://www.currentaffairs.org/news/trainhoppers"/>
@@ -869,14 +878,5 @@
     <id>urn:sha256:c4f68901c09f16d12cca</id>
     <published>2026-10-27T17:46:00Z</published>
     <updated>2026-10-27T17:46:00Z</updated>
-  </entry>
-  <entry>
-    <title>DAFT PUNK™ has entered the LEGO® universe</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=t5rwOE3zpc8"/>
-    <id>urn:sha256:a5abcc37ccb2bda6e0ef</id>
-    <summary type="text">Rumours confirmed! DAFT PUNK™ is making its way into the LEGO® Universe!Welcome to the LEGO Group on YouTube! We&#x27;re digging into the stories, secrets and sur...</summary>
-    <content type="html">&lt;p&gt;Rumours confirmed! DAFT PUNK™ is making its way into the LEGO® Universe!Welcome to the LEGO Group on YouTube! We&amp;#x27;re digging into the stories, secrets and sur...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · The LEGO Group&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T16:56:00Z</published>
-    <updated>2026-10-27T16:56:00Z</updated>
   </entry>
 </feed>
