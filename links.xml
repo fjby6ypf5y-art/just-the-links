@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-12T15:27:00Z</updated>
+  <updated>2026-11-12T16:44:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Map of New England Places Everybody Pronounces Wrong</title>
+    <link rel="alternate" type="text/html" href="https://30daymapchallenge.com"/>
+    <id>urn:sha256:e29b69a518e8ad9db5c6</id>
+    <summary type="text">The official home of #30DayMapChallenge — a free daily mapping challenge held every November. Make one map a day for 30 themed days and share it with the world.</summary>
+    <content type="html">&lt;p&gt;The official home of #30DayMapChallenge — a free daily mapping challenge held every November. Make one map a day for 30 themed days and share it with the world.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Topi Tjukanov&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://maxwellhowegis.com/30-day-maps#day-11&quot;&gt;maxwellhowegis.com&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/p/DflgWFMjr9m&quot;&gt;instagram.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-12T16:44:00Z</published>
+    <updated>2026-11-12T16:44:00Z</updated>
+  </entry>
   <entry>
     <title>The Power Broker: A Marathon Reading</title>
     <link rel="alternate" type="text/html" href="https://judgybaby.com/power-broker"/>
@@ -867,14 +876,5 @@
     <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://bookshop.org/book/9780143038580&quot;&gt;bookshop.org&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-27T13:53:00Z</published>
     <updated>2026-10-27T13:53:00Z</updated>
-  </entry>
-  <entry>
-    <title>Bunkering down</title>
-    <link rel="alternate" type="text/html" href="https://interconnected.org/home/2026/10/24/bunker"/>
-    <id>urn:sha256:92504ac196690fb09c29</id>
-    <summary type="text">Posted on Saturday 24 Oct 2026. 1,227 words, 13 links. By Matt Webb.</summary>
-    <content type="html">&lt;p&gt;Posted on Saturday 24 Oct 2026. 1,227 words, 13 links. By Matt Webb.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Interconnected, a blog by Matt Webb&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T13:01:00Z</published>
-    <updated>2026-10-27T13:01:00Z</updated>
   </entry>
 </feed>
