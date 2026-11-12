@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-12T14:20:00Z</updated>
+  <updated>2026-11-12T15:27:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Power Broker: A Marathon Reading</title>
+    <link rel="alternate" type="text/html" href="https://judgybaby.com/power-broker"/>
+    <id>urn:sha256:d2df298c61ed7c917511</id>
+    <summary type="text">A marathon reading of The Power Broker by Robert A. Caro, Thu, Nov 12 to Sun, Nov 15, 2026, in Gowanus, Brooklyn. Four hundred readers, around the clock.</summary>
+    <content type="html">&lt;p&gt;A marathon reading of The Power Broker by Robert A. Caro, Thu, Nov 12 to Sun, Nov 15, 2026, in Gowanus, Brooklyn. Four hundred readers, around the clock.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Judgy Baby&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=V0sCnx5qedM&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-12T15:27:00Z</published>
+    <updated>2026-11-12T15:27:00Z</updated>
+  </entry>
   <entry>
     <title>The S.S. United States, a Historic Supership, Sinks to the Ocean Floor</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/11/climate/ss-united-states-ship-sinking-artificial-reef-florida.html?unlocked_article_code=1.P1E.jD3I.nCCC4Dqkj72t"/>
@@ -867,14 +876,5 @@
     <content type="html">&lt;p&gt;Posted on Saturday 24 Oct 2026. 1,227 words, 13 links. By Matt Webb.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Interconnected, a blog by Matt Webb&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-27T13:01:00Z</published>
     <updated>2026-10-27T13:01:00Z</updated>
-  </entry>
-  <entry>
-    <title>Harry Kane claims men’s Ballon d’Or to end England’s 25-year wait for winner</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/football/2026/oct/26/harry-kane-ends-englands-25-year-wait-for-a-mens-ballon-dor"/>
-    <id>urn:sha256:44b3213c0d506ede4117</id>
-    <summary type="text">Harry Kane became first Englishman in 25 years to win men’s Ballon d’Or with Spain’s Alexia Putellas securing the women’s award for a third time</summary>
-    <content type="html">&lt;p&gt;Harry Kane became first Englishman in 25 years to win men’s Ballon d’Or with Spain’s Alexia Putellas securing the women’s award for a third time&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T00:25:00Z</published>
-    <updated>2026-10-27T00:25:00Z</updated>
   </entry>
 </feed>
