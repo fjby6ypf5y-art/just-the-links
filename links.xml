@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-13T18:54:00Z</updated>
+  <updated>2026-11-13T19:59:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Let’s have a Mouse Party!</title>
+    <link rel="alternate" type="text/html" href="https://aboard.com/lets-have-a-mouse-party"/>
+    <id>urn:sha256:51574c1a19ff18c990ea</id>
+    <summary type="text">A free, secure way to watch videos together on the web (no server needed).</summary>
+    <content type="html">&lt;p&gt;A free, secure way to watch videos together on the web (no server needed).&lt;/p&gt;&lt;p&gt;&lt;em&gt;Aboard · Paul Ford&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-13T19:59:00Z</published>
+    <updated>2026-11-13T19:59:00Z</updated>
+  </entry>
   <entry>
     <title>The Surma Boys of Afghanistan</title>
     <link rel="alternate" type="text/html" href="https://www.danielmalikyar.com"/>
@@ -873,14 +882,5 @@
     <content type="html">&lt;p&gt;↓↓↓ More info and sources below ↓↓↓For decades, one man was blamed for bringing AIDS to America. But the &amp;quot;Patient Zero&amp;quot; story was wrong. This is the story of...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Be Smart&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://bookshop.org/book/9781108720397&quot;&gt;bookshop.org&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-28T14:42:00Z</published>
     <updated>2026-10-28T14:42:00Z</updated>
-  </entry>
-  <entry>
-    <title>They stopped 57 shootings. Everyone was just fired.</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=PgcfcRFrMYc"/>
-    <id>urn:sha256:7b4d1ae42837eed82771</id>
-    <summary type="text">How do you stop a shooting before it happens?A team of men and women — many formerly incarcerated — helped drive crime in Orlando to record lows by mediating...</summary>
-    <content type="html">&lt;p&gt;How do you stop a shooting before it happens?A team of men and women — many formerly incarcerated — helped drive crime in Orlando to record lows by mediating...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · DREAM ON&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-28T13:42:00Z</published>
-    <updated>2026-10-28T13:42:00Z</updated>
   </entry>
 </feed>
