@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-13T14:10:00Z</updated>
+  <updated>2026-11-13T15:14:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The 100 Best Indie Rock Albums of All Time</title>
+    <link rel="alternate" type="text/html" href="https://pitchfork.com/story/the-100-best-indie-rock-albums-of-all-time"/>
+    <id>urn:sha256:c31433380008a6f889fc</id>
+    <summary type="text">We rank the genre’s greatest records in an attempt to define its sound and spirit.</summary>
+    <content type="html">&lt;p&gt;We rank the genre’s greatest records in an attempt to define its sound and spirit.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Pitchfork&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-13T15:14:00Z</published>
+    <updated>2026-11-13T15:14:00Z</updated>
+  </entry>
   <entry>
     <title>Jono Stream</title>
     <link rel="alternate" type="text/html" href="https://parttimemonkey.com/jono"/>
@@ -872,13 +881,5 @@
     <content type="html">&lt;p&gt;Ahead of the midterms, John Oliver devotes an entire episode to discussing the rising prominence of extremist beliefs within the Republican Party – from whit...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · LastWeekTonight&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-27T19:49:00Z</published>
     <updated>2026-10-27T19:49:00Z</updated>
-  </entry>
-  <entry>
-    <title>Once Upon a Time in Harlem</title>
-    <link rel="alternate" type="text/html" href="https://www.onceuponatimeinharlemfilm.com"/>
-    <id>urn:sha256:6087d5db28566fcf1eba</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;A William Greaves Production&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=ESnX3LQbCVI&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.rottentomatoes.com/m/once_upon_a_time_in_harlem&quot;&gt;rottentomatoes.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T18:37:00Z</published>
-    <updated>2026-10-27T18:37:00Z</updated>
   </entry>
 </feed>
