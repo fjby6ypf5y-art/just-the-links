@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-13T15:14:00Z</updated>
+  <updated>2026-11-13T15:58:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Sicily and the Family Tree of Citrus</title>
+    <link rel="alternate" type="text/html" href="https://www.notesfromtheroad.com/europa/citrus-kingdom.html"/>
+    <id>urn:sha256:9e730643041fd35b880a</id>
+    <summary type="text">How a weirdo fruit from the far end of the known world made Palermo the capital of a citrus kingdom. Part I of The Citrus Kingdom.</summary>
+    <content type="html">&lt;p&gt;How a weirdo fruit from the far end of the known world made Palermo the capital of a citrus kingdom. Part I of The Citrus Kingdom.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Notes from the Road · Erik Gauger&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://notes-from-the-road-shop.fourthwall.com/products/the-citrus-of-sicily-hand-illustrated-poster&quot;&gt;notes-from-the-road-shop.fourthwall.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-13T15:58:00Z</published>
+    <updated>2026-11-13T15:58:00Z</updated>
+  </entry>
   <entry>
     <title>The 100 Best Indie Rock Albums of All Time</title>
     <link rel="alternate" type="text/html" href="https://pitchfork.com/story/the-100-best-indie-rock-albums-of-all-time"/>
@@ -872,14 +881,5 @@
     <content type="html">&lt;p&gt;Wikipedia, but only for things a half hour walk from you.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Local Wikipedia&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.neil-scott.com/walkipedia&quot;&gt;neil-scott.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-27T20:41:00Z</published>
     <updated>2026-10-27T20:41:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Republican Party &amp; The Far Right: Last Week Tonight with John Oliver (HBO)</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=SnsBI4YxwIs"/>
-    <id>urn:sha256:8e3645b83cc8174b3f57</id>
-    <summary type="text">Ahead of the midterms, John Oliver devotes an entire episode to discussing the rising prominence of extremist beliefs within the Republican Party – from whit...</summary>
-    <content type="html">&lt;p&gt;Ahead of the midterms, John Oliver devotes an entire episode to discussing the rising prominence of extremist beliefs within the Republican Party – from whit...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · LastWeekTonight&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T19:49:00Z</published>
-    <updated>2026-10-27T19:49:00Z</updated>
   </entry>
 </feed>
