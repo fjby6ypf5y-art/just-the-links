@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-13T18:01:00Z</updated>
+  <updated>2026-11-13T18:54:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Surma Boys of Afghanistan</title>
+    <link rel="alternate" type="text/html" href="https://www.danielmalikyar.com"/>
+    <id>urn:sha256:27cfcc6990c79225b504</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;DANIEL MALIKYAR&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.instagram.com/p/DfnIOiCiC-d&quot;&gt;instagram.com&lt;/a&gt;, &lt;a href=&quot;https://danielmalikyar.shop/products/afghanistan-book&quot;&gt;danielmalikyar.shop&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=c5PnkdpFr9M&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.instagram.com/dmalikyar&quot;&gt;instagram.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-13T18:54:00Z</published>
+    <updated>2026-11-13T18:54:00Z</updated>
+  </entry>
   <entry>
     <title>“Flava In Ya Ear” Sample Finally Identified After 32 Years</title>
     <link rel="alternate" type="text/html" href="https://stereogum.com/2517720/flava-in-ya-ear-sample-finally-identified-after-32-years/news"/>
@@ -874,12 +882,5 @@
     <content type="html">&lt;p&gt;How do you stop a shooting before it happens?A team of men and women — many formerly incarcerated — helped drive crime in Orlando to record lows by mediating...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · DREAM ON&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-28T13:42:00Z</published>
     <updated>2026-10-28T13:42:00Z</updated>
-  </entry>
-  <entry>
-    <title>Sprout – a modern motherboard for old iPods</title>
-    <link rel="alternate" type="text/html" href="https://certainthings.studio/sprout"/>
-    <id>urn:sha256:0feb82582aeef6870c94</id>
-    <published>2026-10-28T12:54:00Z</published>
-    <updated>2026-10-28T12:54:00Z</updated>
   </entry>
 </feed>
