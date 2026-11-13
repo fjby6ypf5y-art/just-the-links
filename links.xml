@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-13T17:04:00Z</updated>
+  <updated>2026-11-13T18:01:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>“Flava In Ya Ear” Sample Finally Identified After 32 Years</title>
+    <link rel="alternate" type="text/html" href="https://stereogum.com/2517720/flava-in-ya-ear-sample-finally-identified-after-32-years/news"/>
+    <id>urn:sha256:eeb4f29aeeced7ca4092</id>
+    <summary type="text">The first release ever to come out on Bad Boy Records was “Flava In Ya Ear,” the late Long Island rapper Craig Mack’s 1994 debut single. It’s a classic piece of ’90s New York rap expressionism, driven by a dusty boom-bap beat from the great producer Easy Mo Bee. It quickly became a huge crossover…</summary>
+    <content type="html">&lt;p&gt;The first release ever to come out on Bad Boy Records was “Flava In Ya Ear,” the late Long Island rapper Craig Mack’s 1994 debut single. It’s a classic piece of ’90s New York rap expressionism, driven by a dusty boom-bap beat from the great producer Easy Mo Bee. It quickly became a huge crossover…&lt;/p&gt;</content>
+    <published>2026-11-13T18:01:00Z</published>
+    <updated>2026-11-13T18:01:00Z</updated>
+  </entry>
   <entry>
     <title>What is the Best Literary TV Adaptation of All Time? Day Four</title>
     <link rel="alternate" type="text/html" href="https://lithub.com/what-is-the-best-literary-tv-adaptation-of-all-time-day-four"/>
@@ -872,14 +881,5 @@
     <id>urn:sha256:0feb82582aeef6870c94</id>
     <published>2026-10-28T12:54:00Z</published>
     <updated>2026-10-28T12:54:00Z</updated>
-  </entry>
-  <entry>
-    <title>Have We Confused Having Good Taste With Being Creative?</title>
-    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/De4S7fRDoM6"/>
-    <id>urn:sha256:b40a09b4394822a17894</id>
-    <summary type="text">12K likes, 356 comments - 713mag on October 24, 2026: &quot;HAVE WE CONFUSED HAVING GOOD TASTE WITH BEING CREATIVE? In a world where cultural knowledge has become its own form of social currency, knowing the right designers, listening to the right music, and recognizing the right references can make someone appear just as creative as the people actually producing the work. We’ve reached a point where an entire identity can be built around what someone consumes, collects, wears, and shares. And while…</summary>
-    <content type="html">&lt;p&gt;12K likes, 356 comments - 713mag on October 24, 2026: &amp;quot;HAVE WE CONFUSED HAVING GOOD TASTE WITH BEING CREATIVE? In a world where cultural knowledge has become its own form of social currency, knowing the right designers, listening to the right music, and recognizing the right references can make someone appear just as creative as the people actually producing the work. We’ve reached a point where an entire identity can be built around what someone consumes, collects, wears, and shares. And while…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-27T22:47:00Z</published>
-    <updated>2026-10-27T22:47:00Z</updated>
   </entry>
 </feed>
