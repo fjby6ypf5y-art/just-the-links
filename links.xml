@@ -2,9 +2,27 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-16T14:17:00Z</updated>
+  <updated>2026-11-16T17:09:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html?unlocked_article_code=1.Q1E.3_8B.Q-SYDQmDGAFC"/>
+    <id>urn:sha256:fc2755abd5f10835f73e</id>
+    <summary type="text">The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions.</summary>
+    <content type="html">&lt;p&gt;The phrase has started showing up everywhere. It reveals a lot about our discomforts with both human and robotic interactions.&lt;/p&gt;</content>
+    <published>2026-11-16T17:09:00Z</published>
+    <updated>2026-11-16T17:09:00Z</updated>
+  </entry>
+  <entry>
+    <title>Seven ways Democrats can help ordinary Americans and stand up to the oligarchs</title>
+    <link rel="alternate" type="text/html" href="https://www.motherjones.com/politics/2026/11/how-democrats-address-affordability-wealth-income-inequality-oligarchy-costs-solutions-trump-veto"/>
+    <id>urn:sha256:41e082f045976443e624</id>
+    <summary type="text">If Trump vetoes them all, Republicans will have to answer for it.</summary>
+    <content type="html">&lt;p&gt;If Trump vetoes them all, Republicans will have to answer for it.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Mother Jones · Michael Mechanic&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-16T16:35:00Z</published>
+    <updated>2026-11-16T16:35:00Z</updated>
+  </entry>
   <entry>
     <title>My best tip for how to make real friends</title>
     <link rel="alternate" type="text/html" href="https://brooke.substack.com/p/my-best-tip-for-how-to-make-real"/>
@@ -863,23 +881,5 @@
     <content type="html">&lt;p&gt;The filmmaker directed Elizabeth Holmes in early Theranos commercials and reveals that he shot a two-hour interview with her that he wants to release.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Variety · Marlow Stern&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-29T03:06:00Z</published>
     <updated>2026-10-29T03:06:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Real Kevin Bacon</title>
-    <link rel="alternate" type="text/html" href="https://pudding.cool/2026/10/kevin-bacon"/>
-    <id>urn:sha256:711e11db15dd7c885a62</id>
-    <summary type="text">Demystifying the Six Degrees of Kevin Bacon: the past, present, and future centers of Hollywood</summary>
-    <content type="html">&lt;p&gt;Demystifying the Six Degrees of Kevin Bacon: the past, present, and future centers of Hollywood&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Pudding&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-29T02:23:23Z</published>
-    <updated>2026-10-29T02:23:23Z</updated>
-  </entry>
-  <entry>
-    <title>Bonhams : Bonhams to Offer The Collection of Stanley Kubrick</title>
-    <link rel="alternate" type="text/html" href="https://www.bonhams.com/press_release/41719"/>
-    <id>urn:sha256:cefab02a840dbe94a520</id>
-    <summary type="text">Bonhams Fine Art Auctioneers &amp; Valuers: auctioneers of art, pictures, collectables and motor cars</summary>
-    <content type="html">&lt;p&gt;Bonhams Fine Art Auctioneers &amp;amp; Valuers: auctioneers of art, pictures, collectables and motor cars&lt;/p&gt;</content>
-    <published>2026-10-28T18:57:00Z</published>
-    <updated>2026-10-28T18:57:00Z</updated>
   </entry>
 </feed>
