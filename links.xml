@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-16T20:26:00Z</updated>
+  <updated>2026-11-16T21:33:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Sloppy Forgeries</title>
+    <link rel="alternate" type="text/html" href="https://playfulsystems.com/sloppy-forgeries"/>
+    <id>urn:sha256:617e0dfec6d296790141</id>
+    <summary type="text">A fast-paced competitive painting game. Butcher iconic masterpieces in one of the few drawing games that measures accuracy pixel-by-pixel.</summary>
+    <content type="html">&lt;p&gt;A fast-paced competitive painting game. Butcher iconic masterpieces in one of the few drawing games that measures accuracy pixel-by-pixel.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Jonah Warren&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-16T21:33:00Z</published>
+    <updated>2026-11-16T21:33:00Z</updated>
+  </entry>
   <entry>
     <title>Crime and Punishment in America</title>
     <link rel="alternate" type="text/html" href="https://www.pbs.org/kenburns/crime-and-punishment-in-america"/>
@@ -872,14 +881,5 @@
     <content type="html">&lt;p&gt;The 200 Greatest Rock Songs of the 21st Century So Far: The Strokes, the White Stripes, and more&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://open.spotify.com/playlist/6yf5RDVq1uRiqODOymJITp&quot;&gt;open.spotify.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-29T17:20:00Z</published>
     <updated>2026-10-29T17:20:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Remarkable Serbian Election</title>
-    <link rel="alternate" type="text/html" href="https://www.theguardian.com/world/2026/oct/25/serbian-leader-aleksandar-vucic-concedes-defeat-in-fiercely-contested-parliamentary-election"/>
-    <id>urn:sha256:d83e3da8b8178fe93bdf</id>
-    <summary type="text">Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests</summary>
-    <content type="html">&lt;p&gt;Vučić’s 12-year reign looks to have been ended by record turnout of voters in election provoked by student-led protests&lt;/p&gt;&lt;p&gt;&lt;em&gt;the Guardian&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://theloop.ecpr.eu/from-plenums-to-parliament-the-rulebook-behind-serbias-student-list&quot;&gt;theloop.ecpr.eu&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Student_List&quot;&gt;en.wikipedia.org&lt;/a&gt;, &lt;a href=&quot;https://www.nytimes.com/2026/10/21/opinion/serbia-elections-students-vucic.html?unlocked_article_code=1.MVE.nGqf.Dj-KppMTp6sj&quot;&gt;nytimes.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-29T16:03:00Z</published>
-    <updated>2026-10-29T16:03:00Z</updated>
   </entry>
 </feed>
