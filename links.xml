@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-13T21:48:00Z</updated>
+  <updated>2026-11-16T04:37:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Just 2 More Years Until We’re Done With Floppy Disks, F.A.A. Says</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/06/us/faa-floppy-disks-atc-2028.html?unlocked_article_code=1.Q1E.DbqX.uRhOL84WYanz"/>
+    <id>urn:sha256:52ffa8635c126efa62ef</id>
+    <summary type="text">Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.</summary>
+    <content type="html">&lt;p&gt;Decades after the computer industry moved on, federal officials plan to finally ground the once-vaunted tech relic at the nation’s air traffic control centers.&lt;/p&gt;</content>
+    <published>2026-11-16T04:37:00Z</published>
+    <updated>2026-11-16T04:37:00Z</updated>
+  </entry>
   <entry>
     <title>A Literary Map of the United States</title>
     <link rel="alternate" type="text/html" href="https://popchart.co/collections/big-think/products/a-literary-map-of-america"/>
@@ -872,14 +881,5 @@
     <content type="html">&lt;p&gt;Search, watch, and download public-domain archival footage by the shot.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.movingimagearchive.com/sources/amateur-film-chicago-world-s-fair-c865c678&quot;&gt;movingimagearchive.com&lt;/a&gt;, &lt;a href=&quot;https://www.movingimagearchive.com/sources/story-of-a-city-new-york-370791ea&quot;&gt;movingimagearchive.com&lt;/a&gt;, &lt;a href=&quot;https://www.movingimagearchive.com/sources/alice-in-wonderland-936fd497&quot;&gt;movingimagearchive.com&lt;/a&gt;, &lt;a href=&quot;https://www.movingimagearchive.com/sources/apollo-11-30th-anniversary&quot;&gt;movingimagearchive.com&lt;/a&gt;, &lt;a href=&quot;https://www.movingimagearchive.com/sources/story-of-television-c3331401&quot;&gt;movingimagearchive.com&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-10-28T18:00:00Z</published>
     <updated>2026-10-28T18:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>It&#x27;s Hard To Be A Rich Radical</title>
-    <link rel="alternate" type="text/html" href="https://defector.com/its-hard-to-be-a-rich-radical?giftLink=842f5a91744fcc6971b39dfbf8dba577"/>
-    <id>urn:sha256:87c0179ee65270f0b2d5</id>
-    <summary type="text">Welcome to Listening Habits, a column where I share the music and musical topics I’ve been fixated on recently. What could compel someone to spend four hours on a YouTube essay mostly about the rapper Killer Mike, a B-tier Dungeon Family affiliate who parlayed success as one half of Run The Jewels to become a B-tier rap…</summary>
-    <content type="html">&lt;p&gt;Welcome to Listening Habits, a column where I share the music and musical topics I’ve been fixated on recently. What could compel someone to spend four hours on a YouTube essay mostly about the rapper Killer Mike, a B-tier Dungeon Family affiliate who parlayed success as one half of Run The Jewels to become a B-tier rap…&lt;/p&gt;</content>
-    <published>2026-10-28T16:51:00Z</published>
-    <updated>2026-10-28T16:51:00Z</updated>
   </entry>
 </feed>
