@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-16T21:33:00Z</updated>
+  <updated>2026-11-16T22:38:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Nazaré - THE LAST EXIT</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AiWqBGd5XE8"/>
+    <id>urn:sha256:2908b1e652f0ef2282ef</id>
+    <summary type="text">The first massive swell of the 2026/2027 season arrived in Nazaré with incredible power.Salvador Couto took on the queen of the day — a gigantic right-hander...</summary>
+    <content type="html">&lt;p&gt;The first massive swell of the 2026/2027 season arrived in Nazaré with incredible power.Salvador Couto took on the queen of the day — a gigantic right-hander...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · MCYDRO&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/shorts/ZlN4YB27YQk&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=srTGyytP_i4&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/shorts/I7XBlXxLFCM&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/watch?v=Wjt6iUaLwE0&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/shorts/8jw-0DHnOgc&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-16T22:38:00Z</published>
+    <updated>2026-11-16T22:38:00Z</updated>
+  </entry>
   <entry>
     <title>Sloppy Forgeries</title>
     <link rel="alternate" type="text/html" href="https://playfulsystems.com/sloppy-forgeries"/>
@@ -872,14 +881,5 @@
     <content type="html">&lt;p&gt;Lecture 4 of &amp;quot;Lectures on Infinity.&amp;quot;What is the largest number you can describe in a tweet? With only 280 characters, there must be a finite number of possib...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Ergo&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-29T18:18:00Z</published>
     <updated>2026-10-29T18:18:00Z</updated>
-  </entry>
-  <entry>
-    <title>The 200 Best Rock Songs of the 21st Century</title>
-    <link rel="alternate" type="text/html" href="https://www.rollingstone.com/music/music-lists/best-rock-songs-of-the-21st-century-1235634033"/>
-    <id>urn:sha256:73da2e9a7d519174e5d8</id>
-    <summary type="text">The 200 Greatest Rock Songs of the 21st Century So Far: The Strokes, the White Stripes, and more</summary>
-    <content type="html">&lt;p&gt;The 200 Greatest Rock Songs of the 21st Century So Far: The Strokes, the White Stripes, and more&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://open.spotify.com/playlist/6yf5RDVq1uRiqODOymJITp&quot;&gt;open.spotify.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-29T17:20:00Z</published>
-    <updated>2026-10-29T17:20:00Z</updated>
   </entry>
 </feed>
