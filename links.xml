@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-16T17:09:00Z</updated>
+  <updated>2026-11-16T17:42:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>What Robert Caro Has Learned About Power</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=f0J_EeW42Lo"/>
+    <id>urn:sha256:c51f7945d1a5b89d1ecb</id>
+    <summary type="text">𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒* Transcript: https://www.dwarkesh.com/p/robert-caro* Apple Podcasts: https://podcasts.apple.com/us/podcast/robert-caro-the-master-b...</summary>
+    <content type="html">&lt;p&gt;𝐄𝐏𝐈𝐒𝐎𝐃𝐄 𝐋𝐈𝐍𝐊𝐒* Transcript: https://www.dwarkesh.com/p/robert-caro* Apple Podcasts: https://podcasts.apple.com/us/podcast/robert-caro-the-master-b...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Dwarkesh Patel&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.dwarkesh.com/p/robert-caro&quot;&gt;dwarkesh.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-16T17:42:00Z</published>
+    <updated>2026-11-16T17:42:00Z</updated>
+  </entry>
   <entry>
     <title>What the Retail Greeting ‘Welcome in’ Says About What Customers Really Want</title>
     <link rel="alternate" type="text/html" href="https://www.nytimes.com/2026/11/12/magazine/welcome-in-retail.html?unlocked_article_code=1.Q1E.3_8B.Q-SYDQmDGAFC"/>
@@ -872,14 +881,5 @@
     <content type="html">&lt;p&gt;White Bolognese, a meat sauce made without tomato, is a variation you rarely see in America.&lt;/p&gt;&lt;p&gt;&lt;em&gt;NYT Cooking&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-29T12:55:00Z</published>
     <updated>2026-10-29T12:55:00Z</updated>
-  </entry>
-  <entry>
-    <title>Errol Morris Is Sitting on a Secret Elizabeth Holmes Interview (EXCLUSIVE)</title>
-    <link rel="alternate" type="text/html" href="https://variety.com/2026/film/features/errol-morris-secret-elizabeth-holmes-interview-1236931901"/>
-    <id>urn:sha256:998f21d9d790b3737f25</id>
-    <summary type="text">The filmmaker directed Elizabeth Holmes in early Theranos commercials and reveals that he shot a two-hour interview with her that he wants to release.</summary>
-    <content type="html">&lt;p&gt;The filmmaker directed Elizabeth Holmes in early Theranos commercials and reveals that he shot a two-hour interview with her that he wants to release.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Variety · Marlow Stern&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-29T03:06:00Z</published>
-    <updated>2026-10-29T03:06:00Z</updated>
   </entry>
 </feed>
