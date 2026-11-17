@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-17T15:28:00Z</updated>
+  <updated>2026-11-17T16:18:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Preserving 30 Years of Salon Journalism</title>
+    <link rel="alternate" type="text/html" href="https://blog.archive.org/2026/11/12/preserving-30-years-of-salon-journalism"/>
+    <id>urn:sha256:53d7142e81a3530c8391</id>
+    <summary type="text">When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for a generation of online readers. After 31 years, Salon has announced that it is ceasing publication.</summary>
+    <content type="html">&lt;p&gt;When Salon launched in 1995, the web was still finding its voice. One of the first major publications born on the internet, Salon helped define a new kind of digital journalism, bringing together politics, culture, criticism, and ideas for a generation of online readers. After 31 years, Salon has announced that it is ceasing publication.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Internet Archive Blogs - Updates from the Internet Archive · Chris Freeland&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://wayback-labs.sf.archive.org/salon-explorer&quot;&gt;wayback-labs.sf.archive.org&lt;/a&gt;, &lt;a href=&quot;https://www.salon.com/2026/11/05/goodbye-from-salon&quot;&gt;salon.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-17T16:18:00Z</published>
+    <updated>2026-11-17T16:18:00Z</updated>
+  </entry>
   <entry>
     <title>CHIMERA</title>
     <link rel="alternate" type="text/html" href="https://www.chimera.audio"/>
@@ -871,14 +880,5 @@
     <id>urn:sha256:2a6e580066fc66e3fe64</id>
     <published>2026-10-29T21:24:00Z</published>
     <updated>2026-10-29T21:24:00Z</updated>
-  </entry>
-  <entry>
-    <title>Star Wars: The Radio Drama</title>
-    <link rel="alternate" type="text/html" href="https://archive.org/details/08Episode08DeathStarsTransit"/>
-    <id>urn:sha256:fc54bd97f66e1aedf879</id>
-    <summary type="text">These are out of my collection of Radio Dramas with Mark Hamill from 1981The Original Files are WMA, much larger than what you see here. I made the MP3 320kb...</summary>
-    <content type="html">&lt;p&gt;These are out of my collection of Radio Dramas with Mark Hamill from 1981The Original Files are WMA, much larger than what you see here. I made the MP3 320kb...&lt;/p&gt;&lt;p&gt;&lt;em&gt;Internet Archive&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://archive.org/details/10Episode10TheClashOfLightsabres&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://archive.org/details/05Episode05SoTurnsAGalaxySoTurnsAWheel&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://archive.org/details/palpsmightbepalpatineshhh/Star+Wars+-+National+Public+Radio+Trilogy&quot;&gt;archive.org&lt;/a&gt;, &lt;a href=&quot;https://www.openculture.com/2020/05/the-original-star-wars-trilogy-adapted-into-a-14-hour-radio-drama-by-npr-1981-1996.html&quot;&gt;openculture.com&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Star_Wars_%28radio_series%29&quot;&gt;en.wikipedia.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-29T20:02:00Z</published>
-    <updated>2026-10-29T20:02:00Z</updated>
   </entry>
 </feed>
