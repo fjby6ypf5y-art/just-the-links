@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-17T18:18:00Z</updated>
+  <updated>2026-11-17T19:04:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Colorwork Chart Designer</title>
+    <link rel="alternate" type="text/html" href="https://knithub.nl"/>
+    <id>urn:sha256:42dce74fe97ab41c6251</id>
+    <summary type="text">Create, share, and discover colorwork knitting charts. A platform for knitters and crafters to design patterns with a powerful grid-based chart editor.</summary>
+    <content type="html">&lt;p&gt;Create, share, and discover colorwork knitting charts. A platform for knitters and crafters to design patterns with a powerful grid-based chart editor.&lt;/p&gt;&lt;p&gt;&lt;em&gt;knithub&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-17T19:04:00Z</published>
+    <updated>2026-11-17T19:04:00Z</updated>
+  </entry>
   <entry>
     <title>AI Text Message Analysis Friendship</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/family/2026/11/ai-text-message-analysis-friendship/689436?gift=j9r7avb6p-KY8zdjhsiSZ0vdL7JR3mcYT2o6tHonL1Q"/>
@@ -871,14 +880,5 @@
     <content type="html">&lt;p&gt;Markers released top-line results today after previously reporting the trial succeeded.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ars Technica&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-30T15:25:00Z</published>
     <updated>2026-10-30T15:25:00Z</updated>
-  </entry>
-  <entry>
-    <title>Listen to a Long-Lost Daft Punk Mix From 1997</title>
-    <link rel="alternate" type="text/html" href="https://www.instagram.com/p/DewzvwDtasv"/>
-    <id>urn:sha256:53ad344c34283494a737</id>
-    <summary type="text">4,393 likes, 376 comments - ralph2020vision on October 21, 2026: &quot;daft punk - feb 1997 - dj mix Well it took a minute but massive thanks to Adrian @greatbeardigitising Bristol for restoring the tape by removing mould &amp; fixing rips! Might have to share this one? #daftpunk #electronicmusic&quot;.</summary>
-    <content type="html">&lt;p&gt;4,393 likes, 376 comments - ralph2020vision on October 21, 2026: &amp;quot;daft punk - feb 1997 - dj mix Well it took a minute but massive thanks to Adrian @greatbeardigitising Bristol for restoring the tape by removing mould &amp;amp; fixing rips! Might have to share this one? #daftpunk #electronicmusic&amp;quot;.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Instagram&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://soundcloud.com/ralphlawson/daft-punk-feb-97-dj-mix&quot;&gt;soundcloud.com&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-10-30T12:30:00Z</published>
-    <updated>2026-10-30T12:30:00Z</updated>
   </entry>
 </feed>
