@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-17T19:04:00Z</updated>
+  <updated>2026-11-17T19:56:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Jean-Michel Basquiat | Official Trailer | Netflix</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=eLuySKwDvhM"/>
+    <id>urn:sha256:c6d373c6573f83d87d5e</id>
+    <summary type="text">Jean-Michel Basquiat is a reclamation of what has been lost in the legacy of a globally renowned artist. Through untold memories from his family, never-befor...</summary>
+    <content type="html">&lt;p&gt;Jean-Michel Basquiat is a reclamation of what has been lost in the legacy of a globally renowned artist. Through untold memories from his family, never-befor...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Netflix&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-17T19:56:00Z</published>
+    <updated>2026-11-17T19:56:00Z</updated>
+  </entry>
   <entry>
     <title>Colorwork Chart Designer</title>
     <link rel="alternate" type="text/html" href="https://knithub.nl"/>
@@ -871,14 +880,5 @@
     <content type="html">&lt;p&gt;Technologist and artist James Bridle conducts a simple chair-building experiment to explore how our embodied intelligence could meet AI’s disembodied knowledge in more meaningful ways.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Emergence Magazine&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-30T16:45:00Z</published>
     <updated>2026-10-30T16:45:00Z</updated>
-  </entry>
-  <entry>
-    <title>Moderna and Merck say their mRNA cancer vaccine cut death, recurrence by 42%</title>
-    <link rel="alternate" type="text/html" href="https://arstechnica.com/health/2026/10/personalized-mrna-cancer-vaccine-cut-melanoma-death-recurrence-by-42"/>
-    <id>urn:sha256:66d5d662c245ed961e9e</id>
-    <summary type="text">Markers released top-line results today after previously reporting the trial succeeded.</summary>
-    <content type="html">&lt;p&gt;Markers released top-line results today after previously reporting the trial succeeded.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ars Technica&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-30T15:25:00Z</published>
-    <updated>2026-10-30T15:25:00Z</updated>
   </entry>
 </feed>
