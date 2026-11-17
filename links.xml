@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-16T22:38:00Z</updated>
+  <updated>2026-11-17T00:57:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>James Bond Found: Robert Pattinson to Play 007</title>
+    <link rel="alternate" type="text/html" href="https://www.hollywoodreporter.com/movies/movie-news/james-bond-found-robert-pattinson-1236751054"/>
+    <id>urn:sha256:bed8dba83921555c9176</id>
+    <summary type="text">He&#x27;s already the face of DC&#x27;s Batman. Now he will play the world&#x27;s most famous spy.</summary>
+    <content type="html">&lt;p&gt;He&amp;#x27;s already the face of DC&amp;#x27;s Batman. Now he will play the world&amp;#x27;s most famous spy.&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Hollywood Reporter · Aaron Couch,Borys Kit&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-17T00:57:00Z</published>
+    <updated>2026-11-17T00:57:00Z</updated>
+  </entry>
   <entry>
     <title>Nazaré - THE LAST EXIT</title>
     <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=AiWqBGd5XE8"/>
@@ -872,14 +881,5 @@
     <content type="html">&lt;p&gt;Self-proclaimed &amp;quot;Dumpster Archeologist&amp;quot; Lew Blink embarks on thrilling expeditions through dimly lit alleys where every item holds a story waiting to be brou...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · StolenSun&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-10-29T19:11:00Z</published>
     <updated>2026-10-29T19:11:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Largest Tweetable Number — Lectures on Infinity (Lecture 4)</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=3n115MgLFz0"/>
-    <id>urn:sha256:211ae80ef07c47eec9c0</id>
-    <summary type="text">Lecture 4 of &quot;Lectures on Infinity.&quot;What is the largest number you can describe in a tweet? With only 280 characters, there must be a finite number of possib...</summary>
-    <content type="html">&lt;p&gt;Lecture 4 of &amp;quot;Lectures on Infinity.&amp;quot;What is the largest number you can describe in a tweet? With only 280 characters, there must be a finite number of possib...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Ergo&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-10-29T18:18:00Z</published>
-    <updated>2026-10-29T18:18:00Z</updated>
   </entry>
 </feed>
