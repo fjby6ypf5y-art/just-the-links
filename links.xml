@@ -2,9 +2,17 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-18T17:33:00Z</updated>
+  <updated>2026-11-18T18:48:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The life of a composer</title>
+    <link rel="alternate" type="text/html" href="https://composer.pablostanley.com"/>
+    <id>urn:sha256:05c0f1f67191100a9724</id>
+    <content type="html">&lt;p&gt;Also linked: &lt;a href=&quot;https://unsung.aresluna.org/ive-spent-years-on-it-years-on-a-box&quot;&gt;unsung.aresluna.org&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-18T18:48:00Z</published>
+    <updated>2026-11-18T18:48:00Z</updated>
+  </entry>
   <entry>
     <title>Stacey Abrams and Ta-Nehisi Coates in Conversation</title>
     <link rel="alternate" type="text/html" href="https://www.vanityfair.com/story/stacey-abrams-tanehisi-coates-midterms-2026"/>
@@ -869,12 +877,5 @@
     <content type="html">&lt;p&gt;Every border and coastline people have drawn from memory playing Borderline: the world, the US states, the French départements, the UK&amp;#x27;s counties, Germany&amp;#x27;s Länder, Australia&amp;#x27;s states, Switzerland&amp;#x27;s cantons, Italy&amp;#x27;s regions, Spain&amp;#x27;s communities and Mexico&amp;#x27;s states.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.habibicode.org/borderline&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnworld&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnusa&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawncanada&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnitaly&quot;&gt;habibicode.org&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-11-02T17:30:00Z</published>
     <updated>2026-11-02T17:30:00Z</updated>
-  </entry>
-  <entry>
-    <title>Row Poulette Potato</title>
-    <link rel="alternate" type="text/html" href="https://www.foodandwine.com/row-7-poulette-potato-12147524"/>
-    <id>urn:sha256:1d209273074590aef35a</id>
-    <published>2026-11-02T16:14:00Z</published>
-    <updated>2026-11-02T16:14:00Z</updated>
   </entry>
 </feed>
