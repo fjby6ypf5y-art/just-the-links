@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-18T18:48:00Z</updated>
+  <updated>2026-11-18T19:44:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Aquaterra Ancient Human Migration</title>
+    <link rel="alternate" type="text/html" href="https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029?gift=j9r7avb6p-KY8zdjhsiSZ2666EAn_CzzJj2TMTzfdA8"/>
+    <id>urn:sha256:9a091ce0427ce99483ef</id>
+    <published>2026-11-18T19:44:00Z</published>
+    <updated>2026-11-18T19:44:00Z</updated>
+  </entry>
   <entry>
     <title>The life of a composer</title>
     <link rel="alternate" type="text/html" href="https://composer.pablostanley.com"/>
@@ -868,14 +875,5 @@
     <content type="html">&lt;p&gt;I loved this essay in Public Books by Emma Adler with exactly the sort of attention-grabbing headline to knock me out of my default internet sleepwalking state: “Every Novel Is Boring—Until It Isn’t”:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Joanne McNeil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.publicbooks.org/every-novel-is-boring-until-it-isnt&quot;&gt;publicbooks.org&lt;/a&gt;&lt;/p&gt;</content>
     <published>2026-11-02T18:00:00Z</published>
     <updated>2026-11-02T18:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Collectively Drawn World</title>
-    <link rel="alternate" type="text/html" href="https://www.habibicode.org/thedrawnmaps"/>
-    <id>urn:sha256:6792e0b4f9445b56dc54</id>
-    <summary type="text">Every border and coastline people have drawn from memory playing Borderline: the world, the US states, the French départements, the UK&#x27;s counties, Germany&#x27;s Länder, Australia&#x27;s states, Switzerland&#x27;s cantons, Italy&#x27;s regions, Spain&#x27;s communities and Mexico&#x27;s states.</summary>
-    <content type="html">&lt;p&gt;Every border and coastline people have drawn from memory playing Borderline: the world, the US states, the French départements, the UK&amp;#x27;s counties, Germany&amp;#x27;s Länder, Australia&amp;#x27;s states, Switzerland&amp;#x27;s cantons, Italy&amp;#x27;s regions, Spain&amp;#x27;s communities and Mexico&amp;#x27;s states.&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.habibicode.org/borderline&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnworld&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnusa&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawncanada&quot;&gt;habibicode.org&lt;/a&gt;, &lt;a href=&quot;https://www.habibicode.org/thedrawnitaly&quot;&gt;habibicode.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-11-02T17:30:00Z</published>
-    <updated>2026-11-02T17:30:00Z</updated>
   </entry>
 </feed>
