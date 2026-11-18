@@ -2,9 +2,26 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-18T19:44:00Z</updated>
+  <updated>2026-11-18T21:44:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>What Are People For</title>
+    <link rel="alternate" type="text/html" href="https://www.whatarepeoplefor.com"/>
+    <id>urn:sha256:bd780c5b13f4b5bb77e9</id>
+    <content type="html">&lt;p&gt;&lt;em&gt;What Are People For&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-18T21:44:00Z</published>
+    <updated>2026-11-18T21:44:00Z</updated>
+  </entry>
+  <entry>
+    <title>What Happens to Your Body When You Die?</title>
+    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=fEjvSbI_PT4"/>
+    <id>urn:sha256:64d417bc38af2e0838a5</id>
+    <summary type="text">To get started planning a career that works on one of the world’s most pressing problems, sign up now at https://80000hours.org/inanutshellGet cozy with our ...</summary>
+    <content type="html">&lt;p&gt;To get started planning a career that works on one of the world’s most pressing problems, sign up now at https://80000hours.org/inanutshellGet cozy with our ...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Kurzgesagt – In a Nutshell&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-18T20:51:00Z</published>
+    <updated>2026-11-18T20:51:00Z</updated>
+  </entry>
   <entry>
     <title>Aquaterra Ancient Human Migration</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/magazine/2026/12/aquaterra-ancient-human-migration/689029?gift=j9r7avb6p-KY8zdjhsiSZ2666EAn_CzzJj2TMTzfdA8"/>
@@ -857,23 +874,5 @@
     <content type="html">&lt;p&gt;&amp;quot;It is a truth universally acknowledged...&amp;quot;From the pages of Jane Austen&amp;#x27;s beloved novel comes a six-part adaptation on love, longing and first impressions w...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Netflix&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-11-02T19:58:00Z</published>
     <updated>2026-11-02T19:58:00Z</updated>
-  </entry>
-  <entry>
-    <title>The more we rely on tech, the more we deskill our bodies</title>
-    <link rel="alternate" type="text/html" href="https://aeon.co/essays/the-more-we-rely-on-tech-the-more-we-deskill-our-bodies"/>
-    <id>urn:sha256:6a324fdb1cb0b217051b</id>
-    <summary type="text">We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending</summary>
-    <content type="html">&lt;p&gt;We are, moment by moment, doing less sensing, navigating, remembering, walking, choosing, and attending&lt;/p&gt;</content>
-    <published>2026-11-02T19:19:00Z</published>
-    <updated>2026-11-02T19:19:00Z</updated>
-  </entry>
-  <entry>
-    <title>now that’s what I call volta</title>
-    <link rel="alternate" type="text/html" href="https://jomc.substack.com/p/now-thats-what-i-call-volta"/>
-    <id>urn:sha256:5dc2598c4532899e3152</id>
-    <summary type="text">I loved this essay in Public Books by Emma Adler with exactly the sort of attention-grabbing headline to knock me out of my default internet sleepwalking state: “Every Novel Is Boring—Until It Isn’t”:</summary>
-    <content type="html">&lt;p&gt;I loved this essay in Public Books by Emma Adler with exactly the sort of attention-grabbing headline to knock me out of my default internet sleepwalking state: “Every Novel Is Boring—Until It Isn’t”:&lt;/p&gt;&lt;p&gt;&lt;em&gt;Joanne McNeil&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.publicbooks.org/every-novel-is-boring-until-it-isnt&quot;&gt;publicbooks.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-11-02T18:00:00Z</published>
-    <updated>2026-11-02T18:00:00Z</updated>
   </entry>
 </feed>
