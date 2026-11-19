@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-19T22:05:00Z</updated>
+  <updated>2026-11-19T23:00:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Stock Photos of Muscular Men in Odd Places</title>
+    <link rel="alternate" type="text/html" href="https://freephotomuscle.com"/>
+    <id>urn:sha256:0717a8de3b916c585fdb</id>
+    <summary type="text">マッチョ・筋肉のフリー写真素材を無料で配布。登録不要で、SNS・広告・デザインなどに利用できます。商用利用は利用規約の範囲内で対応。部位・シーン・地域から写真を探せます。</summary>
+    <content type="html">&lt;p&gt;マッチョ・筋肉のフリー写真素材を無料で配布。登録不要で、SNS・広告・デザインなどに利用できます。商用利用は利用規約の範囲内で対応。部位・シーン・地域から写真を探せます。&lt;/p&gt;&lt;p&gt;&lt;em&gt;マッチョフリー素材サイト『マッスルプラス』&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.tokyoweekender.com/japan-life/muscle-plus-japan-free-stock-photos-buff-men&quot;&gt;tokyoweekender.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-19T23:00:00Z</published>
+    <updated>2026-11-19T23:00:00Z</updated>
+  </entry>
   <entry>
     <title>50,000 boat names</title>
     <link rel="alternate" type="text/html" href="https://www.beautifulpublicdata.com/boat-names"/>
@@ -863,14 +872,5 @@
     <id>urn:sha256:6659c3371653c1b1695c</id>
     <published>2026-11-05T13:46:00Z</published>
     <updated>2026-11-05T13:46:00Z</updated>
-  </entry>
-  <entry>
-    <title>How Human Civilization Began</title>
-    <link rel="alternate" type="text/html" href="https://www.youtube.com/watch?v=_y9JuojAIg0"/>
-    <id>urn:sha256:94fe71c30134724fe709</id>
-    <summary type="text">IT’S HERE! The 12,027 Calendar just dropped on the kurzgesagt shop: https://shop.kgs.link/calendar27, and we’re so excited for you to see it. Get yours here,...</summary>
-    <content type="html">&lt;p&gt;IT’S HERE! The 12,027 Calendar just dropped on the kurzgesagt shop: https://shop.kgs.link/calendar27, and we’re so excited for you to see it. Get yours here,...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · Kurzgesagt – In a Nutshell&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://sites.google.com/view/sources-dark-matter-history&quot;&gt;sites.google.com&lt;/a&gt;, &lt;a href=&quot;https://en.wikipedia.org/wiki/Lake_Agassiz&quot;&gt;en.wikipedia.org&lt;/a&gt;&lt;/p&gt;</content>
-    <published>2026-11-03T22:26:00Z</published>
-    <updated>2026-11-03T22:26:00Z</updated>
   </entry>
 </feed>
