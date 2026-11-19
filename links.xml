@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-19T18:16:00Z</updated>
+  <updated>2026-11-19T18:58:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>Life Feeling Too Expensive? It’s Not Just You. And It’s Not Just Inflation.</title>
+    <link rel="alternate" type="text/html" href="https://www.nytimes.com/interactive/2026/10/21/us/inflation-prices-real-estate-child-care-affordabilty.html?unlocked_article_code=1.RFE.l7Jb.xozoRc_fEOPU"/>
+    <id>urn:sha256:2f1656bc497a48100a40</id>
+    <summary type="text">Affordability is expected to be a major issue for younger voters in the midterms. Here’s a snapshot of some reasons people are feeling pinched.</summary>
+    <content type="html">&lt;p&gt;Affordability is expected to be a major issue for younger voters in the midterms. Here’s a snapshot of some reasons people are feeling pinched.&lt;/p&gt;</content>
+    <published>2026-11-19T18:58:00Z</published>
+    <updated>2026-11-19T18:58:00Z</updated>
+  </entry>
   <entry>
     <title>Love Stories Romance Novels</title>
     <link rel="alternate" type="text/html" href="https://www.theatlantic.com/books/2026/10/love-stories-romance-novels/688079?gift=j9r7avb6p-KY8zdjhsiSZwHR1eO4tBS01zD-8w9llbw"/>
@@ -864,13 +873,5 @@
     <content type="html">&lt;p&gt;I just keep thinking, holy crap...we&amp;#x27;re in it...and we&amp;#x27;ve been in it for a while now. Focus Friend Androidhttps://play.google.com/store/apps/details?id=com.u...&lt;/p&gt;&lt;p&gt;&lt;em&gt;YouTube · vlogbrothers&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-11-03T20:48:00Z</published>
     <updated>2026-11-03T20:48:00Z</updated>
-  </entry>
-  <entry>
-    <title>APOD: 2026 November 2 - A Long Cloud on Mars</title>
-    <link rel="alternate" type="text/html" href="https://science.nasa.gov/image-article/apod-2026-november-2-a-long-cloud-on-mars"/>
-    <id>urn:sha256:97484297c8c94a4b95c9</id>
-    <content type="html">&lt;p&gt;&lt;em&gt;NASA Science&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-11-03T20:01:00Z</published>
-    <updated>2026-11-03T20:01:00Z</updated>
   </entry>
 </feed>
