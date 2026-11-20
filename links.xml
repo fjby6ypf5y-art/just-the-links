@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-20T16:15:00Z</updated>
+  <updated>2026-11-20T17:58:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>What the Death Penalty Says About Us</title>
+    <link rel="alternate" type="text/html" href="https://now.tufts.edu/2026/11/16/what-death-penalty-says-about-us"/>
+    <id>urn:sha256:88646aa9a8a69ff0362b</id>
+    <summary type="text">This month, the governor of California commuted the death sentences of 548 people on death row in that state to life in prison without the option of parole. “</summary>
+    <content type="html">&lt;p&gt;This month, the governor of California commuted the death sentences of 548 people on death row in that state to life in prison without the option of parole. “&lt;/p&gt;&lt;p&gt;&lt;em&gt;Tufts Now&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-20T17:58:00Z</published>
+    <updated>2026-11-20T17:58:00Z</updated>
+  </entry>
   <entry>
     <title>MSN</title>
     <link rel="alternate" type="text/html" href="https://www.msn.com/en-us/science/mathematics/anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/ar-AA2hRFR9"/>
@@ -863,14 +872,5 @@
     <content type="html">&lt;p&gt;After 17 years, Foursquare’s ending is written. Writing this to share my opinions &amp;amp; frustrations with the final years of the company, and to honor the team who helped build &amp;amp; maintain FSQ’s legacy.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dennis Crowley&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-11-05T19:19:00Z</published>
     <updated>2026-11-05T19:19:00Z</updated>
-  </entry>
-  <entry>
-    <title>Grocery Shopping With a Bow &amp; Arrow</title>
-    <link rel="alternate" type="text/html" href="https://christianjankowski.com/works/1992-2/die-jagd-the-hunt"/>
-    <id>urn:sha256:ee7cc149ebfa794e6ffe</id>
-    <summary type="text">Concept -1992- To rebel against modern society, to return to nature: in pursuit of these primeval instincts, for one week, Jankowski lived off goods he hunted in the supermarket. Instead of stalkin…</summary>
-    <content type="html">&lt;p&gt;Concept -1992- To rebel against modern society, to return to nature: in pursuit of these primeval instincts, for one week, Jankowski lived off goods he hunted in the supermarket. Instead of stalkin…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Christian Jankowski&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-11-05T18:05:00Z</published>
-    <updated>2026-11-05T18:05:00Z</updated>
   </entry>
 </feed>
