@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-20T17:58:00Z</updated>
+  <updated>2026-11-20T18:51:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>How everything became fake</title>
+    <link rel="alternate" type="text/html" href="https://buttondown.com/fake/archive/001-how-everything-became-fake?ref=undermanager.com"/>
+    <id>urn:sha256:4f27bb6461872d09d268</id>
+    <summary type="text">And why a North Korean spy started my quest to uncover the long, strange history of unreality.</summary>
+    <content type="html">&lt;p&gt;And why a North Korean spy started my quest to uncover the long, strange history of unreality.&lt;/p&gt;</content>
+    <published>2026-11-20T18:51:00Z</published>
+    <updated>2026-11-20T18:51:00Z</updated>
+  </entry>
   <entry>
     <title>What the Death Penalty Says About Us</title>
     <link rel="alternate" type="text/html" href="https://now.tufts.edu/2026/11/16/what-death-penalty-says-about-us"/>
@@ -863,14 +872,5 @@
     <content type="html">&lt;p&gt;Meet Subvocal. Silent text input for your computer, at the speed of speech. Built by The Subvocal Company.&lt;/p&gt;</content>
     <published>2026-11-05T20:06:00Z</published>
     <updated>2026-11-05T20:06:00Z</updated>
-  </entry>
-  <entry>
-    <title>Some final words on Foursquare.</title>
-    <link rel="alternate" type="text/html" href="https://teendrama.substack.com/p/some-final-words-on-foursquare"/>
-    <id>urn:sha256:7e6d5bafd0892e3a6b2d</id>
-    <summary type="text">After 17 years, Foursquare’s ending is written. Writing this to share my opinions &amp; frustrations with the final years of the company, and to honor the team who helped build &amp; maintain FSQ’s legacy.</summary>
-    <content type="html">&lt;p&gt;After 17 years, Foursquare’s ending is written. Writing this to share my opinions &amp;amp; frustrations with the final years of the company, and to honor the team who helped build &amp;amp; maintain FSQ’s legacy.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Dennis Crowley&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-11-05T19:19:00Z</published>
-    <updated>2026-11-05T19:19:00Z</updated>
   </entry>
 </feed>
