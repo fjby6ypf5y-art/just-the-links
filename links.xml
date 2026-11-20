@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-20T13:55:00Z</updated>
+  <updated>2026-11-20T14:48:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>The Rose by Jay DeFeo</title>
+    <link rel="alternate" type="text/html" href="https://whitney.org/collection/works/10075"/>
+    <id>urn:sha256:6ca81088eff6efee16ec</id>
+    <summary type="text">Jay DeFeo began this monumental work simply as an “idea that had a center to it.” Initially, the painting measured approximately 9 x 7 feet and was called Deathrose, but in 1959, the artist transferred the work onto a larger canvas with the help of friends. She continued to work on The Rose for the next seven years, applying thick paint, then chiseling it away, inserting wooden dowels to help support the heavier areas of impasto. Now nearly eleven feet tall and weighing over a ton, the work’s…</summary>
+    <content type="html">&lt;p&gt;Jay DeFeo began this monumental work simply as an “idea that had a center to it.” Initially, the painting measured approximately 9 x 7 feet and was called Deathrose, but in 1959, the artist transferred the work onto a larger canvas with the help of friends. She continued to work on The Rose for the next seven years, applying thick paint, then chiseling it away, inserting wooden dowels to help support the heavier areas of impasto. Now nearly eleven feet tall and weighing over a ton, the work’s…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Whitney Museum of American Art&lt;/em&gt;&lt;/p&gt;&lt;p&gt;Also linked: &lt;a href=&quot;https://www.youtube.com/watch?v=BkHi-XqVS8U&quot;&gt;youtube.com&lt;/a&gt;, &lt;a href=&quot;https://www.youtube.com/shorts/XuBdq0CbYYE&quot;&gt;youtube.com&lt;/a&gt;&lt;/p&gt;</content>
+    <published>2026-11-20T14:48:00Z</published>
+    <updated>2026-11-20T14:48:00Z</updated>
+  </entry>
   <entry>
     <title>COO · Covert Ornithological Operations</title>
     <link rel="alternate" type="text/html" href="https://coo.mx"/>
@@ -865,12 +874,5 @@
     <content type="html">&lt;p&gt;The maternal drape, as it is called, is helping to solve one of the world’s most intractable health problems.&lt;/p&gt;</content>
     <published>2026-11-05T16:22:00Z</published>
     <updated>2026-11-05T16:22:00Z</updated>
-  </entry>
-  <entry>
-    <title>ledger.worseonpurpose.com</title>
-    <link rel="alternate" type="text/html" href="https://ledger.worseonpurpose.com/status/avoid"/>
-    <id>urn:sha256:c8445758abddc90239c7</id>
-    <published>2026-11-05T15:39:00Z</published>
-    <updated>2026-11-05T15:39:00Z</updated>
   </entry>
 </feed>
