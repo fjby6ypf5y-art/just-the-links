@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-20T15:52:00Z</updated>
+  <updated>2026-11-20T16:15:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>MSN</title>
+    <link rel="alternate" type="text/html" href="https://www.msn.com/en-us/science/mathematics/anthropic-mathematician-claims-ai-assisted-proof-of-the-riemann-hypothesis/ar-AA2hRFR9"/>
+    <id>urn:sha256:f8fb73725fd0b733a84a</id>
+    <published>2026-11-20T16:15:00Z</published>
+    <updated>2026-11-20T16:15:00Z</updated>
+  </entry>
   <entry>
     <title>The Buddhist A.I. Sect That Wants to Take Over Silicon Valley</title>
     <link rel="alternate" type="text/html" href="https://www.newyorker.com/magazine/2026/11/23/the-buddhist-ai-sect-that-wants-to-take-over-silicon-valley"/>
@@ -865,14 +872,5 @@
     <content type="html">&lt;p&gt;Concept -1992- To rebel against modern society, to return to nature: in pursuit of these primeval instincts, for one week, Jankowski lived off goods he hunted in the supermarket. Instead of stalkin…&lt;/p&gt;&lt;p&gt;&lt;em&gt;Christian Jankowski&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-11-05T18:05:00Z</published>
     <updated>2026-11-05T18:05:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Web Is More Than Enough, by Paul Ford</title>
-    <link rel="alternate" type="text/html" href="https://ftrain.com/aboard-the-web-is-more-than-enough"/>
-    <id>urn:sha256:15e3009512868312452c</id>
-    <summary type="text">Web browsers enable incredibly rich app development—and that’s radically easier than it used to be.</summary>
-    <content type="html">&lt;p&gt;Web browsers enable incredibly rich app development—and that’s radically easier than it used to be.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Ftrain.com&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-11-05T17:10:00Z</published>
-    <updated>2026-11-05T17:10:00Z</updated>
   </entry>
 </feed>
