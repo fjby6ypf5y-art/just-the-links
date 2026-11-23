@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-23T17:06:00Z</updated>
+  <updated>2026-11-23T18:40:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>How &#x27;reading the air&#x27; keeps Japan running</title>
+    <link rel="alternate" type="text/html" href="https://www.bbc.com/worklife/article/20200129-what-is-reading-the-air-in-japan"/>
+    <id>urn:sha256:b5f5b21a627913e5e695</id>
+    <summary type="text">In &quot;high-context&quot; countries where communication is indirect and messages are inferred - like Japan - situational awareness is king.</summary>
+    <content type="html">&lt;p&gt;In &amp;quot;high-context&amp;quot; countries where communication is indirect and messages are inferred - like Japan - situational awareness is king.&lt;/p&gt;</content>
+    <published>2026-11-23T18:40:00Z</published>
+    <updated>2026-11-23T18:40:00Z</updated>
+  </entry>
   <entry>
     <title>Tired Women in Art</title>
     <link rel="alternate" type="text/html" href="https://ironicsans.ghost.io/tired-women-in-art"/>
@@ -863,14 +872,5 @@
     <content type="html">&lt;p&gt;DHARAMSHALA, INDIA—In a move that adds diverse value to the global investment firm’s holdings, Bain Capital announced Thursday the acquisition of Tibetan Buddhism, financing a $35 million deal for a controlling stake in the religion. Bain corporate officers said they believe Tibetan Buddhism has the fundamentals to be a leader in the dharmic space, but […]&lt;/p&gt;&lt;p&gt;&lt;em&gt;The Onion · The Onion Staff&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-11-06T14:01:00Z</published>
     <updated>2026-11-06T14:01:00Z</updated>
-  </entry>
-  <entry>
-    <title>Anthropic tells Claude to stop remaking video games</title>
-    <link rel="alternate" type="text/html" href="https://www.gamedeveloper.com/programming/anthropic-appears-to-have-ordered-ai-tool-claude-to-stop-remaking-video-games"/>
-    <id>urn:sha256:45e8e2b022a7ae8a20f0</id>
-    <summary type="text">Claude users are reporting that Anthropic&#x27;s AI tool has been updated with a rule that bars it from remaking games.</summary>
-    <content type="html">&lt;p&gt;Claude users are reporting that Anthropic&amp;#x27;s AI tool has been updated with a rule that bars it from remaking games.&lt;/p&gt;&lt;p&gt;&lt;em&gt;Game Developer&lt;/em&gt;&lt;/p&gt;</content>
-    <published>2026-11-06T05:23:00Z</published>
-    <updated>2026-11-06T05:23:00Z</updated>
   </entry>
 </feed>
