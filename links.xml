@@ -2,9 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <title>Just the Links</title>
   <id>urn:uuid:7b8d42e7-0792-40a6-a9de-dc6d1d9555d8</id>
-  <updated>2026-11-24T18:30:00Z</updated>
+  <updated>2026-11-24T20:05:00Z</updated>
   <link rel="self" type="application/atom+xml" href="https://fjby6ypf5y-art.github.io/just-the-links/links.xml"/>
   <subtitle>Assorted links, one per item.</subtitle>
+  <entry>
+    <title>New DNA analysis adds evidence Jefferson fathered children with Sally Hemings</title>
+    <link rel="alternate" type="text/html" href="https://www.npr.org/2026/09/22/nx-s1-5791513/thomas-jefferson-sally-hemings-dna-hair-smithsonian"/>
+    <id>urn:sha256:a444a4b7902bc8505c06</id>
+    <summary type="text">A lock of hair, 15 years of sleuthing and a 200-year-old question. In History by a Hair, Smithsonian Institution scholar Richard Kurin follows the DNA trail back to Thomas Jefferson.</summary>
+    <content type="html">&lt;p&gt;A lock of hair, 15 years of sleuthing and a 200-year-old question. In History by a Hair, Smithsonian Institution scholar Richard Kurin follows the DNA trail back to Thomas Jefferson.&lt;/p&gt;&lt;p&gt;&lt;em&gt;NPR&lt;/em&gt;&lt;/p&gt;</content>
+    <published>2026-11-24T20:05:00Z</published>
+    <updated>2026-11-24T20:05:00Z</updated>
+  </entry>
   <entry>
     <title>How to make a bestseller: insiders reveal the tricks of the book trade</title>
     <link rel="alternate" type="text/html" href="https://www.theguardian.com/books/ng-interactive/2026/aug/29/how-to-make-a-bestseller-insiders-reveal-the-tricks-of-the-book-trade"/>
@@ -865,14 +874,5 @@
     <content type="html">&lt;p&gt;Although the Mars meteorites found on Earth differ from one another, they share a common history, having been blasted off the Red Planet’s surface by an&lt;/p&gt;&lt;p&gt;&lt;em&gt;NASA · Jet Propulsion Laboratory&lt;/em&gt;&lt;/p&gt;</content>
     <published>2026-11-06T22:00:00Z</published>
     <updated>2026-11-06T22:00:00Z</updated>
-  </entry>
-  <entry>
-    <title>The Match Archive</title>
-    <link rel="alternate" type="text/html" href="https://www.instagram.com/thematcharchive"/>
-    <id>urn:sha256:19c28de194a3bdf5e8fa</id>
-    <summary type="text">30K Followers, 26 Following, 66 Posts - See Instagram photos and videos from The MATCH Archive (@thematcharchive)</summary>
-    <content type="html">&lt;p&gt;30K Followers, 26 Following, 66 Posts - See Instagram photos and videos from The MATCH Archive (@thematcharchive)&lt;/p&gt;</content>
-    <published>2026-11-06T21:09:00Z</published>
-    <updated>2026-11-06T21:09:00Z</updated>
   </entry>
 </feed>
